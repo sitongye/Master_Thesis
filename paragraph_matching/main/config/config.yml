@@ -1,0 +1,86 @@
+FileLocation:
+    DATA_FOLDER: "C:/Users/Salome YE/OneDrive/Masterthese/data/processed_data"
+    TW_FOLDER: "TW"
+    EU_FOLDER: "EU_validated"
+    PAIRING_FILE: "TW_EU_similarity_pairs.csv"
+    OUTPUT_FOLDER: "C:/Users/Salome YE/OneDrive/Masterthese/paragraph_matching/result/porter"
+    GROUND_TRUTH: "C:/Users/Salome YE/OneDrive/Masterthese/data/processed_data/ground_truth"
+
+Generate:
+    - W2V
+    - D2V
+
+Preprocessing: # if trigram is True, bigram parapmeter will be ignored.
+    bigram: True
+    trigram: False
+    wordnet: False
+    porter: True
+
+
+Reporting: False
+Report_loc: "C:/Users/Salome YE/OneDrive/Masterthese/paragraph_matching/result/report"
+Modelling:
+    TFIDF:
+        config:
+        metrics:
+            cosine:
+                output: True
+                foldername: "tfidf_porter"
+    LSI:
+        config:
+            NUM_TOPIC: 200
+            NUM_BEST: 3   # output k best results
+
+        metrics:
+            cosine:
+                output: True
+                foldername: "lsi_porter"
+    WORD2VEC:
+        construct: True
+        config:
+            MODEL_DIR: "C:/Users/Salome YE/OneDrive/Masterthese/paragraph_matching/main/trained_models"
+            MODEL_NAME: "word2vec_bigram_porter.model"
+            PROGRESS_PER: 10000
+            MIN_COUNT: 20
+            SIZE: 300   # vector size
+            WINDOW: 3
+            ALPHA: 0.03
+            MIN_ALPHA: 0.0007
+            NEGATIVE: 0
+            WORKERS: 2
+            EPOCHS: 30
+            NUM_BEST: 3
+        metrics:
+            cosine:
+                output: True
+                foldername: "w2v_cosine_porter"
+            wmd:
+                output: True
+                foldername: "w2v_wmd_porter"
+    DOC2VEC:
+        construct: True
+        config:
+            MODEL_DIR: "C:/Users/Salome YE/OneDrive/Masterthese/paragraph_matching/main/trained_models"
+            MODEL_NAME: "d2v_bigram_porter.model"
+            PROGRESS_PER: 10000
+            MIN_COUNT: 20
+            SIZE: 300   # vector size
+            WINDOW: 3
+            ALPHA: 0.03
+            MIN_ALPHA: 0.0007
+            NEGATIVE: 0
+            WORKERS: 2
+            EPOCHS: 40
+            NUM_BEST: 3
+
+        metrics:
+            cosine:
+                output: True
+                foldername: "d2v_porter"
+
+    PHRASER:
+        config:
+            MIN_COUNT: 20
+            PROGRESS_PER: 10000
+
+
