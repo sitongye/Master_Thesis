@@ -1,0 +1,1020 @@
+[
+  [
+    "Part I: Vehicles of categories (1) M3, N2 and N3 (2) equipped with an SLD and to vehicles of categories M and N equipped with an adjustable speed limitation device ASLD which have not been separately approved according to Part III of this Regulation, or so designed and/or equipped that its component parts can be regarded as totally or partially fulfilling the function of an SLD or ASLD, as appropriate.",
+    {
+      "entities": [
+        [
+          35,
+          37,
+          "CATEGORY"
+        ],
+        [
+          39,
+          41,
+          "CATEGORY"
+        ],
+        [
+          46,
+          48,
+          "CATEGORY"
+        ],
+        [
+          104,
+          105,
+          "CATEGORY"
+        ],
+        [
+          110,
+          111,
+          "CATEGORY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Part II: The installation on vehicles of categories M3, N2 and N3 of SLDs and installation on vehicles of categories M and N of ASLD which have been type approved to Part III of this Regulation.",
+    {
+      "entities": [
+        [
+          52,
+          54,
+          "CATEGORY"
+        ],
+        [
+          56,
+          58,
+          "CATEGORY"
+        ],
+        [
+          63,
+          65,
+          "CATEGORY"
+        ],
+        [
+          117,
+          118,
+          "CATEGORY"
+        ],
+        [
+          123,
+          124,
+          "CATEGORY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Part III: SLDs which are intended to be fitted to vehicles of categories M3, N2 and N3 and ASLD which are intended to be fitted to vehicles of categories M and N.",
+    {
+      "entities": [
+        [
+          73,
+          75,
+          "CATEGORY"
+        ],
+        [
+          77,
+          79,
+          "CATEGORY"
+        ],
+        [
+          84,
+          86,
+          "CATEGORY"
+        ],
+        [
+          154,
+          155,
+          "CATEGORY"
+        ],
+        [
+          160,
+          162,
+          "CATEGORY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vehicles of categories M3, N2 and N3 shall be limited to a maximum speed achieved by a speed limitation device (SLD) or function (SLF).",
+    {
+      "entities": [
+        [
+          23,
+          25,
+          "CATEGORY"
+        ],
+        [
+          27,
+          29,
+          "CATEGORY"
+        ],
+        [
+          34,
+          36,
+          "CATEGORY"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vehicles of categories M1, N1 and M2 shall be limited to a speed voluntarily set by the driver by means of an adjustable speed limitation device (ASLD) or function (ASLF), when it is activated.",
+    {
+      "entities": [
+        [
+          23,
+          25,
+          "CATEGORY"
+        ],
+        [
+          27,
+          29,
+          "CATEGORY"
+        ],
+        [
+          34,
+          36,
+          "CATEGORY"
+        ],
+        [
+          59,
+          64,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vehicles of categories M3, N2 and N3 may in addition be equipped with an ASLD or an ASLF.",
+    {
+      "entities": [
+        [
+          23,
+          25,
+          "CATEGORY"
+        ],
+        [
+          27,
+          29,
+          "CATEGORY"
+        ],
+        [
+          34,
+          36,
+          "CATEGORY"
+        ]
+      ]
+    }
+  ],
+  [
+    "\u2018Limitation speed V\u2019 means the maximum speed of the vehicle such that its design or equipment does not permit a response after a positive action on the accelerator control;",
+    {
+      "entities": [
+        [
+          18,
+          19,
+          "SPEED"
+        ],
+        [
+          39,
+          44,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "\u2018Set speed Vset\u2019 means the intended mean vehicle speed when operating in a stabilised condition;",
+    {
+      "entities": [
+        [
+          11,
+          15,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "\u2018Stabilised speed Vstab\u2019 means the mean vehicle speed when operating in the condition specified in paragraph 1.1.4.2.3 of Annex 5 to this Regulation;",
+    {
+      "entities": [
+        [
+          18,
+          23,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "\u2018Maximum speed Vmax\u2019 is the maximum speed reached by the vehicle in the first half period of the response curve as defined in the figure of Annex 5 (para. 1.1.4.2.4);",
+    {
+      "entities": [
+        [
+          15,
+          19,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "\u2018Adjustable limit speed Vadj\u2019 means the speed voluntarily set by the driver;",
+    {
+      "entities": [
+        [
+          24,
+          28,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "\u2018Adjustable speed limitation function ASLF\u2019 means a function which allows the driver to set a vehicle speed Vadj, and when activated limits the vehicle automatically to that speed;",
+    {
+      "entities": [
+        [
+          108,
+          112,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "Requirements for vehicles of categories M3, N2 and N3 equipped with SLF",
+    {
+      "entities": [
+        [
+          40,
+          42,
+          "CATEGORY"
+        ],
+        [
+          44,
+          46,
+          "CATEGORY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Vadj value shall be permanently indicated to the driver and visible from the driver seat. This does not preclude temporary interruption of the indication for safety reasons or driver's demand.",
+    {
+      "entities": [
+        [
+          4,
+          8,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "The ASLF shall not actuate the vehicle's service braking system except for vehicles of categories M1 and N1, where the vehicle's service braking system may be actuated.",
+    {
+      "entities": [
+        [
+          98,
+          100,
+          "CATEGORY"
+        ],
+        [
+          105,
+          107,
+          "CATEGORY"
+        ]
+      ]
+    }
+  ],
+  [
+    "The vehicle speed shall be limited to Vadj.",
+    {
+      "entities": [
+        [
+          38,
+          42,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "It shall still be possible to exceed Vadj when tested in accordance with paragraph\u00a05.3.",
+    {
+      "entities": [
+        [
+          37,
+          41,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "To exceed Vadj a positive action will be required (4).",
+    {
+      "entities": [
+        [
+          10,
+          14,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "Whenever the vehicle speed is exceeding Vadj the driver must be informed by means of a suitable or warning signal other than the speedometer.",
+    {
+      "entities": [
+        [
+          40,
+          44,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "Setting of Vadj:",
+    {
+      "entities": [
+        [
+          11,
+          15,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "It shall be possible to set Vadj value by steps not greater than 10 km/h between 30 km/h and the maximum design speed of the vehicle.",
+    {
+      "entities": [
+        [
+          28,
+          32,
+          "SPEED"
+        ],
+        [
+          65,
+          72,
+          "QuantitativeValue"
+        ],
+        [
+          81,
+          88,
+          "QuantitativeValue"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the case of vehicles manufactured for sale in any country where imperial units are used, it shall be possible to set Vadj value by steps not greater than 5 mph between 20 mph and the maximum design speed of the vehicle.",
+    {
+      "entities": [
+        [
+          120,
+          124,
+          "SPEED"
+        ],
+        [
+          157,
+          162,
+          "QuantitativeValue"
+        ],
+        [
+          171,
+          177,
+          "QuantitativeValue"
+        ]
+      ]
+    }
+  ],
+  [
+    "When the ASLF is activated the initial setting of Vadj shall not be less than the current vehicle speed.",
+    {
+      "entities": [
+        [
+          50,
+          54,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "The speed limitation tests to which the vehicle presented for approval is submitted as well as the limitation performances required, are described in Annex 5 of this Regulation. At the request of the manufacturer and with the agreement of the type approval authority, vehicles whose theoretical limitation speed V does not exceed the set speed Vset defined for those vehicles may be exempt from the testing of Annex 5 providing the requirements of this Regulation are met.",
+    {
+      "entities": [
+        [
+          312,
+          313,
+          "SPEED"
+        ],
+        [
+          344,
+          348,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "The set speed Vset must not, in any case, be capable of being increased or removed temporarily or permanently on vehicles in use. The inviolability shall be demonstrated to the technical service with documentation analysing the failure mode in which the system will be globally examined. The analysis shall show, taking into account the different states taken by the system, the consequences of a modification of the input or output states on the functioning, the possibilities to obtain these modifications by failures or by voluntary violation and the possibility of their occurrence. The analysis level will be always to the first failure.",
+    {
+      "entities": [
+        [
+          14,
+          18,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Vadj value shall be permanently indicated to the driver by a visual display. This does not preclude temporary interruption of the display for safety reasons.",
+    {
+      "entities": [
+        [
+          4,
+          8,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "The method used to limit speed when reaching Vadj must be possible whichever transmission type (automatic or manual) of the vehicle.",
+    {
+      "entities": [
+        [
+          45,
+          49,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "The vehicle speed shall be limited to Vadj.",
+    {
+      "entities": [
+        [
+          38,
+          42,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "It shall still be possible to exceed speed Vadj.",
+    {
+      "entities": [
+        [
+          43,
+          47,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "It shall be possible to set Vadj value by steps no greater than 10 km/h (5 mph) between 30 km/h (20 mph) and the maximum design max speed of the vehicle.",
+    {
+      "entities": [
+        [
+          28,
+          32,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the case of vehicles manufactured for sale in any country where imperial units are used, it shall be possible to set Vadj value by steps not greater than 5 mph between 20 mph and the maximum design speed of the vehicle.",
+    {
+      "entities": [
+        [
+          120,
+          124,
+          "SPEED"
+        ],
+        [
+          157,
+          177,
+          "QuantitativeValue"
+        ],
+        [
+          201,
+          206,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "When Vadj is set by the driver it shall not capable of being modified by any means other than the designated control device.",
+    {
+      "entities": [
+        [
+          5,
+          9,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "V\u00a0= \u2026\u00a0km/h",
+    {
+      "entities": [
+        [
+          0,
+          1,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "The stabilised speed reached by the vehicle shall not exceed the set speed (Vstab s Vset). However, a tolerance of 5 % of the Vset value, or 5 km/h, whichever is the greater, is acceptable;",
+    {
+      "entities": [
+        [
+          76,
+          81,
+          "SPEED"
+        ],
+        [
+          84,
+          88,
+          "SPEED"
+        ],
+        [
+          126,
+          130,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "After the stabilised speed is reached for the first time:",
+    {
+      "entities": [
+        [
+          21,
+          26,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "The power absorbed by the brake during the test shall be set to correspond with the vehicle's resistance to progress at the tested speed(s). This power may be established by calculation and shall be set to an accuracy of \u00b110 %. At the request of the applicant, and with the agreement of the competent authority, the power absorbed may alternatively be set at 0,4 Pmax (Pmax is the maximum power of the engine). The vehicle running at a speed which is 10 km/h below the set speed Vset shall be accelerated at the maximum possibilities of the engine by using a fully positive action on the acceleration control. This action shall be maintained at least 20 seconds after the vehicle speed has been stabilised. The instantaneous vehicle speed shall be recorded during the test in order to draw the curve of the speed versus time during the operation of the speed limiting function/adjustable speed limitation function or of the SLD/ASLD as appropriate.",
+    {
+      "entities": [
+        [
+          479,
+          483,
+          "SPEED"
+        ]
+      ]
+    }
+  ],
+  [
+    "The vehicle shall be installed on the chassis dynamometer. The following acceptance criteria should be met for power absorbed by the chassis dynamometer varying progressively from the maximum power Pmax to a value equal to 0,2 Pmax. The speed of the vehicle shall be recorded in the full range of power defined above. The maximum speed of the vehicle shall be determined on this range. Test and record defined above should be made five times.",
+    {
+      "entities": [
+        [
+          198,
+          202,
+          "POWER"
+        ],
+        [
+          223,
+          231,
+          "QuantitativeValue"
+        ]
+      ]
+    }
+  ],
+  [
+    "Second test: frequency range 24\u20131 000 Hz for chassis and cab-mounted components, input 2,5 g. For engine-mounted components, input 5 g.",
+    {
+      "entities": [
+        [
+          87,
+          93,
+          "QuantitativeValue"
+        ],
+        [
+          125,
+          132,
+          "QuantitativeValue"
+        ]
+      ]
+    }
+  ],
+  [
+    "The test surface shall be suitable for enabling stabilised speed to be maintained and shall be free from uneven patches. Gradients shall not exceed 2 %.",
+    {
+      "entities": [
+        [
+          148,
+          151,
+          "QuantitativeValue"
+        ]
+      ]
+    }
+  ],
+  [
+    "The mean wind speed measured at a height of at least 1 m above the ground shall be less than 6 m/s with gusts not exceeding 10 m/s.",
+    {
+      "entities": [
+        [
+          93,
+          98,
+          "QuantitativeValue"
+        ],
+        [
+          124,
+          130,
+          "QuantitativeValue"
+        ]
+      ]
+    }
+  ],
+  [
+    "Test for the driver being informed that Vadj is being exceeded",
+    {
+      "entities": [
+        [
+          40,
+          44,
+          "Speed"
+        ]
+      ]
+    }
+  ],
+  [
+    "The positive action (as referred to in paragraphs 5.2.5.4.1 and 21.2.5.4.1) required to enable Vadj to be exceeded shall be applied when the vehicle is running at a speed 10 km/h below Vadj.",
+    {
+      "entities": [
+        [
+          95,
+          99,
+          "Speed"
+        ],
+        [
+          171,
+          178,
+          "QuantitativeValue"
+        ],
+        [
+          185,
+          189,
+          "Speed"
+        ]
+      ]
+    }
+  ],
+  [
+    "The vehicle shall be accelerated up to a speed at least 10 km/h greater than Vadj.",
+    {
+      "entities": [
+        [
+          56,
+          63,
+          "QuantitativeValue"
+        ],
+        [
+          77,
+          81,
+          "Speed"
+        ]
+      ]
+    }
+  ],
+  [
+    "This speed shall be maintained for at least 30 seconds.",
+    {
+      "entities": [
+        [
+          44,
+          54,
+          "QuantitativeValue"
+        ]
+      ]
+    }
+  ],
+  [
+    "Instantaneous vehicle speed shall be recorded during the test and measured with an accuracy of \u00b11 %.",
+    {
+      "entities": [
+        [
+          95,
+          99,
+          "QuantitativeValue"
+        ]
+      ]
+    }
+  ],
+  [
+    "The driver is informed by a warning signal when the actual speed of the vehicle is exceeding Vadj by more than 3 km/h.",
+    {
+      "entities": [
+        [
+          59,
+          64,
+          "Speed"
+        ],
+        [
+          93,
+          97,
+          "Speed"
+        ],
+        [
+          111,
+          117,
+          "QuantitativeValue"
+        ]
+      ]
+    }
+  ],
+  [
+    "The driver continues to be informed for the duration of the time that Vadj is exceeded by more than 3 km/h.",
+    {
+      "entities": [
+        [
+          70,
+          74,
+          "Speed"
+        ],
+        [
+          100,
+          106,
+          "QuantitativeValue"
+        ]
+      ]
+    }
+  ],
+  [
+    "With the ASLF/D deactivated, for each gear ratio selected for the chosen test speed Vadj, the technical service shall measure the forces required on the accelerator control to maintain Vadj and a speed (Vadj*), which is 20 per cent or 20 km/h (whichever is the greater) faster than Vadj.",
+    {
+      "entities": [
+        [
+          84,
+          88,
+          "Speed"
+        ],
+        [
+          185,
+          189,
+          "Speed"
+        ],
+        [
+          203,
+          207,
+          "Speed"
+        ],
+        [
+          220,
+          231,
+          "QuantitativeValue"
+        ],
+        [
+          235,
+          242,
+          "QuantitativeValue"
+        ],
+        [
+          282,
+          286,
+          "Speed"
+        ]
+      ]
+    }
+  ],
+  [
+    "With the ASLF/D activated and set at Vadj, the vehicle shall be run at a speed of 10 km/h below Vadj. The vehicle shall then be accelerated by increasing the force on the accelerator control over a period of 1 s \u00b1 0,2 s to that required to attain Vadj*. This force shall then be maintained for a period of at least 30 seconds, after the vehicle speed has stabilised.",
+    {
+      "entities": [
+        [
+          37,
+          41,
+          "Speed"
+        ],
+        [
+          82,
+          89,
+          "QuantitativeValue"
+        ],
+        [
+          208,
+          211,
+          "QuantitativeValue"
+        ],
+        [
+          212,
+          219,
+          "QuantitativeValue"
+        ],
+        [
+          247,
+          251,
+          "Speed"
+        ],
+        [
+          315,
+          325,
+          "QuantitativeValue"
+        ],
+        [
+          345,
+          350,
+          "Speed"
+        ]
+      ]
+    }
+  ],
+  [
+    "The instantaneous vehicle speed shall be recorded during the test in order to establish the curve of the speed versus the time and during the operation of the ASLF/D as appropriate. The accuracy of the speed measurement shall be \u00b11 %. The accuracy of the time measurement shall be less than 0,1 s.",
+    {
+      "entities": [
+        [
+          229,
+          233,
+          "QuantitativeValue"
+        ],
+        [
+          291,
+          297,
+          "QuantitativeValue"
+        ]
+      ]
+    }
+  ],
+  [
+    "The stabilised speed (Vstab) reached by the vehicle shall not exceed Vadj by more than 3 km/h",
+    {
+      "entities": [
+        [
+          22,
+          27,
+          "Speed"
+        ],
+        [
+          87,
+          93,
+          "QuantitativeValue"
+        ]
+      ]
+    }
+  ],
+  [
+    "After Vstab is reached for the first time:",
+    {
+      "entities": [
+        [
+          6,
+          11,
+          "Speed"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vmax shall not exceed Vstab by more than 5 %;",
+    {
+      "entities": [
+        [
+          0,
+          4,
+          "Speed"
+        ],
+        [
+          22,
+          27,
+          "Speed"
+        ],
+        [
+          41,
+          44,
+          "QuantitativeValue"
+        ]
+      ]
+    }
+  ],
+  [
+    "the rate of change of speed shall not exceed 0,5 m/s2 when measured over a period greater than 0,1 s;",
+    {
+      "entities": [
+        [
+          45,
+          53,
+          "QuantitativeValue"
+        ],
+        [
+          95,
+          100,
+          "QuantitativeValue"
+        ]
+      ]
+    }
+  ],
+  [
+    "the stabilised speed conditions specified in 1.5.4.1.1 shall be attained within 10 s of first reaching Vstab;",
+    {
+      "entities": [
+        [
+          80,
+          84,
+          "QuantitativeValue"
+        ],
+        [
+          103,
+          108,
+          "Speed"
+        ]
+      ]
+    }
+  ],
+  [
+    "speed shall not vary by more than 3 km/h of Vadj;",
+    {
+      "entities": [
+        [
+          34,
+          40,
+          "QuantitativeValue"
+        ],
+        [
+          44,
+          48,
+          "Speed"
+        ]
+      ]
+    }
+  ],
+  [
+    "the rate of change of speed shall not exceed 0,2 m/s2 when measured over a period greater than 0,1 s;",
+    {
+      "entities": [
+        [
+          45,
+          53,
+          "QuantitativeValue"
+        ],
+        [
+          95,
+          100,
+          "QuantitativeValue"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vstab is the average speed calculated for a minimum time interval of 20 seconds beginning 10 seconds after first reaching Vstab;",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "Speed"
+        ],
+        [
+          69,
+          79,
+          "QuantitativeValue"
+        ],
+        [
+          90,
+          100,
+          "QuantitativeValue"
+        ],
+        [
+          122,
+          127,
+          "Speed"
+        ]
+      ]
+    }
+  ],
+  [
+    "Tests in acceleration shall be carried out and the acceptance criteria verified for each gear ratio allowing in theory Vadj* to be achieved.",
+    {
+      "entities": [
+        [
+          119,
+          123,
+          "Speed"
+        ]
+      ]
+    }
+  ]
+]
