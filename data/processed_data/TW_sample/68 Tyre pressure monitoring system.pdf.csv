@@ -1,0 +1,99 @@
+Index,Text
+68,"Tyre pressure monitoring system Refer to: R64 02-S2, R141 00"
+68.1,Effective Date and Scope:
+68.1.1,"Effective from 2014/11/1, the new vehicle variant of category M1, and from 2016/7/1 all vehicle variant of category M1, shall comply with this regulation."
+68.1.2,"Effective from 2014/11/1, the new vehicle variant of category N1, and from 2016/7/1 all vehicle variant of category N1, shall comply with this regulation."
+68.1.3,This regulation applies to the design of single tyre on each axle of vehicle only.
+68.2,DefinitionspÉ
+68.2.1,Wheel: means a complete wheel consisting of a rim and a wheel disc.
+68.2.2,"Tyre: means a pneumatic tyre, being a reinforced flexible envelope that is provided with, or forms in conjunction with the wheel on which it is mounted, a continuous, essentially toroidal, closed chamber containing a gas (usually air) or a gas and liquid, that is intended normally to be used at a pressure greater than atmospheric pressure."
+68.2.3,Maximum mass: means the maximum value of the vehicle stated by the manufacturer to be technically permissible.
+68.2.4,"Maximum axle load: means the maximum value, as indicated by the manufacturer, of the total vertical force between the contact surfaces of the tyres or tracks of one axle and the ground and resulting from the part of the vehicle mass supported by that axle; this load may be higher than the ""authorized axle load"" laid down by the national administration. The sum of the axle loads may be greater than the value corresponding to the total mass of the vehicle."
+68.2.5,"Tyre pressure Monitoring System (TPMS): means a system fitted on a vehicle, able to perform a function to evaluate the inflation pressure of the tyres or the variation of this inflation pressure over time and to transmit corresponding information to the user while the vehicle is running."
+68.2.6,"Cold tyre inflation pressure: means the tyre pressure at ambient temperature, in the absence of any pressure build-up due to tyre usage."
+68.2.7,"Recommended cold inflation pressure (Prec): means the pressure recommended for each tyre position by the vehicle manufacturer, for the intended service conditions (e.g. speed and load) of the given vehicle, as defined on the vehicle placard and/or the vehicle owner's manual."
+68.2.8,In service operating pressure (Pwarm): means the inflation pressure for each tyre position elevated from the cold pressure (Prec) by temperature effects during vehicle usage.
+68.2.9,Test Pressure (Ptest): means the actual pressure of the tyre(s) selected for each tyre position after deflation during the test procedure. 
+68.3,Tyre pressure monitoring system shall according to suitable variants and range of principle are as below:
+68.3.1,The same brand and the vehicle type.
+68.3.2,The same principle of operation.
+68.3.3,Any components which are likely to have a significant influence on the performance of the system as specified under Paragraph- to this regulation.
+68.4,Specifications and tests
+68.4.1,Applicants apply for certification test shall provide at least testing vehicle (or the essential part of vehicle for test) and submit the documents as below:
+68.4.1.1,"Vehicle specification documents, drawings and/or photographs described  Paragraph-."
+68.4.1.1.1,Mass of the vehicle when tested: front axle/rear axle/total mass.
+68.4.1.1.2,Marking and wheel size(s) of standard unit equipment.
+68.4.1.1.3,Brief description of the tyre pressure monitoring system.
+68.4.1.2,"Information about reset status of the tyre pressure monitoring system, as Paragraph-."
+68.4.1.3,"Installation description of rim position, as Paragraph-."
+68.4.1.4,"Speed, load conditions, tyre positions and cold inflation pressure for testing vehicle, as Paragraph-."
+68.4.1.5,"Instruction of system reset procedure, as Paragraph-."
+68.4.1.6,Documents described  Paragraph-.
+68.4.1.7,Required documents for carry out the test of this regulation.
+68.4.2,General
+68.4.2.1,M1 and N1 vehicles equipped with TPMS (according  Paragraph-) shall conform  Paragraph- to
+68.4.6.5,as below.
+68.4.2.2,"The effectiveness of the tyre pressure monitoring system fitted on a vehicle shall not be adversely affected by magnetic of electrical fields. Conformity with technical requirements, to the amendment in force at the time of type approval shall be demonstrated."
+68.4.2.3,"The system shall operate from a speed of 40 km/h or below, up to the vehicles maximum design speed."
+68.4.2.4,"The vehicle shall fulfil the tests (Puncture, diffusion and malfunction) requirements, which regulated  Paragraph-."
+68.4.3,Tyre pressure detection for incident-related pressure loss.
+68.4.3.1,"The TPMS shall illuminate the warning signal described  Paragraph-. within not more than ten minutes of cumulative driving time  after the in service operating pressure in one of the vehicles tyres has been reduced by twenty per cent or it is at a minimum pressure of 150kPa, whatever is higher."
+68.4.4,Detection for a tyre pressure level significantly below the recommended pressure for optimum performance including fuel consumption and safety.
+68.4.4.1,"The TPMS shall illuminate the warning signal described  Paragraph- within not more than sixty minutes of cumulative driving time after the in-service operating pressure in any of the vehicles tyres, up to a total of four tyres, has been reduced by twenty percent or it is at a minimum pressure of 150kPa, whatever is higher."
+68.4.5,Malfunction detection.
+68.4.5.1,The TPMS shall illuminate the warning signal described  Paragraph-. not more than 10minutes after the occurrence of a malfunction that affects the generation or transmission of control or response signals in the vehicles tyre pressure monitoring system.
+68.4.6,Warning indication
+68.4.6.1,"The warning indication shall be by means of an optical warning signal conforming to The location and identification of hand controls, tell-tales and indicators of VSTD."
+68.4.6.2,The warning signal shall be activated when the ignition (start) switch is in the on: (run) position (bulb check). This requirement does not apply to tell-tales shown in a common space.
+68.4.6.3,The warning signal must be visible even by daylight; the satisfactory condition of the signal must be easily verifiable by the driver from drivers seat.
+68.4.6.4,"The malfunction indication may be the same warning signal as the one used to indicate under-inflation. If the warning signal described  Paragraph- is used to indicate both under- inflation and a malfunction of the TPMS the following shall apply: with the ignition (start) switch in the on (run) position, the warning signal shall flash to indicate a malfunction. After a short period of time the warning signal shall remain continuously illuminated as long as the malfunction exists and the ignition (start) switch is in the on (run) position. The flashing and illumination sequence shall be repeated each time the ignition (start) switch is in the on (run) position until the malfunction has been corrected."
+68.4.6.5,The tell-tale of the warning described  Paragraph- may be used in a flashing mode in order to provide information about the reset status of the tyre pressure monitoring system in accordance with the owners manual of the vehicle.
+68.5,Tests for Tyre Pressure Monitoring Systems (TPMS)
+68.5.1,Test conditions 
+68.5.1.1,Ambient temperature The ambient temperature shall be between 0 degrees C and 40 degrees C.
+68.5.1.2,Road test surface The road shall have a surface affording good adhesion. The road surface shall be dry during testing.
+68.5.1.3,The tests shall be conducted in an environment free of interferences from radio wave.
+68.5.1.4,Vehicle conditions
+68.5.1.4.1,"Test weight The vehicle may be tested at any condition of load, the distribution of the mass among the axles being that stated by the vehicle manufacturer without exceeding any of the maximum permissible mass for each axle. However, in the case where there is no possibility to set or reset the system, the vehicle shall be unladen. There may be, in addition to the driver, a second person on the front seat who is responsible for noting the results of the tests. The load condition shall not be modified during the test."
+68.5.1.4.2,"Vehicle speed The TPMS shall be calibrated and tested: p·ap¸In a speed range from 40 km/h and 120 km/h or the vehicle's maximum design speed if it is less than 120 km/h for the puncture test to verify the requirements  Paragraph-. to this Regulation; and p·bp¸In a speed range from 40 km/h and 100 km for the diffusion test to verify the requirements  Paragraph- to this Regulation and for the malfunction test to verify the requirements  Paragraph-. to this Regulation. The whole speed range shall be covered during the test. For vehicles equipped with cruise control, the cruise control shall not be engaged during testing."
+68.5.1.4.3,"Rim position The vehicle rims may be positioned at any wheel position, consistent with any related instructions or limitations from the vehicle's manufacturer."
+68.5.1.4.4,"Stationary location When the vehicle is parked, the vehicle's tyres shall be shaded from direct sun. The location shall be shielded from any wind that may affect the results. "
+68.5.1.4.5,Brake pedal application Driving time shall not accumulate during service brake application while the vehicle is moving.
+68.5.1.4.6,"Tyres The vehicle shall be tested with the tyres installed on the vehicle according to the vehicle manufacturer's recommendation. However, the spare tyre may be utilised for testing TPMS malfunction."
+68.5.1.5,Accuracy of pressure measurement equipment. Pressure measurement equipment to be used for the tests contained in this annex shall be accurate to at least +/-3kPa.
+68.5.2,"Test procedure The test shall be performed at a test speed within the range in accordance with Paragraph-. to this annex, at least once for the test case according  Paragraph- (""puncture test""), and at least once for each test case according  Paragraph- (""diffusion test"")."
+68.5.2.1,"Before inflating the vehicle's tyres, leave the vehicle stationary outside at ambient temperature with the engine off shaded from direct sunlight and not exposed to wind or other heating or chilling influences for at least one hour. Inflate the vehicle's tyres to the vehicle manufacturer's recommended cold inflation pressure (Prec), in accordance with the vehicle manufacturer's recommendation for the speed and load conditions, and tyre positions. All pressure measurements shall be carried out using the same test equipment."
+68.5.2.2,"With the vehicle stationary and the ignition locking system in the ""Lock"" or ""Off"" position, activate the ignition locking system to the ""On"" or ""Run"" position. The tyre pressure monitoring system shall perform a check of lamp function for the low tyre pressure tell-tale as specified  Paragraph-. of this Regulation. This last requirement does not apply to tell-tales shown in a common space."
+68.5.2.3,"If applicable, set or reset the tyre pressure monitoring system in accordance with the vehicle manufacturer's recommendations."
+68.5.2.4,Learning phase
+68.5.2.4.1,"Drive the vehicle for a minimum of 20 minutes within the speed range  Paragraph-., and with an average speed of 80 km/h (+/-10 km/h). It is allowed to be outside the speed range for a maximum cumulative time of 2 minutes during the learning phase."
+68.5.2.4.2,"At the discretion of the Technical Service, where the driving test is undertaken on a track (circle/oval) with only turns in a single direction, then the driving test  Paragraph- above should be equally split (+/-2 minutes) in both directions."
+68.5.2.4.3,"Within the 5 minutes of completing the learning phase, measure the warm pressure of the tyre(s) to be deflated. The warm pressure shall be taken as the value Pwarm. This value will be used for subsequent operations."
+68.5.2.5,Deflation phase 
+68.5.2.5.1,"Procedure for the puncture test to verify the requirements  Paragraph-. to this Regulation. Deflate one of the vehicle's tyres within 5 minutes of measuring the warm pressure as described  Paragraph-. above, until it is at Pwarm -20 percent, or it is at a minimum pressure of 150 kPa, whichever is higher, namely Ptest. Following a stabilisation period of between 2 and 5 minutes the pressure Ptest shall be rechecked and adjusted if necessary."
+68.5.2.5.2,"Procedure for the diffusion test to verify the requirements  Paragraph-. to this Regulation. Deflate all four tyres within 5 minutes of measuring the warm pressure as described  Paragraph-. above, until the deflated tyres are at Pwarm - 20 per cent plus a further deflation of 7 kPa, namely Ptest. Following a stabilisation period of between 2 and 5 minutes the pressure Ptest shall be rechecked and adjusted if necessary."
+68.5.2.6,Low tyre pressure detection phase
+68.5.2.6.1,Procedure for the puncture test to verify the requirements  Paragraph-. to this Regulation.
+68.5.2.6.1.1,Drive the vehicle along any portion of the test course (not necessarily continuously). The sum of the total cumulative drive time shall be the lesser of 10 minutes or the time at which the low tyre pressure tell-tale illuminates.
+68.5.2.6.2,Procedure for the diffusion test to verify the requirements  Paragraph-. to this Regulation.
+68.5.2.6.2.1,Drive the vehicle along any portion of the test course. After not less than 20 minutes and not more than 40 minutes bring the vehicle to a complete standstill with the engine switched off and the ignition key removed for not less than 1 minute or more than 3 minutes. Resume the test. The sum of the total cumulative drive time shall be the lesser of 60 minutes of cumulative driving under the conditions set out  Paragraph-. above or the time at which the low tyre pressure tell-tale illuminates.
+68.5.2.6.3,"If the low tyre pressure signal did not illuminate, discontinue the test."
+68.5.2.7,"If the low tyre pressure tell-tale illuminated during the procedure  Paragraph-. above, deactivate the ignition locking system to the ""Off"" or ""Lock"" position. After a 5 minutes period, reactivate the vehicle's ignition locking system to the ""On"" (""Run"") position. The tell-tale must illuminate and remain illuminated as long as the ignition locking system is in the ""On"" (""Run"") position."
+68.5.2.8,"Inflate all of the vehicle's tyres to the vehicle manufacturer's recommended cold inflation pressure. Reset the system in accordance with the instructions of the vehicle manufacturer. Determine whether the tell-tale has extinguished. If necessary, drive the vehicle until the tell-tale has been extinguished. If the tell-tale does not extinguish, discontinue the test."
+68.5.2.9,"Repetition of the deflation phase  The test may be repeated, at the same or different loads, using the relevant test procedures  Paragraph-. to 68.5.2.8. above, with the relevant tyre(s)on the vehicle under-inflated, in accordance with the provisions  Paragraph- Paragraph- to this Regulation, whichever is relevant."
+68.5.3,TPMS malfunction detection
+68.5.3.1,"Simulate a TPMS malfunction, for example, by disconnecting the power source to any TPMS component, disconnecting any electrical connection between TPMS components, or installing a tyre or wheel on the vehicle that is incompatible with the TPMS. When simulating a TPMS malfunction, the electrical connections for the tell-tale lamps shall not be disconnected."
+68.5.3.2,Drive the vehicle for up to 10 minutes of cumulative time (not necessarily continuously) along any portion of the test course.
+68.5.3.3,The sum of the total cumulative drive time under Paragraph-. shall be the lesser of 10 minutes or the time at which the TPMS malfunction tell-tale illuminates.
+68.5.3.4,"If the TPMS malfunction indicator did not illuminate in accordance with Paragraph-. to this Regulation, as required, discontinue the test."
+68.5.3.5,If the TPMS malfunction indicator is illuminated or illuminates during the procedure  Paragraph- to
+68.5.3.3,"above, deactivate the ignition locking system to the ""Off"" or ""Lock"" position. After 5 minutes, reactivate the vehicle's ignition locking system to the ""On"" (""Run"") position. The TPMS malfunction indicator shall again signal a malfunction and remain illuminated as long as the ignition locking system is in the ""On"" (""Run"") position."
+68.5.3.6,"Restore the TPMS to normal operation. If necessary, drive the vehicle until the warning signal has extinguished. If the warning lamp has not extinguished, discontinue the test."
+68.5.3.7,The test may be repeated using the test procedures  Paragraph- to
+68.5.3.6,"above, with each such test limited to simulation of a single malfunction."
+68.6,Supplementary information
+68.6.1,"The owners manual, if any, of the vehicle shall contain at least the following information:"
+68.6.1.1,"A statement that the vehicle is equipped with such a system (and information how to reset the system, if the actual system includes such a feature)."
+68.6.1.2,"An image of the tell-tale symbol described  Paragraph-. (and an image of the malfunction tell-tale symbol, if a dedicated tell-tale is used for this function). "
+68.6.1.3,Additional information about the significance of the low tyre pressure warning tell-tale illuminating and a description of the corrective action to be undertaken if this happens.
+68.6.2,"If no owners manual is supplied with the vehicle, the information required  Paragraph-. above shall be displayed in a prominent place on the vehicle."

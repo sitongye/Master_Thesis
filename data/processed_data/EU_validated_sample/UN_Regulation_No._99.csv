@@ -1,0 +1,105 @@
+paragraph,Text
+<PARAGRAPH 1.>,Scope This Regulation applies to gas-discharge light sources shown in Annex-1 to this Regulation and intended for use in approved gas-discharge lamp units of power-driven vehicles.
+<PARAGRAPH 2.>,Administrative provisions
+<PARAGRAPH 2.1.>,Definitions
+<PARAGRAPH 2.1.1.>,"The term ""category"" is used in this Regulation to describe different basic design of standardized gas-discharge light sources. Each category has a specific designation, as for example: ""D2S""."
+<PARAGRAPH 2.1.2.>,"""Gas-discharge light sources of different types"" are gas-discharge light sources within the same category which differ in such essential respects as:"
+<PARAGRAPH 2.1.2.1.>,Trade name or mark; that means: (a) Gas-discharge light sources bearing the same trade name or mark but produced by different manufacturers are considered as being of different types. (b) Gas-discharge light sources produced by the same manufacturer differing only by the trade name or mark may be considered to be of the same type;
+<PARAGRAPH 2.1.2.2.>,"Bulb and/or cap design, in so far as these differences affect the optical results."
+<PARAGRAPH 2.2.>,Application for approval
+<PARAGRAPH 2.2.1.>,"Application for approval shall be submitted by the owner of the trade name or mark, or by his duly accredited representative."
+<PARAGRAPH 2.2.2.>,Every application for approval shall be accompanied (see also Paragraph-2.4.2. below) by:
+<PARAGRAPH 2.2.2.1.>,"Drawings in triplicate, sufficiently detailed to permit identification of the type;"
+<PARAGRAPH 2.2.2.2.>,"A technical description including, if the ballast is not integrated with the light source, ballast identification;"
+<PARAGRAPH 2.2.2.3.>,Three samples of each colour which has been applied for;
+<PARAGRAPH 2.2.2.4.>,One sample of the ballast in case the ballast is not integrated with the light source.
+<PARAGRAPH 2.2.3.>,"In the case of a type of gas-discharge light source differing only by the trade name or mark from a type that has already been approved it shall be sufficient to submit: A selective yellow bulb or an additional selective yellow outer bulb, solely intended to change the colour but not the other characteristics of a gas-discharge light source emitting white light, does not constitute a change of type of the gas-discharge light source."
+<PARAGRAPH 2.2.3.1.>,"A declaration by the manufacturer that the type submitted is identical (except in the trade name or mark) to and has been produced by the same manufacturer as, the type already approved, the latter being identified by its approval code;"
+<PARAGRAPH 2.2.3.2.>,Two samples bearing the new trade name or mark.
+<PARAGRAPH 2.2.4.>,The Type Approval Authority shall verify the existence of satisfactory arrangements for ensuring effective control of the conformity of production before type approval is granted.
+<PARAGRAPH 2.3.>,Inscriptions
+<PARAGRAPH 2.3.1.>,Gas-discharge light sources submitted for approval shall bear on the cap or bulb:
+<PARAGRAPH 2.3.1.1.>,The trade name or mark of the applicant;
+<PARAGRAPH 2.3.1.2.>,The international designation of the relevant category;
+<PARAGRAPH 2.3.1.3.>,The rated wattage; this need not to be indicated separately if it is part of the international designation of the relevant category;
+<PARAGRAPH 2.3.1.4.>,A space of sufficient size to accommodate the approval mark.
+<PARAGRAPH 2.3.2.>,The space mentioned in Paragraph-2.3.1.4. above shall be indicated in the drawings accompanying the application for approval.
+<PARAGRAPH 2.3.3.>,Other inscriptions than those covered Paragraph-2.3.1. above Paragraph-2.4.4. below may be affixed on the cap.
+<PARAGRAPH 2.3.4.>,"In case the ballast is not integrated with the light source, the ballast used for the type approval of the light source shall be marked with type and trade mark identification and with the rated voltage and wattage, as indicated on the relevant lamp data sheet."
+<PARAGRAPH 2.4.>,Approval
+<PARAGRAPH 2.4.1.>,"If all samples of a type of gas-discharge light source which are submitted in accordance with Paragraph-2.2.2.3. Paragraph-2.2.3.2. above comply with the requirements of this Regulation, when tested with the ballast according to Paragraph-2.2.2.4. in case the ballast is not integrated with the light source, approval shall be granted."
+<PARAGRAPH 2.4.2.>,An approval code shall be assigned to each type approved. Its first character shall indicate the series of amendments incorporating the most recent major technical amendments made to the Regulation at the time of issue of the approval. This will be followed by an identification code comprising not more than three characters. Only the Arabic numerals and capital letters listed in footnote2 shall be used. The same Contracting Party may not assign the same code to another type of gas-discharge light source. If the applicant so desires the same approval code 2 0 1 2 3 4 5 6 7 8 9 A B C D E F G H J K L M N P R S T U V W X Y Z may be assigned to both gas-discharge light sources emitting white and selective yellow light (see Paragraph-2.1.2. above).
+<PARAGRAPH 2.4.3.>,"Notice of approval or of extension or refusal or withdrawal of approval or production definitively discontinued of a type of gas-discharge light source pursuant to this Regulation shall be communicated to the Parties of the Agreement which apply this Regulation by means of a form conforming to the model in Annex-2 to this Regulation and of a drawing, supplied by the applicant for approval in a format not exceeding A4 (210 x 297 mm) and on a scale of at least 2 : 1."
+<PARAGRAPH 2.4.4.>,"To every gas-discharge light source conforming to a type approved under this Regulation there shall be affixed in the space referred to in Paragraph-2.3.1.4. above, in addition to the inscriptions required under Paragraph-2.3.1. above, an international approval mark consisting of:"
+<PARAGRAPH 2.4.4.1.>,"A truncated circle surrounding the letter ""E"" followed by the distinguishing number of the country which has granted approval;"
+<PARAGRAPH 2.4.4.2.>,"The approval code, placed close to the truncated circle."
+<PARAGRAPH 2.4.5.>,"If the applicant has obtained the same approval code for several trade names or marks, one or more of them will suffice to meet the requirements of Paragraph-2.3.1.1 above."
+<PARAGRAPH 2.4.6.>,The marks and inscriptions specified in Paragraph-2.3.1. Paragraph-2.4.3. above shall be clearly legible and be indelible.
+<PARAGRAPH 2.4.7.>,Annex-3 to this Regulation gives an example of arrangement of the approval mark.
+<PARAGRAPH 3.>,Technical requirements
+<PARAGRAPH 3.1.>,Definitions
+<PARAGRAPH 3.1.1.>,"""Gas-discharge light source"": light source in which the light is produced by a stabilized discharge arc."
+<PARAGRAPH 3.1.2.>,"""Ballast"": Specific electrical supply for the gas-discharge light source, optionally integrated with the light source."
+<PARAGRAPH 3.1.3.>,"""Rated voltage"": Input voltage marked on the ballast or on the light source in the case that the ballast is integrated with the light source."
+<PARAGRAPH 3.1.4.>,"""Rated wattage"": Wattage marked on the gas-discharge light source and ballast."
+<PARAGRAPH 3.1.5.>,"""Test voltage"": Voltage, at the input terminals of the ballast or at the terminals of the light source in the case that the ballast is integrated with the light source, for which the electrical and photometric characteristics of the gas-discharge light source are intended and are to be tested."
+<PARAGRAPH 3.1.6.>,"""Objective value"": Design value of an electrical or photometric characteristic. To be achieved, within the specified tolerances, when the gas-discharge light source is energized by the ballast, optionally integrated with the light source, and operated at test voltage."
+<PARAGRAPH 3.1.7.>,"""Standard (etalon) gas-discharge light source"": Special gas-discharge light source used for the testing of headlamps. It has reduced dimensional, electrical and photometric characteristics as specified on the relevant data sheet."
+<PARAGRAPH 3.1.8.>,"""Reference axis"": An axis defined with reference to the cap and to which certain dimensions of the gas-discharge light source are referred."
+<PARAGRAPH 3.1.9.>,"""Reference plane"": a plane defined with reference to the cap and to which certain dimensions of the gas-discharge light source are referred."
+<PARAGRAPH 3.2.>,General specifications
+<PARAGRAPH 3.2.1.>,"Each sample submitted shall conform to the relevant specifications of this Regulation when tested, in the case the ballast is not integrated with the light source with the ballast according to Paragraph-2.2.2.4 above."
+<PARAGRAPH 3.2.2.>,Gas-discharge light sources shall be so designed as to be and to remain in good working order when in normal use. They shall moreover exhibit no fault in design or manufacture.
+<PARAGRAPH 3.3.>,Manufacture
+<PARAGRAPH 3.3.1.>,The bulb of the gas-discharge light source shall exhibit no scores or spots which might impair their efficiency and their optical performance.
+<PARAGRAPH 3.3.2.>,"In the case of a coloured (outer) bulb, after an operating period of 15 hours with the ballast or the light source with the ballast integrated at test voltage, the surface of the bulb shall be lightly wiped with a cotton cloth soaked in a mixture of 70 volume per cent of n-heptane and 30 volume per cent of toluol. After about five minutes, the surface shall be inspected visually. It shall not show any apparent changes."
+<PARAGRAPH 3.3.3.>,"Gas-discharge light sources shall be equipped with standard caps complying with the cap data sheets of IEC Publication 60061, third edition, as specified on the individual data sheets of Annex-1 to this Regulation."
+<PARAGRAPH 3.3.4.>,The cap shall be strong and firmly secured to the bulb.
+<PARAGRAPH 3.3.5.>,"To ascertain whether gas-discharge light sources conform to the requirements of Paragraph-3.3.3. to Paragraph-3.3.4. above, a visual inspection, a dimension check and, where appropriate, a trial fitting shall be carried out."
+<PARAGRAPH 3.4.>,Tests
+<PARAGRAPH 3.4.1.>,Gas-discharge light sources shall be aged as indicated in Annex-4 to this Regulation.
+<PARAGRAPH 3.4.2.>,"All samples shall be tested with the ballast, according to Paragraph-2.2.2.4. above, in case the ballast is not integrated with the light source."
+<PARAGRAPH 3.4.3.>,Electrical measurements shall be carried out with instruments of at least class 0.2. (0.2 per cent full scale accuracy).
+<PARAGRAPH 3.5.>,"Position and dimensions of electrodes, arc and stripes"
+<PARAGRAPH 3.5.1.>,The geometric position of the electrodes shall be as specified on the relevant data sheet. An example of a method of measuring arc and electrodes position is given in Annex-5 to this Regulation. Other methods may be used.
+<PARAGRAPH 3.5.1.1.>,"The position and dimensions of the light source electrodes shall be measured before the ageing period, the gas-discharge light source unlit and using optical methods through the glass envelope."
+<PARAGRAPH 3.5.2.>,The shape and the displacement of the arc shall conform to the requirements as given on the relevant data sheet.
+<PARAGRAPH 3.5.2.1.>,The measurement shall be made after ageing with the light source supplied by the ballast at test voltage or the light source with the ballast integrated at test voltage.
+<PARAGRAPH 3.5.3.>,The position and dimension and transmission of the stripes shall comply with the requirements as given on the relevant data sheet.
+<PARAGRAPH 3.5.3.1.>,The measurement shall be made after ageing with the light source supplied by the ballast at test voltage or the light source with the ballast integrated at test voltage.
+<PARAGRAPH 3.6.>,"Starting, run-up and hot-restrike characteristics"
+<PARAGRAPH 3.6.1.>,"Starting When tested according to the conditions specified in Annex-4 to this Regulation, the gas-discharge light source shall start directly and remain alight."
+<PARAGRAPH 3.6.2.>,Run-up
+<PARAGRAPH 3.6.2.1.>,"For gas-discharge light sources having an objective luminous flux which exceeds 2000 lm: When measured according to the conditions specified in Annex-4 to this Regulation, the gas-discharge light source shall emit at least: After 1 second: 25 per cent of its objective luminous flux; After 4 seconds: 80 per cent of its objective luminous flux. The objective luminous flux as indicated on the relevant data sheet."
+<PARAGRAPH 3.6.2.2.>,"For gas-discharge light sources having an objective luminous flux which does not exceed 2000 lm: When measured according to the conditions specified in Annex-4 to this Regulation, the gas-discharge light sources shall emit at least 800 lm after 1 second and at least 1000 lm after 4 seconds. The objective luminous flux as indicated on the relevant data sheet."
+<PARAGRAPH 3.6.3.>,"Hot-restrike When tested according to the conditions specified in Annex-4 to this Regulation, the gas-discharge light source shall restart directly after being switched-off for a period as indicated on the data sheet. After one second the light source shall emit at least 80 per cent of its objective luminous flux."
+<PARAGRAPH 3.7.>,"Electrical characteristics When measured according to the conditions specified in Annex-4 to this Regulation, the voltage and wattage of the light source shall be within the limits given on the relevant data sheet."
+<PARAGRAPH 3.8.>,"Luminous flux When measured according to the conditions specified in Annex-4 to this Regulation, the luminous flux shall be within the limits given on the relevant data sheet. In the case where white and selective yellow is specified for the same type, the objective value applies to light sources emitting white light, whereas the luminous flux of the light source emitting selective yellow light shall be at least 68 per cent of the specified value."
+<PARAGRAPH 3.9.>,Colour
+<PARAGRAPH 3.9.1.>,"The colour of the light emitted shall be white or selective yellow. Moreover, the colorimetric characteristics, expressed in CIE chromaticity coordinates, shall lie within the boundaries given on the relevant data sheet."
+<PARAGRAPH 3.9.2.>,"The definitions of the colour of the light emitted, given in Regulation-No._48 and its series of amendments in force at the time of application for type approval shall apply to this Regulation."
+<PARAGRAPH 3.9.3.>,"The colour shall be measured according to the conditions specified in Annex-4 to this Regulation, Paragraph-10."
+<PARAGRAPH 3.9.4.>,The minimum red content of a gas-discharge light source shall be such that: 780 nm e().V().d =610 nm kred = ____________________ 780 nm e().V().d =380 nm Where: Ee () [W/nm] is the spectral distribution of the radiant flux; V () [1] is the spectral luminous efficiency; [nm] is the wave length. This value shall be calculated using intervals of one nanometre.
+<PARAGRAPH 3.10.>,"UV radiation The UV radiation of the gas-discharge light source shall be such that the gas discharge light source is of the low UV type complying with: 400 nm Ee( =250 nm kuv = ____________________ -5 W/lm 780 nm km Ee( =380 nm Where: S () [1] is the spectral weighting function; km = 683 [lm/W] is the photometric radiation equivalent; (For definitions of other symbols see Paragraph-3.9.5. above). This value shall be calculated using intervals of one nanometre. The UV-radiation shall be weighted according to the values as indicated in the following table. Wavelengths chosen are representative; other values should be interpolated. Values according to ""IRPA/INIRC Guidelines on limits of exposure to ultraviolet radiation""."
+<PARAGRAPH 3.11.>,"Standard gas-discharge light sources Standard (etalon) gas-discharge light sources shall comply with the requirements applicable to type approval light sources and to the specific requirements as stated in the relevant data sheet. In case of a type emitting white and selective yellow light, the standard light source shall emit white light."
+<PARAGRAPH 4.>,Conformity of production
+<PARAGRAPH 4.1.>,Gas-discharge light sources approved to this Regulation shall be so manufactured as to conform to the type approved by meeting the inscriptions and technical requirements set forth in Paragraph-3. above and Annexes 1 and 3 to this Regulation.
+<PARAGRAPH 4.2.>,"In order to verify that the requirements of Paragraph-4.1. are met, suitable controls of the production shall be carried out."
+<PARAGRAPH 4.3.>,The holder of the approval shall in particular:
+<PARAGRAPH 4.3.1.>,Ensure existence of procedures for the effective control of the quality of products
+<PARAGRAPH 4.3.2.>,Have access to the control equipment necessary for checking the conformity to each approved type
+<PARAGRAPH 4.3.3.>,Ensure that data of test results are recorded and that related documents shall remain available for a period to be determined in accordance with the administrative service
+<PARAGRAPH 4.3.4.>,"Analyse the results of each type of test, applying criteria of Annex-7 to this Regulation, in order to verify and ensure the stability of the product characteristics making allowance for variation of an industrial production"
+<PARAGRAPH 4.3.5.>,"Ensure that for each type of gas-discharge light source, at least the tests prescribed in Annex-6 to this Regulation are carried out"
+<PARAGRAPH 4.3.6.>,Ensure that any collecting of samples giving evidence of non-conformity with the type of test considered shall give rise to another sampling and another test. All the necessary steps shall be taken to re-establish the conformity of the corresponding production.
+<PARAGRAPH 4.4.>,The Type Approval Authority which has granted type-approval may at any time verify the conformity control methods applicable to each production unit.
+<PARAGRAPH 4.4.1.>,"In every inspection, the test books and production survey records shall be presented to the visiting inspector."
+<PARAGRAPH 4.4.2.>,The inspector may take samples at random which will be tested in the manufacturer's laboratory. The minimum number of samples may be determined according to the results of the manufacturer's own verification.
+<PARAGRAPH 4.4.3.>,"When the quality level appears unsatisfactory or when it seems necessary to verify the validity of the tests carried out in application of Paragraph-4.4.2. above, the inspector shall select samples, to be sent to the Technical Service which has conducted the type approval tests."
+<PARAGRAPH 4.4.4.>,The Type Approval Authority may carry out any tests prescribed in this Regulation. These tests will be on samples selected at random without accordance with criteria of Annex-8 to this Regulation.
+<PARAGRAPH 4.4.5.>,"The Type Approval Authority shall strive to obtain a frequency of inspection of once every two years. However, this is at the discretion of the Type Approval Authority and their confidence in the arrangements for ensuring effective control of conformity of production. In the case where negative results are recorded, the Type Approval Authority shall ensure that all necessary steps are taken to re-establish the conformity of production as rapidly as possible."
+<PARAGRAPH 5.>,Penalties for non-conformity of production
+<PARAGRAPH 5.1.>,The approval granted in respect of a gas-discharge light source pursuant to this Regulation may be withdrawn if the prescribed conformity of production requirements are not met.
+<PARAGRAPH 5.2.>,"If a Contracting Party to the Agreement applying this Regulation withdraws an approval it has previously granted, it shall forthwith so notify the other Contracting Parties applying this Regulation, by means of a communication form conforming to the model in Annex-2 to this Regulation."
+<PARAGRAPH 6.>,"Production definitively discontinued If the holder of the approval completely ceases to manufacture a type of gas-discharge light source approved in accordance with this Regulation, he shall so inform the authority which had granted the approval. Upon receiving the relevant communication, that authority shall inform thereof the other Parties to the Agreement applying this Regulation by means of a communication form conforming to the model in Annex-2 to this Regulation."
+<PARAGRAPH 7.>,"Names and addresses of the Technical Services responsible for conducting approval tests, and of Type Approval Authorities The Contracting Parties to the Agreement which apply this Regulation shall communicate to the United Nations Secretary-General the names and addresses of the Technical Services responsible for conducting approval tests and of the Type Approval Authorities which grant approval and to which forms certifying approval or extension or refusal or withdrawal of approval, or production definitively discontinued issued in other countries, are to be sent."

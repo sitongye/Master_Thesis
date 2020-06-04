@@ -1,0 +1,51 @@
+Index,Text
+22-1,Speedometer Refer to: R39 01
+22-1.1,Effective date and Scope:
+22-1.1.1,"Effective date from 2018/1/1, all variants of vehicles as below, regard to speedometer and odometer shall comply with this regulation."
+22-1.1.1.1,"Vehicle categories M1, M2 and M3."
+22-1.1.1.2,"Vehicle categories N1, N2 and N3."
+22-1.1.1.3,"Vehicle categories L1, L2, L3 and L5."
+22-1.1.2,"The following vehicles equipping with speedometer and odometer which conform to , regard as conform to this regulation."
+22-1.1.2.1,"Vehicle categories M1, M2 and M3."
+22-1.1.2.2,"Vehicle categories N1, N2 and N3."
+22-1.1.2.3,"Vehicle categories L1, L2, L3 and L5."
+22-1.2,Definitions:
+22-1.2.1,"""Tyres normally fitted"" means the type or types of tyre provided by the manufacturer on the vehicle type in question; snow tyres shall not be regarded as tyres normally fitted;"
+22-1.2.2,"""Normal running pressure"" means the cold inflation pressure specified by the vehicle manufacturer increased by 0.2 bar;"
+22-1.2.3,"""Speedometer"" means that part of the speedometer equipment which indicates to the driver the speed of his vehicle at any given moment;"
+22-1.2.3.1,"""Tolerances of the speedometer's measuring mechanism"" shall mean the accuracy of the speedometer instrument itself, expressed as the upper and the lower speed indication limits for a range of speed inputs;"
+22-1.2.3.2,"""Technical constant of the speedometer"" shall mean the relationship between the input revolutions or pulses per minute and a specified displayed speed;"
+22-1.2.4,"""Odometer"" means that part of the odometer equipment which indicates to the driver the total distance recorded by the vehicle since its entry into service."
+22-1.2.4.1,"""Technical constant of the odometer"" means the relationship between the input revolutions or pulses and the distance travelled  by the vehicle."
+22-1.2.5,"""Unladen vehicle"" means the vehicle in running order, complete with fuel, coolant, lubricant, tools and a spare wheel (if provided as standard equipment by the vehicle manufacturer), carrying a driver weighing 75 kg, but no driver's mate, optional accessories or load."
+22-1.3,Speedometer shall according to suitable variants and range of principle are as below
+22-1.3.1,The same brand (speedometer and odometer ).
+22-1.3.2,The same size designation of the tyres chosen from the range of tyres normally fitted.
+22-1.3.3,"The same overall transmission ratio, including any reduction drives, to the speedometer;"
+22-1.3.4,The same type of speedometer as characterised by:
+22-1.3.4.1,the tolerances of the speedometer's measuring mechanism;
+22-1.3.4.2,the technical constant of the speedometer;
+22-1.3.4.3,the range of speeds displayed.
+22-1.3.5,The same type of odometer as characterised by:
+22-1.3.5.1,The technical constant of odometer;
+22-1.3.5.2,The number of numerals.
+22-1.4,When applicants apply for certification testing shall provide at least one representative vehicle or chassis vehicle (or the essential part of vehicle for testing) and submit the documents as below to technical services:
+22-1.4.1,"Specification information f Paragraph- and the testing objects drawings and / or photographs, the applicants applying for low volume safety approval which could exempt from regulation  Paragraph- Paragraph- Paragraph-  Paragraph-."
+22-1.4.2,Information of the vehicle types stipulated in the Paragraph- to 22-1.2.4.above; the applicants applying for low volume safety approval which could exempt from regulation  Paragraph-.
+22-1.5,Specifications
+22-1.5.1,An onboard speedometer and odometer complying with the requirements of this Regulation shall be fitted to the vehicle to be approved.
+22-1.5.2,The display of the speedometer must be located within the direct field of view of the driver and must be clearly legible both day and night. The range of speeds displayed must be sufficiently wide to include the maximum speed of this type of vehicle as stated by the manufacturer. 
+22-1.5.3,The numerical values of the speed shall be indicated on the display as follows :
+22-1.5.3.1,"In the case of speedometers intended for vehicles of categories M, N, L3, and L5,the graduation shall be 1, 2, 5 or 10 km/h. The numerical values of the speed shall be indicated on the display as follows: when the highest value on the display does not exceed 200 km/h, speed values shall be indicated at intervals not exceeding 20 km/h. When the maximum value on the display exceeds 200 km/h, then the speed values shall be indicated at intervals not exceeding 30 km/h. The indicated numerical speed value intervals need not be uniform."
+22-1.5.3.2,"In the case of speedometers intended for vehicles of categories L1 (mopeds) and L2, the display readings must not exceed 80 km/h. The graduation shall be 1, 2, 5 or 10 km/h and the marked numerical values of the speed indicated shall not exceed 10 km/h. The indicated numerical speed value intervals need not be uniform."
+22-1.5.4,The accuracy of the speedometer equipment shall be tested in accordance with the following procedure:
+22-1.5.4.1,The tyres shall be one of the types normally fitted to the vehicle as defined  Paragraph-. of this Regulation. A test shall be carried out for each type of speedometer intended to be fitted by the manufacturer.
+22-1.5.4.2,The test shall be carried out with the vehicle at its unladen weight. An additional weight can be carried for purposes of measurement. The weight of the vehicle and its distribution between the axles shall be indicated in the approval communication;
+22-1.5.4.3,The reference temperature at the speedometer shall be 23 +/- 5 degrees C; applicants may be claim based on the situations at real time.
+22-1.5.4.4,During each test the pressure of the tyres shall be the normal running pressure as define  Paragraph-.
+22-1.5.4.5,The vehicle is tested at the following speeds:
+22-1.5.4.6,the test instrumentation used for measuring the true vehicle speed shall be accurate to +/- 0.5 per cent;
+22-1.5.4.6.1,"the surface of a test track when used shall be flat and dry, and provide sufficient adhesion;"
+22-1.5.4.6.2,"if a roller dynamometer is used for the test, the diameter of the roller should be at least 0.4 m;"
+22-1.5.5,The speed indicated shall not be less than the true speed of the vehicle. There shall be the following relationship between the speed displayed (V1 ) and the true speed (V2).
+22-1.5.6,"The display of the odometer shall be visible or accessible to the driver. The odometer shall display at least an integer number  composed of a minimum of 6 numerals for the vehicles of categories M and N, and at least an integer number composed of a minimum of 5 numerals for the vehicles of category L. Nevertheless, the Type Approval Authorities may also accept an integer number composed of at least 5 numerals for the vehicles of categories M and N if the intended use of the vehicle justifies it."

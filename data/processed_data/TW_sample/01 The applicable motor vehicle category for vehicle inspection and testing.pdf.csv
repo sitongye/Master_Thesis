@@ -1,0 +1,53 @@
+Index,Text
+1,The applicable motor vehicle category for vehicle inspection and testing
+1.1,Vehicle of category symbol L:
+1.1.1,"Category L1: A two-wheeled vehicle with an engine cylinder capacity in the case of a thermic engine not exceeding 50 cm3 or the maximum output horsepower of moped with the motor and controller not exceeding 5 horsepower, and whatever the means of propulsion a maximum design speed not exceeding 50 km/h."
+1.1.2,"Category L2: A three-wheeled vehiclep·vehicle with one wheel on front and two wheels symmetrically on rear or two wheels symmetrically on front and one wheel on rearp¸ with an engine cylinder capacity in the case of a thermic engine not exceeding 50 cm3 or the maximum output horsepower of the motor and controller not exceeding 5 horsepower, and whatever the means of propulsion a maximum design speed not exceeding 50 km/h."
+1.1.3,"Category L3: A two-wheeled vehicle with an engine cylinder capacity in the case of a thermic engine exceeding 50 cm3 or the maximum output horsepower of motorcycle with the motor and controller exceeding 5 horsepower, or whatever the means of propulsion a maximum design speed exceeding 50 km/h."
+1.1.4,"Category L5: A three-wheeled vehiclep·vehicle with one wheel on front and two wheels symmetrically on rear or two wheels symmetrically on front and one wheel on rearp¸ with an engine cylinder capacity in the case of a thermic engine exceeding 50 cm3 or the maximum output horsepower of the motor and controller exceeding 5 horsepower, or whatever the means of propulsion a maximum design speed exceeding 50 km/h."
+1.1.5,"Two wheels of category L mounted on the same axle which are considered to be one wheel, whereby the distance between the centres of their areas of contact with the ground is equal to or less than 460 mm."
+1.2,Vehicle of category symbol M:
+1.2.1,Category M1: Vehicles used for the carriage of passengers and comprising not more than eight seats in addition to the driver's seat.
+1.2.2,"Category M2: Vehicles used for the carriage of passengers, comprising more than eight seats in addition to the driver's seat, and having a maximum mass not exceeding 5 tonnes."
+1.2.3,"Category M3: Vehicles used for the carriage of passengers, comprising more than eight seats in addition to the driver's seat, and having a maximum mass exceeding 5 tonnes."
+1.3,Vehicle of category symbol N:
+1.3.1,Category N1: Vehicles used for the carriage of goods and having a maximum mass not exceeding 3.5 tonnes.
+1.3.2,Category N2: Vehicles used for the carriage of goods and having a maximum mass exceeding 3.5 tonnes but not exceeding 12 tonnes.
+1.3.3,Category N3: Vehicles used for the carriage of goods and having a maximum mass exceeding 12 tonnes. 
+1.4,Vehicle of category symbol O:
+1.4.1,Category O1: Trailers with a maximum mass not exceeding 0.75 tonnes.
+1.4.2,"Category O2: Trailers with a maximum mass exceeding 0.75 tonnes, but not exceeding 3.5 tonnes."
+1.4.3,"Category O3: Trailers with a maximum mass exceeding 3.5 tonnes, but not exceeding 10 tonnes."
+1.4.4,Category O4: Trailers with a maximum mass exceeding 10 tonnes.
+1.5,Vehicle of category symbol G:
+1.5.1,Definition: G motor vehicle are considered to be the vehicles of categories M and N satisfying the requirements of this paragraph.
+1.5.1.1,"Vehicles in category N1 with a maximum mass not exceeding 2 tonnes and vehicles in category M1, if conform to following conditions as below that is the vehicle of category symbol M1G or N1G."
+1.5.1.1.1,at least one front axle and at least one rear axle designed to be driven simultaneously including vehicles where the drive to one axle can be disengaged;
+1.5.1.1.2,at least one differential locking mechanism or at least one mechanism having a similar effect Paragraph- if they can climb a 30% gradient calculated for a solo vehicle.
+1.5.1.1.4,"In addition, they must satisfy at least five of the following six requirements:"
+1.5.1.1.4.1,the approach angle must be at least 25 degrees;
+1.5.1.1.4.2,the departure angle must be at least 20 degrees;
+1.5.1.1.4.3,the ramp angle must be at least 20 degrees;
+1.5.1.1.4.4,the ground clearance under the front axle must be at least 180 mm;
+1.5.1.1.4.5,the ground clearance under the rear axle must be at least 180 mm;
+1.5.1.1.4.6,the ground clearance between the axles must be at least 200 mm.
+1.5.1.2,"Vehicles in category N1 with a maximum mass exceeding 2 tonnes or in category N2, M2 or M3 with a maximum mass not exceeding 12 tonnes are considered to be off-road vehicles either if all their wheels are designed to be driven simultaneously, including vehicles where the drive to one axle can be disengaged, or if the following three requirements are satisfied that is the vehicle of category symbol N1G , N2G, M2G,M3G."
+1.5.1.2.1,"at least one front axle and at least one rear axle are designed to be driven simultaneously, including vehicles where the drive to one axle can be disengaged;"
+1.5.1.2.2,there is at least one differential locking mechanism or at least one mechanism having a similar effect;
+1.5.1.2.3,they can climb a 25% gradient calculated for a solo vehicle.
+1.5.1.3,"Vehicles in category M3 with a maximum mass exceeding 12 tonnes or in category N3 are considered to be off-road either if the wheels are designed to be driven simultaneously, including vehicles where the drive to one axle can be  disengaged, or if the following requirements are satisfied:"
+1.5.1.3.1,at least half the wheels are driven;
+1.5.1.3.2,there is at least one differential locking mechanism or at least one mechanism having a similar effect;
+1.5.1.3.3,they can climb a 25% gradient calculated for a solo vehicle;
+1.5.1.3.4,at least four of the following six requirements are satisfied:
+1.5.1.3.4.1,the approach angle must be at least 25 degrees;
+1.5.1.3.4.2,the departure angle must be at least 25 degrees;
+1.5.1.3.4.3,the ramp angle must be at least 25 degrees;
+1.5.1.3.4.4,the ground clearance under the front axle must be at least 250 mm;
+1.5.1.3.4.5,the ground clearance between the axles must be at least 300 mm;
+1.5.1.3.4.6,the ground clearance under the rear axle must be at least 250 mm.
+1.5.2,Load and checking conditions.
+1.5.2.1,"Vehicles in category N1 with a maximum mass not exceeding two tonnes and vehicles in category M1 must be in running order, namely with coolant fluid, lubricants, fuel, tools, spare-wheel and a driver considered to weigh a standard 75 kg."
+1.5.2.2,Power-driven vehicles other than those referred to  Paragraph- must be loaded to the technically permissible maximum mass stated by the manufacturer.
+1.5.2.3,"The ability to climb the required gradients (25% and 30%) is verified by simple calculation. In exceptional cases, however, the technical services may ask for a vehicle of the type concerned to be submitted to it for an actual test."
+1.5.2.4,"When measuring front and rear incidence angles and ramp angles, no account is taken of underrun protective devices."

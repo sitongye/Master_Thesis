@@ -1,0 +1,182 @@
+Index,Text
+27,"Devices for indirect vision Refer to: R46 04-S4, R81 00-S1"
+27.1,Effective date and Scope:
+27.1.1,"Effective date from 2006/7/1, the new variants of devices for indirect vision installed used in L1 and L3 vehicle, and from 2008/7/1 all variants of devices for indirect vision installed used in L1, L2, L3 and L5 shall comply with this Direction."
+27.1.2,"Effective date from 2011/1/1, new variants of devices for indirect vision installed used in M and N vehicle, and from 2013/1/1 all variants of devices for indirect vision installed used in M and N shall comply with this Direction."
+27.1.3,The applicants applying for low volume safety approval could exempt from Direction of devices for indirect vision except large passenger vehicle and child-only vehicle.
+27.1.4,"Applying for vehicle-by-vehicle low volume safety approval, the vehicle could exempt from Direction of devices for indirect vision."
+27.2,Definitions:
+27.2.1,"Devices for indirect vision: means devices intended to give a clear view of the rear, side or front of the vehicle within the fields of vision. These can be conventional mirrors, camera-monitors or other devices able to present information about the indirect field of vision to the driver. The category symbols L use mirrorrear-view mirrorto provide the field of vision."
+27.2.1.1,"Mirror: means any device intended to give a clear view to the rear and side of the vehicleusually from rear-view mirror provide this functionor front usually from front-view mirror provide this function, except for the category symbols Lby means of a reflective surface. The vehicles vision shall comply with requirements  Paragraph- of Installation of d excluding complex optical systems such as periscopes."
+27.2.1.1.1,"Interior mirror: means a device, which can be fitted in the passenger compartment of a vehicle."
+27.2.1.1.2,"Exterior mirror: means a device, which can be mounted on the external surface of a vehicle."
+27.2.1.1.3,Surveillance mirror: a mirror other than the devices for indirect vision and can be fitted to the inside or outside of the  vehicle in order to provide fields of vision other than those specified in paragraph 7 .
+27.2.1.2,Vision mirror of the category symbols L: means any mirror device can provide for the category symbols L with clear view to the rear and side of the vehicle; excluding complex optical systems such as periscopes.
+27.2.2,Vision support system: means a system to enable the driver to detect and/or see objects in the area adjacent to the vehicle.
+27.2.3,r: means the average of the radii of curvature measured over the reflecting surface.
+27.2.4,"ri: means the values measured on the arc of the reflecting surface passing through the center of the mirror parallel to the segment b, and on the arc perpendicular to this segment."
+27.2.5,"rp: means the arithmetic average of the principal radii of curvature ri and r'i, i.e.:"
+27.2.6,"The principal radii of curvature shall be measured at three points situated as close as possible to positions at 1/3, 1/2 and 2/3 of the distance along the arc of the reflecting surface passing through the center of the mirror and parallel to segment b, or of the arc passing through the curve of the mirror which is perpendicular to it if this arc is the longest. rp1 is the radius of curvature of the first measuring point, rp2 at the second and rp3 at the third."
+27.2.7,"Direct calibration method: In the direct calibration method, air is used as the reference standard. This method is applicable for those instruments, which are so constructed as to permit calibration at the 100% point by swinging the receiver to a position directly on the axis of the light source. It may be desired in some cases (such as when measuring low-reflectivity surfaces) to use an intermediate calibration point (between 0 and 100% on the scale) with this method. In these cases a neutral density filter of known transmittance shall be inserted in the optical path, and the calibration control shall then be adjusted until the meter reads the percentage transmission of the neutral density filter. This filter shall be removed before making reflectivity measurements. "
+27.2.8,Indirect calibration method: The indirect calibration method is applicable for those instruments with fixed source and receiver geometry. A properly calibrated and maintained reflectance standard is required. This reference standard should preferably be a flat mirror with a reflectance value as near as possible to that of the test samples.
+27.2.9,"""Camera-monitor system (CMS)"" means a device as defined  Paragraph-., where the field of vision is obtained by means of combination of a camera and a monitor defined  Paragraph- Paragraph-."
+27.2.10,"""Camera"" means a device that renders an image of the outside world and then converts this image into a signal (e.g. video signal)."
+27.2.11,"""Monitor"" means a device that converts a signal into images that are rendered into the visual spectrum."
+27.2.12,"""Surveillance camera-monitor-recording device"" means a camera and either a monitor or recording equipment other than the camera-monitor device defined  Paragraph-. which can be fitted to the inside or outside of the vehicle in order to provide fields of vision other than those specified in paragraph 23.7. or to provide a security system within or around the vehicle."
+27.2.13,"""Spherical surface"" means a surface, which has a constant and equal radius in all directions."
+27.2.14,"""Aspherical surface"" means a surface, which has only in one plane a constant radius."
+27.2.15,"""Aspherical mirror"" means a mirror composed of a spherical and an aspherical part, in which the transition of the reflecting surface from the spherical to the aspherical part has to be marked. The curvature of the main axis of the mirror is defined in the x/y coordinate system defined by the radius of the spherical primary calotte with: R: nominal radius in the spherical part k: constant for the change of curvature a: constant for the spherical size of the spherical primary calotte"
+27.2.16,"""Centre of the reflecting surface"" means the centre of the visible area of the reflecting surface. "
+27.2.17,"""The radius of curvature of the constituent parts of the mirror"" means the radius ""c"" of the arc of the circle which most closely approximates to the curved form of the part in question."
+27.2.18,"""Other devices for indirect vision"" means the field of vision is not obtained by means of a mirror or a camera-monitor device."
+27.2.19,"""Luminance contrast"" means the brightness ratio between an object and its immediate background/surrounding that allows the object to be distinguished from its background/surroundings. The definition is in accordance with the definition given in ISO 9241- 302:2008."
+27.2.20,"""Resolution"" means the smallest detail that can be discerned with a perceptual system, i.e. perceived as separate from the larger whole. The resolution of the human eye is indicated as ""visual acuity""."
+27.2.21,"""Critical object"" means a cylindrical object with a height of 0.50 m and a diameter of 0.30 m."
+27.2.22,"""Critical perception"" means the level of perception that can just be obtained under critical conditions via the viewing system used. This corresponds to the situation in which the representative scale of the critical object is multiple times larger than the smallest detail that can be perceived via the viewing system."
+27.2.23,"""Field of vision"" means the section of the tri-dimensional space which is monitored with the help of a device for indirect vision. Unless otherwise stated, this is based on the view on ground level offered by a device and/or devices other than mirrors. This may be limited by the relevant detection distance corresponding to the critical object."
+27.2.24,"""Detection distance"" means the distance measured from the centre of the lens of the camera to the point at which a critical object can just be perceived (as defined by the critical perception)."
+27.2.25,"""Visual spectrum"" means light with a wavelength within the range of the perceptual limits of the human eyes: 380-780 nm."
+27.2.26,"""Smear"" is a bright line displayed on the monitor while sun light or light from other bright light sources is directly hitting into the lens of the camera."
+27.3,The principle of applicable type and scope and of devices for indirect vision shall be as below 
+27.3.1,The M and N category of vehicles:
+27.3.1.1,The same brand and vehicle type series.
+27.3.1.2,The same mirrors radii of curvature (r) for the reflecting surface and dimensions.
+27.3.1.3,"The same mirrors design, shape and materials."
+27.3.1.4,"The same type, range of vision, amplification, resolution of camera-monitor system."
+27.3.2,The L category of vehicles:
+27.3.2.1,The same brand and vehicle type series.
+27.3.2.2,The same mirrors radii of curvature (r) for the reflecting surface and dimensions.
+27.3.2.3,The same mirrors designshape and materialsincluding way of connection with vehicles.
+27.4,General specifications
+27.4.1,"Surrounding of mirrors (a) Mirrors of rear-view vision (Class II to VII) The edge of the reflecting surface shall be enclosed in a protective housing (holder, etc.) which, on its perimeter, must have a value 'c' greater than or equal to 2.5 mm at all points and in all directions. If the reflecting surface projects beyond the protective housing, the radius of curvature 'c' on the edge of the projecting part shall be not less than 2.5 mm and the reflecting surface must return into the protective housing under a force of 50 N applied to the point of greatest projection, relative to the protective housing, in a horizontal direction, approximately parallel to the longitudinal median plane of the vehicle. (b) Mirrors of rear-view vision (Class I) In cases, where the edge of the reflecting surface is enclosed in a protective housing (holder, etc.), the radius of curvature ""c"" on its perimeter shall be not less than 2.5 mm at all points and in all directions. In cases, where the edge of the reflecting surface projects beyond the protective housing, this requirement shall apply to the edge of the projecting part."
+27.4.2,"When the mirror is mounted on a plane surface, all parts, irrespective of the adjustment position of the device, including those parts remaining attached to the support after the test, which are in potential, static contact with a sphere either 165 mm in diameter in the case of an mirror of class I or 100 mm in diameter in the case of mirrors of class II to VII, must have a radius of curvature 'c' of not less than 2.5 mm."
+27.4.3,"The requirements  Paragraph- Paragraph- shall not apply to parts of the external surface which protrude less than 5 mm,  but the outward facing angles of such parts shall be blunted, save where such parts protrude less than 1.5 mm. For determining the dimension of the projection, the following method shall apply:"
+27.4.3.1,The dimension of the projection of a component which is mounted on a convex surface may be determined either directly or by reference to a drawing of an appropriate section of this component in its installed condition.
+27.4.3.2,"If the dimension of the projection of a component which is mounted on a surface other than convex cannot be determined by simple measurement, it shall be determined by the maximum variation of the distance of the centre of a 100 mm diameter sphere from the nominal line of the panel when the sphere is moved over and is in constant contact with that component. Figure 1 shows an example of the use of this procedure. Figure 1 Example for the measurement by maximum variation"
+27.4.4,Edges of fixing holes or recesses of which the diameter or longest diagonal is less than 12 mm are exempt from the radius requirements  Paragraph-. provided that they are blunted.
+27.4.5,"The device for the attachment of mirrors to the vehicle must be so designed that a cylinder with a 70 mm radius (50 mm in the case of an L category vehicle), having as its axis the axis, or one of the axes, of pivot or rotation which ensures deflection of the mirror in the direction of impact concerned, passes through at least part of the surface to which the device is attached."
+27.4.6,The parts of mirrors of class II to VII referred to  Paragraph-. Paragraph- which are made of a material with a Shore A hardness not exceeding 60 are exempt from the relevant provisions.
+27.4.7,"In the case of those parts of mirrors of class I which are made of a material with a Shore A hardness of less than 50 and which are mounted on a rigid support, the requirements  Paragraph- Paragraph- shall only apply to the support."
+27.5,Dimensions 
+27.5.1,In the case of vehicles of category symbols M and N:
+27.5.1.1,"Rear-view vision mirrors (Class I): The dimensions of the reflecting surface shall be such that it is possible to inscribe thereon a rectangle having 4 cm in height and the of length ""a"":"
+27.5.1.2,"Primary rear-view vision mirrors (Class II): The dimensions of the reflecting surface shall be such that it is possible to inscribe thereon: a rectangle of a height of 4 cm and of base length, in centimetres, ""a"", and a segment parallel to the height of the rectangle and of length, in centimetres, ""b"". The minimum values of ""a"" and ""b"" are: , b= 20 cm"
+27.5.1.3,"Primary rear-view vision mirrors (Class III): The dimensions of the reflecting surface shall be such that it is possible to inscribe thereon: a rectangle of a height of 4 cm and of base length, in centimetres, ""a"", and a segment parallel to the height of the rectangle and of length, in centimetres, ""b"". The minimum values of ""a"" and ""b"" are: , b= 7 cm."
+27.5.1.4,"Wide-angle vision mirrors (Class IV): The contours of the reflecting surface shall be of simple geometric form, if it is connected with Class II primary rear-view vision mirror, the dimension shall be able to provide the field of vision of wide-angle vision mirrors (Class IV)."
+27.5.1.5,Close-proximity vision mirrors (Class V): The contours of the reflecting surface must be of simple geometric form and its dimensions shall be able to provide the field of vision of close-proximity vision mirrors (Class V).
+27.5.1.6,Front vision mirrors (Class VI): The contours of the reflecting surface must be of simple geometric form and its dimensions such that shall be able to provide the field of vision of front vision mirrors (Class VI).
+27.5.2,Primary rear-view vision mirrors for category L vehicles with bodywork (Class VII). 
+27.5.2.1,The minimum dimensions of the reflecting surface must be such that:
+27.5.2.1.1,The area shall not be less than 69 cm2.
+27.5.2.1.2,"In the case of circular mirrors, the diameter shall not be less than 94 mm Paragraph- In the case of non-circular mirrors, the dimension will permit the inscription of a circle with a diameter of 78 mm on the reflecting surface."
+27.5.2.2,The maximum dimensions of the reflecting surface must be such that:
+27.5.2.2.1,"In the case of circular mirrors, the diameter shall not be greater than 150 mm Paragraph- In the case of non-circular mirrors, the reflecting surface shall fit into a rectangle measuring 120 mm by 200 mm."
+27.6,Radii of curvature (r) for the reflecting surface:
+27.6.1,The reflecting surface of a mirror must be either flat or spherically convex. Exterior mirrors may be equipped with an additional aspherical part provided that the main mirror fulfils the requirements of the indirect field of vision.
+27.6.2,In the case of vehicles of category symbols M and N:
+27.6.2.1,"1,200 mm for interior rear-view vision mirrors (Class I);"
+27.6.2.2,"1,200 mm for Class II and III primary rear-view vision mirrors;"
+27.6.2.3,300 mm for wide-angle vision mirrors (Class IV) and close-proximity vision mirrors (Class V);
+27.6.2.4,200 mm for front vision mirrors (Class VI).
+27.6.2.5,"1,000 mm or more than 1,500 mm in the case of Class VII primary rear-view vision mirrors."
+27.6.2.6,r is calculated using the formula (unit: mm):
+27.6.2.6.1,27.6.2.6.2 Difference between ri or i and rp at each reference point:
+27.6.2.6.2.1,"When r is less than 3000 mm, the difference shall not exceed 0.15 r."
+27.6.2.6.2.2,"When r is not less than 3000 mm, the difference shall not exceed 0.25 r. "
+27.6.2.6.3,Difference between any of the radii of curvature (rp) and r:
+27.6.2.6.3.1,"When r is less than 3000 mm, the difference shall not exceed 0.15 r."
+27.6.2.6.3.2,"When r is not less than 3000 mm, the difference shall not exceed 0.25 r."
+27.6.3,In the case of vehicles of category symbol L:
+27.6.3.1,r shall not be less than 1000 mm nor greater than 1500 mm.
+27.6.3.2,r is calculated using the formula (unit: mm):
+27.6.3.3,The difference between ri or i and rp at each reference point shall not exceed 0.15 r.
+27.6.3.4,The difference between any of the radii of curvature (rp) and r of shall not exceed 0.15 r.
+27.6.4,Requirements for aspherical parts of mirrors
+27.6.4.1,Aspherical mirrors shall be of sufficient size and shape to provide useful information to the driver. This normally means a minimum width of 30 mm at some point.
+27.6.4.2,The radius of curvature ri of the aspherical part shall not be less than 150 mm.
+27.7,Reflectivity:
+27.7.1,Measuring method:
+27.7.1.1,Flat mirror measurement: the reflectance of flat mirror samples can be measure on instruments employing either the direct or indirect calibration method. The reflectance value is read directly from the indicating meter.
+27.7.1.2,"Non-flat (convex) mirror measurement: The measurement of the reflectance of non-flat (convex) mirrors requires the use of instruments which incorporate an integrating sphere in the receiver unit. If the instrument indicating meter indicates ne divisions with a reference standard mirror of E% reflectance, then, with a mirror of unknown reflectance, nx divisions will  correspond to a reflectance of X%, given by the formula:"
+27.7.2,Requirements:
+27.7.2.1,The value of the normal coefficient of reflection shall not be less than 40%.
+27.7.2.2,"If the mirror has two positions (""day"" and ""night""), the value of the normal coefficient of reflection in the ""day"" position shall not be less than 40%; the value of the normal coefficient of reflection in the ""night"" position shall not be less than 4%."
+27.7.2.3,The reflecting surface must retain the characteristics laid down  Paragraph- Paragraph- in spite of prolonged exposure to adverse weather conditions in normal use.
+27.8,Impact test:
+27.8.1,"Devices for indirect vision in Classes I to VI and Class VII (having fitments identical to Class III) shall be subjected to the tests described  Paragraph-. Class VII mirrors with a stem, shall be subjected to the tests described  Paragraph-."
+27.8.1.1,"The test shall not be required in the case of any exterior devices for indirect vision (class II to IV) of which no part is less than 2 m from the ground, regardless of the adjustment position, when the vehicle is under a load corresponding to its maximum technically permissible mass. This derogation also applies to the attachments of devices for indirect vision (attachment plates, arms, swivel joints, etc.) which are situated less than 2 m from the ground and which do not project beyond the overall width of the vehicle, measured in the transverse plane passing through the lowest mirror attachments or any other point forward of this plane if this configuration produces a greater overall width. In such cases, a description specifying that the devices for indirect vision must be mounted so as to conform to the above-mentioned conditions for the positioning of its attachments on the vehicle must be provided. To comply with this requirement, the arm shall be indelibly marked with the symbol"
+27.8.2,Test method: 
+27.8.2.1,"The test device shall consist of a pendulum capable of swinging about two horizontal axes at right angles to each other, one of them is perpendicular to the front plane containing the ""release"" trajectory of the pendulum."
+27.8.2.2,The end of the pendulum shall comprise a hammer formed by a rigid sphere with a diameter of 165 +/- 1 mm and having a 5 mm-thick rubber covering of Shore A 50 hardness.
+27.8.2.3,"The centre of percussion of the pendulum shall coincide with the centre of the sphere which forms the hammer. It is at a distance ""1"" from the axis of oscillation in the release plane which is equal to 1 m +/- 5 mm. The reduced mass of the pendulum to its center of percussion is mo = 6.8 +/- 0.05 kg The test consists in allowing the hammer to fall from a height corresponding to a pendulum angle of 60 degrees from the vertical so that the hammer strikes the rear-view mirror at the moment when the pendulum reaches the vertical position."
+27.8.2.4,The rear-view mirrors are subjected to impact in the following different conditions:
+27.8.2.4.1,Rear-view vision mirrors (Class I) are subjected to impact in the following conditions:
+27.8.2.4.1.1,The impact shall be such that the hammer strikes the rear-view mirror on the reflecting surface side.
+27.8.2.4.1.2,On the edge of the protective housing in such a way that the impact produced makes an angle of 45 degrees with the plane of the mirror and is situated in the horizontal plane passing through the center of the mirror. The impact is directed in the reflecting surface side.
+27.8.2.4.2,Class II to VII mirrors are subjected to impact in the following conditions:
+27.8.2.4.2.1,The impact must be such that the hammer strikes the mirror on the reflecting surface side.
+27.8.2.4.2.2,The impact must be such that the hammer strikes the mirror on the side opposite to the reflecting surface.
+27.8.2.4.3,Camera-monitor systems are subjected to impact in the following conditions:
+27.8.2.4.3.1,The impact shall be such that the hammer strikes the camera on the lens side.
+27.8.2.4.3.2,"The impact shall be such that the hammer strikes the camera on the side opposite to the lens.  Where more than one camera is fixed to the same mounting, the above-mentioned tests shall be executed on the lower camera. Nevertheless, the Technical Service responsible for testing may repeat one or both of these tests on the upper camera if this is less than 2 m from the ground."
+27.8.3,Requirements:
+27.8.3.1,In the tests the pendulum must continue to swing after impact in such a way that the projection of the position taken by the arm on the release plane makes an angle of at least 20 degrees with the vertical. The accuracy of measurement of the angle shall be within +/-1 deg. This requirement is not applicable to interior mirrors stuck to the windscreen. It shall comply with requirements  Paragraph-. 8.3.3.
+27.8.3.2,"The required angle to the vertical is reduced from 20 degrees to 10 degrees, for all Class II and Class IV devices for indirect vision and for Class III devices for indirect vision which are attached to the same mounting as Class IV devices for indirect vision."
+27.8.3.3,"Should there be a breakage of the mounting of the mirror during the tests for mirrors stuck to the windscreen, the part remaining shall not project from the base by more than 1 cm. and the configuration remaining after the test shall satisfy the conditions laid down  Paragraph-."
+27.8.3.4,"The mirror shall not break during the tests. However, breakage of the mirror shall be allowed if one of the following conditions is fulfilled:"
+27.8.3.4.1,"The fragments of glass still adhere to the back of the protective housing or to a surface firmly attached to the protective housing, except that partial separation of the glass from its backing is permitted, provided this does not exceed 2.5 mm either side of the crack. It is permissible for small splinters to become detached from the surface of the glass at the point of impact."
+27.8.3.4.2,The mirror is made of safety glass.
+27.9,Bending test: 
+27.9.1,Test method:
+27.9.1.1,The mirrors of categories M and N are not required to do the bending test.
+27.9.1.2,"The protective housing shall be placed horizontally in a device in such a way that the adjustment parts of the mounting can be clamped securely. In the direction of the greatest dimension of the protective housing, the end nearest the point of fixing on the adjustment part shall be immobilized by means of a fixed stop 15 mm wide, covering the entire width of the protective housing. At the other end, a stop identical to the one described above shall be placed on the protective housing so that the specified test load can be applied to it(Figure 2). The end of the housing opposite to that where the force is exerted may be locked rather than held in position as shown in Figure 2. Figure 2: Example of rear view mirror bending-test rig"
+27.9.1.3,The test load shall be 25 kg applied for one minute. 
+27.9.2,"Requirements: The mirror shall not break during the tests. However, breakage of the mirror shall be allowed if one of the following conditions is fulfilled:"
+27.9.2.1,"The fragments of glass still adhere to the back of the protective housing or to a surface firmly attached to the protective housing, except that partial separation of the glass from its backing is permitted, provided this does not exceed 2.5 mm either side of the crack. It is permissible for small splinters to become detached from the surface of the glass at the point of impact."
+27.9.2.2,The mirror is made of safety glass.
+27.10,Devices for indirect vision other than mirrors
+27.10.1,General requirements
+27.10.1.1,"If adjustment by the user is needed, the device for indirect vision shall be adjustable without the use of tools."
+27.10.1.2,"If a device for indirect vision can only render the total prescribed field of vision by scanning the field of vision, the total process of scanning, rendering and reset to its initial position together shall not take more than 200 milliseconds at room temperature of 22 °C +/- 5 °C."""
+27.10.1.3,The effectiveness of the CMS of Classes I to IV shall not be adversely affected by magnetic or electrical fields and shall comply with requirements laid down in of VSTD.
+27.10.2,Camera-monitor system
+27.10.2.1,General requirements
+27.10.2.1.1,"When the camera-monitor systems are mounted in the position recommended by the vehicle manufacturer for normal driving, all parts, irrespective of the adjustment position of the device which are in potential, static contact with a sphere either 165 mm in diameter in the case of CMS or parts of CMS installed inside the vehicle or 100 mm in diameter in the case of CMS or parts of CMS installed outside the vehicle, must have a radius of curvature ""c"" of not less than 2.5 mm."
+27.10.2.1.2,Edges of fixing holes or recesses of which the diameter or longest diagonal less than 12 mm are exempt from the  radius requirements  Paragraph-. provided that they are blunted.
+27.10.2.1.3,"For parts of the camera and the monitor which are made of a material with a Shore A hardness of less than 60 and which are mounted on a rigid support, the requirements of"
+27.10.2.1.1,shall only apply to the support.
+27.10.2.2,Functional requirements for class V to VI camera-monitor system
+27.10.2.2.1,"The camera shall function well in conditions in which sunlight falls on the camera. The saturated area, defined as the area in which the luminance contrast ratio (C=Lw/Lb) of a high contrast pattern falls below 2.0, shall not cover more than 15 per cent of the displayed image under the conditions  Paragraph-. to 27.10.2.2.1.4. In case the camera system shows dynamical changes in the blooming area during the test the maximum blooming area should fulfill the requirement."
+27.10.2.2.1.1,"A black and white test pattern, having a minimum contrast ratio of 20 shall be positioned in front of the camera. The test pattern shall be evenly illuminated at an illumination of 3000 +/- 300 Lx.The test pattern shall be medium gray on average and cover the complete area viewed by the camera; the camera shall view no other objects than the test pattern."
+27.10.2.2.1.2,"The camera shall be hit by a (simulated sun) light of 40 kLx, spanning an angle between 0.6 and 0.9 degrees with an elevation angle of 10 degrees (directly or indirectly via a mirror) removed from the optical axis of the sensor. The light source shall: (a) Have a spectrum D65 with a tolerance of +/- 1500K, (b) Be homogeneous in space and time within a tolerance of 2 kLx. The emission of the light source in infrared shall be negligible."
+27.10.2.2.1.3,There shall be no ambient illumination of the monitor during the test.
+27.10.2.2.1.4,An example of the set-up is given in the figure 3 below.  Figure 3: Diagram of the blooming measurement set-up
+27.10.2.2.2,The monitor shall render a minimum contrast under various light conditions as specified by international standard ISO 15008:2003.
+27.10.2.2.3,It shall be possible to adjust the average luminance of the monitor either manually or automatically to the ambient conditions.
+27.10.2.2.4,The measurements for the luminance contrast of the monitor shall be carried out according to ISO 15008:2009.
+27.10.2.3,Other device for indirect vision  It has to be proved that the device meets the following requirements:
+27.10.2.3.1,The device shall perceive the visual spectrum and shall always render this image without the need for interpretation into the visual spectrum.
+27.10.2.3.2,The functionality shall be guaranteed under the circumstances of use in which the system shall be put into service. Consideration shall be made entirely or partly depending on the technology used in obtaining images and presenting them according  Paragraph-.. In other cases this can be achieved by establishing and demonstrating by means of system sensitivity analogous  Paragraph- that a function is ensured that is comparable to or better than what is required for and by demonstrating that a functionality is guaranteed that is equivalent or better than that required for mirror- or camera-monitor type devices for indirect vision.
+27.11,Determination of the displayed object size
+27.11.1,Camera monitor device for indirect vision
+27.11.1.1,General Determination of the displayed object size considers the possible appearance of smear. The impact on the monitors image and consequence is the occultation of the field of view and therefore of the object. The following differentiation is made:
+27.11.1.2,Case A: Smear appears
+27.11.1.2.1,"Step 1: Under the condition described  Paragraph-., measure the width (s) of the vertical bar displayed on the monitor e.g. with a measurement microscope."
+27.11.1.2.2,Step 2: Place the object at a defined distance from the camera. Measure the width of the object displayed on the monitor (b) in a situation without real sun light condition e.g. with a measurement microscope.
+27.11.1.2.3,Step 3: Calculate the residual object width (alpha) according to the following equation:  where: alpha: residual width of the object displayed on the monitor (with smear) (minutes of arc) b: width of the object displayed on the monitor (without smear) (mm) s: width of the smear (mm) r: viewing distance (mm)
+27.11.1.3,Case B: Smear does not appear
+27.11.1.3.1,Step 1: Place the object at a defined distance from the camera. Measure the width of the object displayed on the monitor (b) in a situation without real sun light condition e.g. with a measurement microscope.
+27.11.1.3.2,Step 2: Calculate the object width (alpha) according to the following where: alpha: width of the object displayed on the monitor (without smear) (minutes of arc) b: width of the object displayed on the monitor (without smear) (mm) r: viewing distance (mm)
+27.11.1.4,Data supplied by the instructions for usepÉIn case of Class V and VI camera monitor devices the instructions for use shall include a table that shows the minimum and maximum mounting height of the camera above ground under consideration of different viewing distances. The camera must be mounted within the applicable height range. The viewing distances shall be selected from the intended context of usep·table 1p¸.  Table 1: Data supplied by the instructions for use
+27.11.1.4.1,The value of the minimum mounting height is the same for all viewing distances as it is independent of the viewing distance. It is determined by the dimensions of the field of vision and the field of view of the camera. Use the following working steps for determination of the minimum mounting height.
+27.11.1.4.1.1,Step 1: Draw the intended field of vision on ground.
+27.11.1.4.1.2,Step 2: Place the camera above the field of vision in such a way that the camera is viewing the field of vision. The lateral position shall be in accordance with the intended mounting position at the vehicle.
+27.11.1.4.1.3,"Step 3: Change the height of the camera above ground in such a way, that the field of vision displayed on the monitor covers an area at least as large as the field of vision. Furthermore, the field of vision display should encompass the entire monitor screen."
+27.11.1.4.1.4,Step 4: Measure the height between camera and ground which is the minimum mounting height. Report the result value.
+27.11.1.4.2,The value of the maximum mounting height is different for different viewing distances as the displayed object size varies with the mounting height. Use the following working steps for determination of the maximum mounting height:
+27.11.1.4.2.1,Step 1: Determine the minimum width bmin of the critical object displayed on the monitor for each viewing distance.  where: r: viewing distance in mm bmin: minimum width of the critical object displayed on the monitor in mm
+27.11.1.4.2.2,Step 2: Place the critical object inside the drawn intended field of vision in a position at which the distance between the critical object and the camera is largest. The illumination conditions shall be in such a way that the critical object is clearly visible on the monitor.
+27.11.1.4.2.3,Step 3: Select the first value of the possible viewing distances.
+27.11.1.4.2.4,"Step 4: Change the height of the camera above ground in such a way, that the residual width B of the object displayed on the monitor is equal to the minimum width allocated to that viewing distance. B=bmin where: B: residual width of the object displayed on the monitor (which is ""b"" in cases without smear and ""b - s"" in cases with smear) in mm (see paragraph 1.1. General)"
+27.11.1.4.2.5,Step 5: Measure the height between camera and ground which is the maximum mounting height allocated to that viewing distance. Report the result value.
+27.11.1.4.2.6,Step 6: Repeat the aforementioned steps 4 and 5 for the other viewing distances.

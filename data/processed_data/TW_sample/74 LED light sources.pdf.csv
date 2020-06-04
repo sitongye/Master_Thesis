@@ -1,0 +1,94 @@
+Index,Text
+74,LED light sources Refer to: R128 00-S6
+74.1,Effective Date and Scope:
+74.1.1,"Effective date from 2017/1/1, the new types of LED replaceable light sources and from 2019/1/1 the all types of LED replaceable light sources used in safety type approval lamps of vehicle category M, N, O and L, shall comply with this regulation."
+74.1.2,LED light sourceslarge passenger vehicle and child-only vehicle.
+74.1.3,Applying for vehicle-by-vehiLED light sources
+74.2,Definitions
+74.2.1,General
+74.2.1.1,"""Light source"" means one or more elements for visible radiation, with a base for mechanical and electrical connection, possibly assembled with one or more components to control the elements for visible radiation;"
+74.2.1.1.1,"""Filament light source"" means a light source where the only element for visible radiation is one or more filaments producing thermal radiation;"
+74.2.1.1.2,"""Gas-discharge light source"" means it conforms to category of"
+74.2.5.1,Specifications marked and a light source where the only element for visible radiation is a discharge arc producing electroluminescence;
+74.2.1.1.3,"""Light-emitting diode (LED) light source"" means it conforms to category of"
+74.2.5,Specifications marked and a light source where the only element for visible radiation is one or more solid state junctions producing electroluminescence possibly completed with one or more elements for fluorescence-based conversion.
+74.2.1.2,"""Standard (étalon) light source"" means a special light source used for the testing of lighting and light-signalling devices. It has reduced tolerances for dimensional, electrical and photometric characteristics as specified on the relevant data sheet."
+74.2.1.3,"""Ballast"" means one or more components, either between supply and light source or integrated with a light source, to control the electrical current of the gas-discharge light source;"
+74.2.1.4,"""Objective value(s)"" means design value(s) to be achieved within specified tolerances when the light source or the ballast of the gas discharge light source is energized at specified test voltage(s) "
+74.2.2,Dimensional characteristics
+74.2.2.1,"""Reference axis"" means an axis defined with reference to the cap and to which certain dimensions of the light source are referred."
+74.2.2.2,"""Reference plane"" means a plane defined with reference to the cap and to which certain dimensions of the light source are referred."
+74.2.2.3,"""Light centre"" means a point that represents the origin of the light emitted."
+74.2.2.4,"""Light centre length"" means the distance between the reference plane and the light centre."
+74.2.2.5,"""Viewing axis on to the light source"" means an axis through the nominal light centre at defined polar and azimuthal angle."
+74.2.3,Electrical characteristics
+74.2.3.1,"""Test voltage"" means the voltage, at the input terminals of the light source or at the terminals of the ballast for the gas-discharge light source, for which the electrical and photometric characteristics of the light source are intended and are to be tested."
+74.2.3.2,"""Rated voltage"" means the voltage (in volts) marked on the light source or on the ballast."
+74.2.3.3,"""Rated wattage"" means the wattage marked on the light source or on the ballast."
+74.2.4,Photometric characteristics
+74.2.4.1,"""Reference luminous flux"" means an accurately specified luminous flux value of a standard light source serving as a reference for the optical characteristics of a lighting or light signalling device."
+74.2.4.2,"""Measuring luminous flux"" means specified value of the luminous flux for testing a filament light source with an internal shield to produce the cut-off."
+74.2.4.3,"""Cumulative luminous flux"" means the luminous flux emitted by the light source under operating conditions, within a cone enclosing a specified solid angle and centred on the reference axis."
+74.2.4.4,"""Normalized luminous intensity"" means luminous intensity divided by the luminous flux of the light source."
+74.2.5,Specifications marked
+74.2.5.1,Means the marks shall be clearly legible on the outside of the marking material and shall be indelible to include below:
+74.2.5.1.1,Brand (or marking).
+74.2.5.1.2,The rated voltage. 
+74.2.5.1.3,"The designation of the relevant category (figure as below , a is at least 2.5 mm)."
+74.3,The principles of applicable type and scope of LED light sources shall be as below:
+74.3.1,The same brand. LED light sources bearing the same brand but produced by different manufacturers are considered as being of different types.
+74.3.2,"The same light source design, in so far as these differences affect the optical results."
+74.3.3,The same rated voltage.
+74.4,Technical requirements
+74.4.1,Visual appearance
+74.4.1.1,The replaceable LED light sources of using lamp in Direction shall comply with this regulation.
+74.4.1.2,LED light sources shall be so designed as to be and to remain in good working order when in normal use. They shall moreover exhibit no fault in design or manufacture.
+74.4.1.3,LED light sources shall exhibit no scores or spots on their optical surfaces which might impair their efficiency and their optical performance.
+74.4.1.4,LED cap of light sources shall conform to the characteristics given in IEC Publication 60061 and apply to LED types of light source.
+74.4.1.5,The cap shall be strong and firmly secured to the rest of the LED light source holder.
+74.4.1.6,To ascertain whether LED light sources conform to the requirements  Paragraph- to
+74.4.1.5,"above, a visual inspection, a dimension check and, where necessary, a trial fitting into the holder as specified in IEC publication 60061 shall be carried out."
+74.4.1.7,The solid state junction(s) and possibly one or more elements for fluorescence-based conversion shall be the only element(s) of the LED light source that generate(s) and emit(s) light when energized.
+74.4.2,Tests
+74.4.2.1,"LED light sources shall first be aged at their test voltage for at least forty-eight hours. For multi-function LED light sources,  each function shall be aged separately."
+74.4.2.2,"Unless otherwise specified, electrical and photometric measurements shall be carried out at the relevant test voltage(s)."
+74.4.2.3,Electrical measurements as specified  Paragraph- shall be carried out with instruments of at least class 0.2 (0.2 per cent full scale accuracy).
+74.4.3,Position and dimensions of apparent light emitting area
+74.4.3.1,The position and dimensions of the apparent light emitting area shall conform to the requirements as given on the relevant data sheet.
+74.4.3.2,The measurement shall be made after ageing the LED light source according  Paragraph-.
+74.4.4,Luminous flux
+74.4.4.1,"When measured according to the conditions specified  Paragraph-, the luminous flux shall be within the limits given on the relevant data sheet."
+74.4.4.2,The measurement shall be made after ageing the LED light source according to 74.4.2.1.
+74.4.5,Normalized luminous intensity distribution / cumulative luminous flux distribution
+74.4.5.1,"When measured according to the test conditions specified  Paragraph- , the normalized luminous intensity distribution and/or cumulative luminous flux distribution shall be within the limits given on the relevant data sheet."
+74.4.5.2,The measurement shall be made after ageing the LED light source according  Paragraph-.
+74.4.6,Colour
+74.4.6.1,The colour of the light emitted by the LED light sources shall be specified on the relevant data sheet. The definitions of the colour of -the time of application for type approval shall apply to this Regulation.
+74.4.6.2,The colour of the light emitted shall be measured by the method specified  Paragraph-. Each measured value shall lie within the required tolerance area.
+74.4.6.3,"Moreover, in the case of LED light sources emitting white light, the minimum red content of the light shall be such that:  where: Ee(lambda) (unit: W) is the spectral distribution of the irradiance; V(lambda) (unit: 1) is the spectral luminous efficiency; lambda (unit: nm) is the wavelength. This value shall be calculated using intervals of one nanometer."
+74.4.7,UV-radiation The UV-radiation of the LED light source shall be such that the LED light source is of the low UV type complying with: where: S(lambda)(unit: 1) is the spectral weighting function; km = 683 lm/W is the maximum value of the luminous efficacy of radiation. This value shall be calculated using intervals of one nanometer. The UV-radiation shall be weighted according to the S(lambda) values as indicated in the Table below: lambda S(lambda) lambda S(lambda) 250 0.430 330 0.00041 255 0.520 335 0.00034 260 0.650 340 0.00028 265 0.810 345 0.00024  270 1.000 350 0.00020 275 0.960 355 0.00016 280 0.880 360 0.00013 285 0.770 365 0.00011 290 0.640 370 0.000090 295 0.540 375 0.000077 300 0.300 380 0.000064 305 0.060 385 0.000053 310 0.015 390 0.000044 315 0.003 395 0.000036 320 0.001 400 0.000030 325 0.00050
+74.4.8,Standard LED light sources: Standard LED light sources shall comply with corresponding relevant data sheets of light source type.
+74.5,Method of measurement of electrical and photometrical characteristics Light sources of all categories with integrated heatsink shall be measured at ambient temperature of (23 +/-2) deg. C in still air. For these measurements the minimum free space as defined in the data sheets shall be maintained. Light sources of all categories with definition of a temperature Tb shall be measured by stabilising the Tb point at the specific temperature defined on the category data sheet.
+74.5.1,Luminous flux
+74.5.1.1,A luminous flux measurement using an integrating method shall be made (a) In case of an integrated heatsink after 1 minute and after 30 minutes of operation or (b) After stabilisation of the temperature at the Tb point.
+74.5.1.2,"The luminous flux values, as measured after (a) 30 minutes, or (b) Stabilisation of temperature Tb"
+74.5.1.2.1,Shall comply with the minimum and maximum requirements. 
+74.5.1.2.2,"In case of (a), unless otherwise specified on the data sheet, this value shall be in between 100 per cent and 80 per cent of the value measured after 1 minute."
+74.5.1.3,Measurements have to be carried out at relevant test voltage and at the minimum and maximum values of the relevant voltage range. Unless specified more tightly on the data sheet the following deviation of the luminous flux at the tolerance interval limits shall not be exceeded. Rated voltage Min voltage Max voltage 6 6.0 7.0 12 12.0 14.0 24 24.0 28.0 Corresponding luminous flux tolerance +/-30% +/-15% *: The maximum luminous flux deviation at the tolerance limits is calculated by using the measured flux at test voltage as reference. In between test voltage and voltage range limits the luminous flux behaviour shall be substantially uniform.
+74.5.2,Normalized luminous intensity/ cumulative luminous flux
+74.5.2.1,In Measuring below (a) 30 minutes of stabilization time or (b) Stabilisation of temperature Tb at the value given in the relevant data sheet.
+74.5.2.2,Measurements have to be carried out at relevant test voltage.
+74.5.2.3,Normalized luminous intensity of a test sample is calculated by dividing the luminous intensity distribution as measured under Paragraph-. by the luminous flux as determined after 30 minutes under Paragraph-.
+74.5.2.4,"Cumulative luminous flux of a test sample is calculated according to CIE publication 84-1989, section 4.3 by integrating the luminous intensity within a cone enclosing a solid angle."
+74.5.3,Colour The colour of the light emitted as measured under the same conditions as described paragraph in 74.5.1.1. shall both be within the required colour boundaries.
+74.5.4,Power consumption 
+74.5.4.1,A power consumption measurement shall be made under the same conditions as described  Paragraph- using the requirements  Paragraph-.
+74.5.4.2,Power consumption measurements shall be carried out at relevant test voltage.
+74.5.4.3,Values obtained shall comply with the minimum and maximum requirements of the relevant data sheet.
+74.6,Applicants apply for certification test shall provide at least testing object and submit the documents as below:
+74.6.1,"Testing object specification documents, drawings and / or photographs described  Paragraph-."
+74.6.2,Drawings sufficiently detailed to permit identification of the type.
+74.6.3,Brief technical description
+74.6.3.1,"The type of LED light sources, rated voltage and colour(s) of the light emitted."
+74.6.4,In the case of a type of LED light sources differing only by the trade name or mark from a type that has already been approved it shall be sufficient to submit
+74.6.4.1,"A declaration by the manufacturer that the type submitted (a) Is identical with (except in the trade name or mark), and (b) Has been produced by the same manufacturer as the type already approved, the latter being identified by its approval code."

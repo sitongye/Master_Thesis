@@ -1,0 +1,107 @@
+Index,Text
+88,Specifications of a vehicle fuel system incorporating the compressed hydrogen storage system(L) Refer to: R146 00
+88.1,"Effective date and Scope: From 2020/1/1, all vehicle variants of category symbols L shall comply with this regulation."
+88.2,Definitions:
+88.2.1,"""Burst disc"" means the non-reclosing operating part of a pressure relief device which, when installed in the device, is designed to burst at a predetermined pressure to permit the discharge of compressed hydrogen."
+88.2.2,"""Check valve"" means a non-return valve that prevents reverse flow in the vehicle fuel line."
+88.2.3,"""Compressed hydrogen storage system (CHSS)"" means a system designed to store hydrogen fuel for a hydrogen-fuelled vehicle and composed of a pressurized container, pressure relief devices (PRDs) and shut off device(s) that isolate the stored hydrogen from the remainder of the fuel system and its environment."
+88.2.4,"""Container"" (for hydrogen storage) means the component within the hydrogen storage system that stores the primary volume of hydrogen fuel."
+88.2.5,"""Date of removal from service"" means the date (month and year) specified for removal from service."
+88.2.6,"""Date of manufacture"" (of a compressed hydrogen container) means the date (month and year) of the proof pressure test carried out during manufacture."
+88.2.7,"""Enclosed or semi-enclosed spaces"" means the special volumes within the vehicle (or the vehicle outline across openings) that are external to the hydrogen system (storage system, fuel cell system and fuel flow management system) and its housings (if any) where hydrogen may accumulate (and thereby pose a hazard), as it may occur in the passenger compartment, luggage compartment and space under the hood. "
+88.2.8,"""Exhaust point of discharge"" means the geometric centre of the area where fuel cell purged gas is discharged from the vehicle."
+88.2.9,"""Fuel cell system"" means a system containing the fuel cell stack(s), air processing system, fuel flow control system, exhaust system, thermal management system and water management system."
+88.2.10,"""Fuelling receptacle"" means the equipment to which a fuelling station nozzle attaches to the vehicle and through which fuel is transferred to the vehicle. The fuelling receptacle is used as an alternative to a fuelling port."
+88.2.11,"""Hydrogen concentration"" means the percentage of the hydrogen moles (or molecules) within the mixture of hydrogen and air (equivalent to the partial volume of hydrogen gas)."
+88.2.12,"""Hydrogen-fuelled vehicle"" means any motor vehicle that uses compressed gaseous hydrogen as a fuel to propel the vehicle, including fuel cell and internal combustion engine vehicles. Hydrogen fuel for passenger vehicles is specified in ISO 14687-2: 2012 and SAE J2719: (September 2011 Revision)."
+88.2.13,"""Luggage compartment"" means the space in the vehicle for luggage and/or goods accommodation, bounded by the roof, hood, floor, side walls, being separated from the passenger compartment by the front bulkhead or the rear bulkhead."
+88.2.14,"""Maximum allowable working pressure (MAWP)"" means the highest gauge pressure to which a pressure container or storage system is permitted to operate under normal operating conditions."
+88.2.15,"""Maximum fuelling pressure (MFP)"" means the maximum pressure applied to compressed system during fuelling. The maximum fuelling pressure is 125 per cent of the Nominal Working Pressure."
+88.2.16,"""Nominal working pressure (NWP)"" means the gauge pressure that characterizes typical operation of a system. For compressed hydrogen gas containers, NWP is the settled pressure of compressed gas in fully fuelled container or storage system at a uniform temperature of 15 deg. C. "
+88.2.17,"""Pressure relief device (PRD)"" means a device that, when activated under specified performance conditions, is used to release hydrogen from a pressurized system and thereby prevent failure of the system."
+88.2.18,"""Rupture"" or ""burst"" both mean to come apart suddenly and violently, break open or fly into pieces due to the force of internal pressure."
+88.2.19,"""Safety relief valve"" means a pressure relief device that opens at a preset pressure level and can re-close."
+88.2.20,"""Service life"" (of a compressed hydrogen container) means the time frame during which service (usage) is authorized."
+88.2.21,"""Shut-off valve"" means a valve between the storage container and the vehicle fuel system that can be automatically activated; which defaults to the ""closed"" position when not connected to a power source."
+88.2.22,"""Single failure"" means a failure caused by a single event, including any consequential failures resulting from this failure."
+88.2.23,"""Thermally-activated pressure relief device (TPRD)"" means a non- reclosing PRD that is activated by temperature to open and release hydrogen gas."
+88.2.24,"""Vehicle fuel system"" means an assembly of components used to store or supply hydrogen fuel to a fuel cell (FC) or internal combustion engine (ICE)."
+88.3,Specifications of a vehicle fuel system incorporating the compressed hydrogen storage system shall according to suitable variant and range of principleˇö
+88.3.1,The same vehicle category symbol.
+88.3.2,The same vehicle brand and vehicle type series.
+88.3.3,The same basic configuration and main characteristics of the vehicle fuel system.
+88.4,Applicants apply for certification test shall provide at least one representative vehicle (or the essential part of vehicle for test) and  submit the documents as below:
+88.4.1,"Vehicle specification documents, drawings and / or photographs described  Paragraph-."
+88.4.2,General construction characteristics of the vehicle
+88.4.2.1,"Powered axles (number, position, interconnection)."
+88.4.2.2,Chassis (if any) (overall drawing).
+88.4.3,Power Plant
+88.4.3.1,Hydrogen storage system
+88.4.3.1.1,Hydrogen storage system designed to use liquid / compressed (gaseous) hydrogen
+88.4.3.1.1.1,Description and drawing;
+88.4.3.1.1.2,Make(s);
+88.4.3.1.1.3,Type(s).
+88.4.3.1.2,Hydrogen leakage detection sensors
+88.4.3.1.2.1,Make(s);
+88.4.3.1.2.2,Type(s).
+88.4.3.1.3,Refueling connection or receptacle
+88.4.3.1.3.1,Make(s);
+88.4.3.1.3.2,Type(s).
+88.4.3.1.4,Drawings showing requirements for installation and operation.
+88.4.4,Required documents for carry out the test of this regulation.
+88.5,"Specifications  This part specifies requirements for the vehicle fuel system, which includes the compressed hydrogen storage system, piping, joints, and components in which hydrogen is present. The hydrogen storage system included in the vehicle fuel system shall conform to Specifications of the compressed hydrogen storage system(L)."
+88.5.1,In-use fuel system requirements
+88.5.1.1,Fuelling receptacle
+88.5.1.1.1,A compressed hydrogen fuelling receptacle shall prevent reverse flow to the atmosphere. Test procedure is by visual inspection.
+88.5.1.1.2,"Fuelling receptacle label: A label shall be affixed close to the fuelling receptacle; for instance inside a refilling hatch, showing the following information: fuel type (e.g. ""CHG"" for gaseous hydrogen), MFP, NWP, date of removal from service of containers."
+88.5.1.1.3,The fuelling receptacle shall be mounted on the vehicle to ensure positive locking of the fuelling nozzle. The receptacle shall be protected from tampering and the ingress of dirt and water (e.g. installed in a compartment which can be locked). Test procedure is by visual inspection.
+88.5.1.1.4,"The fuelling receptacle shall not be mounted within the external energy absorbing elements of the vehicle (e.g. bumper) and shall not be installed in the passenger compartment, luggage compartment and other places where hydrogen gas could accumulate and where ventilation is not sufficient. Test procedure is by visual inspection."
+88.5.1.2,Over-pressure protection for the low pressure system The hydrogen system downstream of a pressure regulator shall be protected against overpressure due to the possible failure of the pressure regulator. The set pressure of the overpressure protection device shall be lower than or equal to the maximum allowable working pressure for the appropriate section of the hydrogen system.  The system is visually inspected for compliance.
+88.5.1.3,Hydrogen discharge systems
+88.5.1.3.1,"Pressure relief systems (a) Storage system TPRDs. The outlet of the vent line, if present, for hydrogen gas discharge from TPRD(s) of the storage system shall be protected by a cap; (b) Storage system TPRDs. The hydrogen gas discharge from TPRD(s) of the storage system shall not be directed: (i) Into enclosed or semi-enclosed spaces; (ii) Into or towards any wheel housing of the vehicle or any braking component that is subject to elevated temperatures during intended use; (iii) Towards hydrogen gas containers; (iv) In any direction other than perpendicularly outward from the bottom of the vehicle body. (c) Other pressure relief devices (such as a burst disc) may be used outside the hydrogen storage system. The hydrogen gas discharge from other pressure relief devices shall not be directed: (i) Towards exposed electrical terminals, exposed electrical switches or other ignition sources; (ii) Into or towards the vehicle passenger or luggage compartments or towards the driver or any passengers on the vehicle; (iii) Into or towards any wheel housing of the vehicle or any braking component that is subject to elevated temperatures during intended use. (iv) Towards hydrogen gas containers. The system is visually inspected for compliance."
+88.5.1.3.2,"Vehicle exhaust system(According  Paragraph-) At the vehicle exhaust system's point of discharge, the hydrogen concentration level shall: (a) Not exceed 4 per cent average by volume during any moving three-second time interval during normal operation including start-up and shut-down; (b) And not exceed 8 per cent at any time (According  Paragraph-). "
+88.5.1.4,Protection against flammable conditions: single failure conditions
+88.5.1.4.1,"Hydrogen leakage and/or permeation from the hydrogen storage system shall not directly vent into the passenger or luggage compartments or towards the driver or any passengers on the vehicle, or to any enclosed or semi-enclosed spaces within the vehicle that contains unprotected ignition sources."
+88.5.1.4.2,Any single failure downstream of the main hydrogen shut-off valve shall not result in accumulations in levels of hydrogen concentration in the passenger compartment according to test procedure  Paragraph-.
+88.5.1.4.3,"If, during operation, a single failure results in a hydrogen concentration exceeding 3.0 per cent by volume in air in the enclosed or semi-enclosed spaces of the vehicle, then a warning shall be provided ( Paragraph-). If the hydrogen concentration exceeds 4.0 per cent by volume in the air in the enclosed or semi-enclosed spaces of the vehicle, the main shut-off valve shall be closed to isolate the storage system. (According  Paragraph-)."
+88.5.1.5,"Fuel system leakage The hydrogen fuelling line (e.g. piping, joint, etc.) downstream of the main shut-off valve(s) to the fuel cell system or the engine shall not leak. Compliance shall be verified at NWP (According  Paragraph-)."
+88.5.1.6,"Tell-tale signal warning to driver The warning shall be given by a visual signal or display text with the following properties: (a) Visible to the driver while in the driver's designated seating position (with the driver's seat belt fastened if such restraint system is installed); (b) Yellow in color if the detection system malfunctions (e.g. circuit disconnection, short-circuit, sensor fault). It shall be red in compliance with section Paragraph-; (c) When illuminated, shall be visible to the driver under both daylight and night time driving conditions; (d) Remains illuminated when 3.0 per cent concentration or detection system malfunction exists and the ignition  locking system is in the ""On"" (""Run"") position or the propulsion system is activated."
+88.5.2,Installation of the hydrogen container on-board a vehicle The vehicle fuel system shall be subject to the relevant-accelerations specified below. The accelerations shall be measured at the location where the hydrogen storage system is installed. The vehicle fuel system shall be mounted and fixed on the representative part of the vehicle. The mass used shall be representative for a fully equipped and filled container or container assembly. Accelerations for vehicles: (a) 43.5 g in the direction of travel (forward and rearward direction); (b) 63 g horizontally perpendicular to the direction of travel (to left and right).
+88.5.2.1,Container Displacement The storage container(s) shall remain attached to the vehicle at a minimum of one attachment point and shall stay within the installed location(s) after the accelerations test specified above.
+88.5.2.2,Additional installation requirements The test procedure shall be by visual inspection.
+88.5.2.2.1,"The container and primary closure devices for openings into the high pressure storage container shall not come in direct contact with the road surface in the event of turnover, etc."
+88.5.2.2.2,"The container and primary closure devices for openings into the high pressure storage container shall not come in direct contact with other parts, etc. (except protective part(s)) in the event of collision or vehicle crush, etc."
+88.5.2.2.3,The container shall not be exposed to direct sunlight.
+88.6,Test procedures for a vehicle fuel system incorporating the compressed hydrogen storage system
+88.6.1,Compliance test for single failure conditions Either test procedure  Paragraph-.  Paragraph-. shall be executed: 
+88.6.1.1,Test procedure for vehicle equipped with hydrogen gas leakage detectors
+88.6.1.1.1,Test condition
+88.6.1.1.1.1,"Test vehicle: The propulsion system of the test vehicle is started, warmed up to its normal operating temperature, and left operating for the test duration. If the vehicle is not a fuel cell vehicle, it is warmed up and kept idling. If the test vehicle has a system to stop idling automatically, measures are taken so as to prevent the engine from stopping."
+88.6.1.1.1.2,"Test gas: Two mixtures of air and hydrogen gas: 3.0 per cent concentration (or less) of hydrogen in the air to verify function of the warning, and 4.0 per cent concentration (or less) of hydrogen in the air to verify the shut-down function. The proper concentrations are selected based on the recommendation (or the detector specification) by the manufacturer."
+88.6.1.1.2,Test method
+88.6.1.1.2.1,Preparation for the test: The test is conducted without any influence of wind by appropriate means such as: (a) A test gas induction hose is attached to the hydrogen gas leakage detector; (b) The hydrogen leak detector is enclosed with a cover to make gas stay around hydrogen leak detector.
+88.6.1.1.2.2,"Execution of the test (a) Test gas is blown to the hydrogen gas leakage detector; (b) Proper function of the warning system is confirmed when tested with the gas to verify function of the warning; (c) The main shut-off valve is confirmed to be closed when tested with the gas to verify function of the  shut-down. For example, the monitoring of the electric power to the shut-off valve or of the sound of the shut-off valve activation may be used to confirm the operation of the main shut-off valve of the hydrogen supply."
+88.6.1.2,Test procedure for integrity of enclosed spaces and detection systems.
+88.6.1.2.1,Preparation:
+88.6.1.2.1.1,The test is conducted without any influence of wind.
+88.6.1.2.1.2,"Special attention is paid to the test environment as during the test, flammable mixtures of hydrogen and air may occur."
+88.6.1.2.1.3,"Prior to the test the vehicle is prepared to allow remotely controllable hydrogen releases from the hydrogen system. The number, location and flow capacity of the release points downstream of the main hydrogen shut-off valve are defined by the vehicle manufacturer taking worst case leakage scenarios under single failure condition into account. As a minimum, the total flow of all remotely controlled releases shall be adequate to trigger demonstration of the automatic ""warning"" and hydrogen shut-off functions."
+88.6.1.2.1.4,"For the purpose of the test, a hydrogen concentration detector is installed where hydrogen gas may accumulate most in the passenger compartment (e.g. near the headliner) when testing for compliance with Paragraph-. of this Regulation and hydrogen concentration detectors are installed in enclosed or semi enclosed volumes on the vehicle where hydrogen can accumulate from the simulated hydrogen releases when testing for compliance with Paragraph-. of this Regulation ( Paragraph-)."
+88.6.1.2.2,Procedure:
+88.6.1.2.2.1,"Vehicle doors, windows and other covers are closed. "
+88.6.1.2.2.2,"The propulsion system is started, allowed to warm up to its normal operating temperature and left operating at idle for the test duration."
+88.6.1.2.2.3,A leak is simulated using the remote controllable function.
+88.6.1.2.2.4,"The hydrogen concentration is measured continuously until the concentration does not rise for 3 minutes. When testing for compliance with Paragraph- of this Regulation, the simulated leak is then increased using the remote controllable function until the main hydrogen shut-off valve is closed and the tell-tale warning signal is activated. The monitoring of the electric power to the shut-off valve or of the sound of the shut-off valve activation may be used to confirm the operation of the main shut-off valve of the hydrogen supply."
+88.6.1.2.2.5,"When testing for compliance with Paragraph-. of this Regulation, the test is successfully completed if the hydrogen concentration in the passenger compartment does not exceed 1.0 per cent. When testing for compliance with Paragraph-. of this Regulation, the test is successfully completed if the tell-tale warning and shut-off function are executed at (or below) the levels specified  Paragraph-. of this Regulation; otherwise, the test is failed and the system is not qualified for vehicle service."
+88.6.2,Compliance test for the vehicle exhaust system
+88.6.2.1,The power system of the test vehicle (e.g. fuel cell stack or engine) is warmed up to its normal operating temperature.
+88.6.2.2,The measuring device is warmed up before use to its normal operating temperature.
+88.6.2.3,The measuring section of the measuring device is placed on the centre line of the exhaust gas flow within 100 mm from the exhaust point of discharge external to the vehicle. 
+88.6.2.4,"The exhaust hydrogen concentration is continuously measured during the following steps: (a) The power system is shut-down; (b) Upon completion of the shut-down process, the power system is immediately started; (c) After a lapse of one minute, the power system is turned off and measurement continues until the power system shut-down procedure is completed."
+88.6.2.5,The measurement device shall have a measurement response time of less than 300 milliseconds.
+88.6.3,Compliance test for fuel line leakage
+88.6.3.1,The power system of the test vehicle (e.g. fuel cell stack or engine) is warmed up and operating at its normal operating temperature with the operating pressure applied to fuel lines.
+88.6.3.2,"Hydrogen leakage is evaluated at accessible sections of the fuel lines from the high pressure section to the fuel cell stack (or the engine), using a gas leak detector or a leak detecting liquid, such as soap solution."
+88.6.3.3,Hydrogen leak detection is performed primarily at joints
+88.6.3.4,"When a gas leak detector is used, detection is performed by operating the leak detector for at least 10 seconds at locations as close to fuel lines as possible."
+88.6.3.5,"When a leak detecting liquid is used, hydrogen gas leak detection is performed immediately after applying the liquid. In addition, visual checks are performed a few minutes after the application of liquid to check for bubbles caused by trace leaks."

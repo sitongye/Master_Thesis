@@ -1,0 +1,234 @@
+Index,Text
+55,Strength of super structure for large passenger vehicle Refer to: R66 02
+55.1,"Effective date and Scope: Effective date from 2008/12/31, the strength of super structure for vehicle as below that shall comply with this regulation."
+55.1.1,"The vehicle of category M3 with wheelbase exceeding four meters, except for vehicles specified  Paragraph-."
+55.1.2,"The vehicle of category M3 vehicles that wheelbase not exceeding four meters, gross weight exceeding 4.5 tons and seated place for passengers is more than 22not including driver:"
+55.1.2.1,Vehicles constructed exclusively for the carriage of seated passengers.
+55.1.2.2,"Vehicles constructed principally for the carriage of seated passengers, and designed to allow the carriage of standing passengers in the gangway and/or in a standing area which does not exceed the space provided for two double seats."
+55.1.3,The articulated buses ( category M3 ) as below:
+55.1.3.1,The articulated buses ( category M3 ) constructed exclusively for the carriage of seated passengers.
+55.1.3.2,"The articulated buses ( category M3 ) having a capacity exceeding 22 passengers in addition to the driver, vehicles constructed principally for the carriage of seated passengers, and designed to allow the carriage of standing passengers in the gangway and/or in an area which does not exceed the space provided for two double seats."
+55.1.4,Single deck buses ( category M3 ) without a roof and double decker city buses( category M3 ) without a roof could exempt from this regulation.
+55.2,Definitions:
+55.2.1,"""Unladen kerb mass"" (MK) (kg) means the mass of the vehicle in running order, unoccupied and unladen but with the addition of 75 kg for the mass of the driver, the mass of fuel corresponding to 90 % of the capacity of the fuel tank specified by the manufacturer, and the masses of coolant, lubricant, tools and spare wheel, if any;"
+55.2.2,"""Total occupant mass"" (Mm) means the combined mass of any passengers, crew who occupy seats fitted with occupant restraints."
+55.2.3,"""Total effective vehicle mass"" (Mt) means the unladen kerb mass of the vehicle (Mk) combined with the portion (k = 0.5), of the total occupant mass (Mm), considered to be rigidly attached to the vehicle."
+55.2.4,"""Residual space"" means a space to be preserved in the passengers', crew and driver's compartment(s) to provide better survival possibility for passengers, driver and crew in case of a rollover accident."
+55.2.5,"""Superstructure"" means the parts of a vehicle structure which contribute to the strength of the vehicle in the event of a roll-over accident;"
+55.2.6,"""Bay"" means a structural section of the superstructure forming a closed loop between two planes which are  perpendicular to the vertical longitudinal central plane of the vehicle. A bay contains one window (or door) pillar on each side of the vehicle as well as side wall elements, a section of the roof structure and a section of the floor and underfloor structure."
+55.2.7,"""Body section"" means a section containing at least two identical vertical pillars on each side representative of a part or parts of the structure of the vehicle;"
+55.2.8,"""Artificial body section"" means a body section built up from two or more bays but not in the same position, nor at the same distance from each other as in the actual vehicle. The connecting elements between these bays need not be identical with the real body work structure but shall be structurally equivalent."
+55.3,Strength of super structure for large passenger vehicle shall according to suitable types and range of principle are as below
+55.3.1.1,The same vehicle category symbol.
+55.3.1.2,The same axle set type.
+55.3.1.3,The same brand and vehicle type series.
+55.3.1.4,The chassis vehicle have had same axle set type.
+55.3.1.5,The same chassis brand.
+55.3.1.6,Chassis manufacturers announced that the same chassis vehicle type series.
+55.4,Test methods
+55.4.1,"Except for roll-over test on a complete vehicle, applicants could choose following Paragraph- to"
+55.4.1.4,"for test, instead of roll-over test on a complete vehicle test. If applicant choose equivalent test that cant cover the special characteristic and structure, the vehicle shall do the roll-over test on a complete vehicle test."
+55.4.1.1,"According  Paragraph-, it shall do the roll-over test on a complete vehicle test."
+55.4.1.2,"According  Paragraph-, it shall do the quasi -static loading test of body sections."
+55.4.1.3,"According  Paragraph-, it shall do the quasi-static calculation based on testing of components."
+55.4.1.4,"According  Paragraph-, it shall do the computer simulation of rollover test on complete vehicle."
+55.4.2,"In the case of an articulated buses, each rigid section of the vehicle shall comply with the general requirement specified  Paragraph-. Each rigid section of an articulated buses may be tested separately or in combination as described  Paragraph-."
+55.5,Roll-over test on a complete vehicle test
+55.5.1,Test conditions
+55.5.1.1,The tilting platform shall be sufficiently rigid and the rotation sufficiently controlled to ensure simultaneous lifting of the axles of the vehicle with a difference of less than 1 degree in the platform's tilt angles measured below the axles.
+55.5.1.2,"The height difference between the horizontal lower plane of the ditch (see Figure.4) and the plane of the tilting platform on which the bus is standing, shall be 800 +/- 20 mm. "
+55.5.1.3,"The tilting platform, related to the ditch, shall be placed as follows (see Figure 4):"
+55.5.1.3.1,the axis of its rotation is max 100 mm from the vertical wall of the ditch;
+55.5.1.3.2,the axis of the rotation is max 100 mm below the plane of the horizontal tilting platform.
+55.5.1.4,Wheel supports shall be applied at the wheels being close to the axis of rotation against sliding of the vehicle sideways when tilting it. The main characteristics of the wheel supports (see figure 4) shall be:
+55.5.1.4.1,dimensions of the wheel support: shall not be greater than two-thirds of the distance between the surface on which the vehicle stands before it is tilted and part of the rim of the wheel which is nearest to the surface Width 20 mm Edge radius 10 mm Length 500 mm minimum;
+55.5.1.4.2,the wheel supports at the widest axle shall be placed on the tilting platform so that the side of the tyre is at maximum 100 mm from the axis of rotation;
+55.5.1.4.3,the wheel supports at the other axles shall be adjusted so that the vertical longitudinal centre plane (VLCP) of the vehicle shall be parallel to the axis of rotation.
+55.5.1.5,"The impact area of the ditch shall have a horizontal, uniform, dry and smooth concrete surface."
+55.5.1.6,"The vehicle to be tested need not be in a fully finished, ""ready for operation"" condition. Generally, any alteration from the fully finished condition is acceptable if the basic features and behaviour of the superstructure are not influenced by it. The test vehicle shall be the same as its fully finished version in respect of the following:"
+55.5.1.6.1,"the position of the centre of gravity, the total value of vehicle mass (unladen kerb mass, or total effective vehicle mass where restraints are fitted) and the distribution and location of masses, as declared by the manufacturer."
+55.5.1.6.2,all of those elements which - according to the manufacturer - contribute to the strength of the superstructure shall be installed in their original position.
+55.5.1.6.3,"elements, which do not contribute to the strength of the superstructure and are too valuable to risk damage (e.g. drive chain, dashboard instrumentation, driver's seat, kitchen equipment, toilet equipment, etc.) can be replaced by additional elements equivalent in mass and method of installation. These additional elements must not have a reinforcing effect on the strength of superstructure."
+55.5.1.6.4,"fuel, battery acid and other combustible, explosive or corrosive materials may be substituted with other materials provided that the conditions  Paragraph- are met."
+55.5.1.6.5,"In the case where occupant restraint devices are part of the vehicle type, a mass shall be attached to each seat fitted with an occupant restraint following one of these two methods, at the choice of the manufacturer:"
+55.5.1.6.5.1,First method: That mass shall be:
+55.5.1.6.5.1.1,"the individual occupant mass (Mmi) of 68 kg,  If former occupant mass is fixed rigidly and securely to the seat and comply Paragraph-, that mass shall be: 50 of the individual occupant mass (Mmi) of 68 kg Paragraph- placed to have its centre of gravity 100 mm above and 100 mm forward of the R point of the seat as defined in Regulation"
+55.5.1.6.5.2,Second method: That mass shall be
+55.5.1.6.5.2.1,an anthropomorphic ballast with a mass of 68 kg and shall be restrained with a 2 point safety-belt. The ballast must allow guiding and positioning for safety-belts.
+55.5.1.6.5.2.2,placed to have its centre of gravity and dimensioning according to Figure 5. fixed rigidly and securely so that it does not break away during the test.
+55.5.1.6.6,tyres shall be inflated to the pressure prescribed by the manufacturer.
+55.5.1.6.7,"the suspension system of the vehicle shall be blocked, i.e. the axles, the springs and the suspension elements of the vehicle shall be fixed in relation to the bodywork. The floor height above the horizontal tilting platform shall be according to the manufacturer's specification for the vehicle, dependent on whether it is loaded to unladen kerb mass or total vehicle mass."
+55.5.1.6.8,every door and opening window of the vehicle shall be closed but not locked.
+55.5.1.7,The rigid sections of an articulated buses may be tested separately or in combination.
+55.5.1.7.1,"For testing the articulated sections as a combination, the sections of the vehicle shall be connected to each other in such a way that :"
+55.5.1.7.1.1,there is no relative movement between them during the roll-over process.
+55.5.1.7.1.2,there is no significant change in mass distribution and centre of gravity positions.
+55.5.1.7.1.3,there is no significant change in the strength and deformation capability of the superstructure.
+55.5.1.7.2,"For testing the articulated sections separately, the single-axle sections shall be attached to an artificial support which keeps them in fixed relation to the tilting platform during its movement from the horizontal to the point of roll-over. This support shall meet the following requirements:"
+55.5.1.7.2.1,it shall be fixed to the structure in such a way that it does not cause either reinforcement or extra additional load to the superstructure.
+55.5.1.7.2.2,it shall be constructed so that it does not suffer any deformation which could change the direction of the rollover of the vehicle.
+55.5.1.7.2.3,"its mass shall be equal to the mass of those elements, parts of the articulated joint, which nominally belong to the section being tested, but which are not placed on it (e.g. turntable and its floor, handholds, rubber sealing curtains, etc.). "
+55.5.1.7.2.4,its centre of gravity shall have the same height as the common centre of gravity of those parts which are listed.
+55.5.1.7.2.5,"it shall have an axis of rotation parallel to the longitudinal axis of the multi-axle section of the vehicle, and passing through the points of contact of the tyres of that section."
+55.5.1.7.3,"If the rigid sections of an articulated vehicles tested separately, center of gravity positions of individually rigid sections shall be measured."
+55.5.2,"Test procedure, test process"
+55.5.2.1,Detailed description of the tested vehicle shall be given by the manufacturer in which:
+55.5.2.1.1,all the deviations between the fully finished vehicle type in running order and the tested vehicle are listed.
+55.5.2.1.2,"the equivalent substitution (in respect of mass, mass distribution and installation) shall be proved in every case, when structural parts, units are substituted by other units or masses."
+55.5.2.1.3,"there is a clear statement of the position of centre of gravity in the tested vehicle which may be based on measurements carried out on the test vehicle when it is ready for test, or a combination of measurement (carried out on the fully finished vehicle type) and calculation based on the mass substitutions."
+55.5.2.2,"The rollover test shall be carried out on that side of the vehicle which is more dangerous with respect to the residual space. The decision is made by the technical service on the basis of the manufacturer's proposal, considering at least the following:"
+55.5.2.2.1,"the lateral eccentricity of the centre of gravity and its effect on the reference energy in the unstable, starting position of the vehicle,  Paragraph-;"
+55.5.2.2.2,"the asymmetry of the residual space,  Paragraph-."
+55.5.2.2.3,"the different, asymmetrical constructional features of the two sides of the vehicle, and the support given by partitions or inner boxes (e.g. wardrobe, toilet, kitchenette). The side with the lesser support shall be chosen as the direction of the rollover test."
+55.5.2.3,The rollover test is a lateral tilting test (see Figure 3)
+55.5.2.4,"The complete vehicle is standing on the tilting platform, with blocked suspension and is tilted slowly to its unstable equilibrium position. If the vehicle type is not fitted with occupant restraints it will be tested at unladen kerb mass. If the vehicle type is fitted with occupant restraints it will be tested at total effective vehicle mass;"
+55.5.2.5,The rollover test starts in this unstable vehicle position with zero angular velocity and the axis of rotation runs through the wheel-ground contact points. At this moment the vehicle is characterized by the reference energy E R.
+55.5.2.5.1,"The value of reference energy (E R) which is the product of the vehicle mass (M), the gravity constant (g) and the height (h1) of centre of gravity with the vehicle in its unstable equilibrium position when starting the  rollover test (see Figure 3)"
+55.5.2.6,"The vehicle tips over into a ditch, having a horizontal, dry and smooth concrete ground surface with a nominal depth of 800 mm;"
+55.5.2.7,"The rollover test is a very rapid, dynamic process having distinguishable stages, should be taken into consideration when a rollover test, its instrumentation and measurement are planned."
+55.5.2.8,The vehicle shall be tilted without rocking and without dynamic effects until it reaches unstable equilibrium and commences its rollover. The angular velocity of the tilt platform shall not exceed 5 degrees/sec. (0.087 radians/sec).
+55.5.2.9,"For inside observation high-speed photography, video, deformable templates, electrical contact sensors or other suitable means shall be used to determine. This shall be verified at any places of the passenger, driver's and crew compartment where the residual space seems to be endangered, the exact positions being at the discretion of the technical service. At least two positions, nominally at the front and rear of the passenger compartment shall be used."
+55.5.2.10,"Outside observation and recording of the rollover and deformation process is recommended, which means the following:"
+55.5.2.10.1,"two high-speed cameras - one at the front and another at the rear. They should be located far enough from the front and rear wall of the vehicle to produce a measurable picture, avoiding wide-angle distortion. in the shaded area, as shown in Figure 6."
+55.5.2.10.2,"the position of the centre of gravity and the contour of the superstructure (see Figure7), is marked by stripes and bands to ensure correct measurements on the pictures."
+55.6,Rollover test using body sections as an equivalent approval method
+55.6.1,Preparation of body sections
+55.6.1.1,The tilting bench shall meet the requirements Paragraph-.
+55.6.1.2,The number of the body sections to be tested shall be determined by the following rules:
+55.6.1.2.1,all the different bay configurations which are part of the superstructure shall be tested in at least one body section;
+55.6.1.2.2,every body section shall have at least two bays;
+55.6.1.2.3,in an artificial body section the ratio of the mass of any one bay to any other bay shall not exceed 2;
+55.6.1.2.4,"the residual space of the whole vehicle shall be well represented in the body sections, including any peculiar  combinations arising from the vehicles bodywork configuration;"
+55.6.1.2.5,"the whole roof structure shall be well represented in the body sections if there are local specialities, like changing height, air condition installation, gas tanks, luggage carrier, etc."
+55.6.1.3,"The bays of the body section shall be exactly the same structurally as they are represented in the superstructure, as regards shape, geometry, material, joints."
+55.6.1.4,The connecting structures between the bays shall represent the manufacturer's description of the superstructure and the following rules shall be considered:
+55.6.1.4.1,"in the case of an original body section taken directly from the actual vehicle layout, the basic and the additional connecting structures shall be the same as that of the vehicle superstructure;"
+55.6.1.4.2,"in the case of an artificial body section, the connecting structures shall be equivalent in terms of strength, stiffness and behaviour to that of the vehicle superstructure;"
+55.6.1.4.3,"those rigid elements which are not part of the superstructure but which can encroach on the residual space during deformation, shall be installed into the body sections;"
+55.6.1.4.4,"the mass of the connecting structures shall be included in the mass distribution, in terms of attribution to a particular bay and distribution within that bay."
+55.6.1.5,"The body sections shall be equipped with artificial supports, to provide the same centre of gravity positions and axis of rotation for them on the tilting platform as that of the complete vehicle. The supports shall meet the following requirements:"
+55.6.1.5.1,they shall be fixed to the body section in such a way that they do not provide either reinforcement or extra additional load on the body section;
+55.6.1.5.2,they shall be sufficiently strong and rigid to resist any deformation which could change the direction of the body section motion during the tilting and rollover process;
+55.6.1.5.3,their mass shall be included in the mass distribution and centre of gravity position of the body section.
+55.6.1.6,their mass shall be included in the mass distribution and centre of gravity position of the body section.
+55.6.1.6.1,any masses attached to the bays shall be placed and fixed to the body section in such a way that they do not cause reinforcement or additional load or limitation of the deformation.
+55.6.1.6.2,"In the case where occupant restraints are part of the vehicle type, the occupant masses shall be considered as described  Paragraph-."
+55.6.2,Test procedure
+55.6.2.1,The following paper documents shall be provide by applicant.
+55.6.2.1.1,drawings of the body sections to be tested; 
+55.6.2.1.2,"the measured masses of the body sections to be tested, and verification that their centre of gravity positions are the same (measuring or analysis report shall be presented by applicants): with total effective vehicle mass if occupant restraints are fitted."
+55.6.2.2,Others test procedure are the same Paragraph- to 55.5.2.10.
+55.7,Quais-static loading test of body sections as an equivalent approval method
+55.7.1,Preparation of body sections
+55.7.1.1,"The manufacturer shall consider the requirements given  Paragraph- to 55.6.1.6, when designing and producing the body sections for test."
+55.7.1.2,"The body sections shall be equipped with the residual space profile, at positions where it is considered that the pillars or other structural elements are likely to intrude as a result of the expected deformation."
+55.7.1.3,"This method of testing uses body sections as test units, each one built up from at least two bays of the vehicle under appraisal, connected together with representative structural elements."
+55.7.2,Test procedure
+55.7.2.1,The following paper documents shall be provide by applicant.
+55.7.2.1.1,drawings of the body sections to be tested.
+55.7.2.1.2,"energy values to be absorbed by the individual bays of the superstructure, as well as the energy values belonging to the body sections to be tested."
+55.7.2.2,Each body section to be tested shall be firmly and securely attached to the test bench through a rigid underframe structure in such a way that Paragraph- local plastic deformation shall not occur around the attachment points;
+55.7.2.2.2,the location and method of attachment shall not inhibit the formation and working of expected plastic zones and hinges.
+55.7.2.3,"For application of the load to the body section, the following rules shall be considered:"
+55.7.2.3.1,"the load shall be evenly distributed on the cantrail, through a rigid beam, which is longer than the cantrail to simulate the ground in a rollover test, and which follows the geometry of the cantrail."
+55.7.2.3.2,the direction of the applied load (see Figure 8) shall be related to the longitudinal vertical centre plane of the vehicle and its inclination (alpha) shall be determined as follows:  where: Hc = the cantrail height (in mm) of the vehicle measured from the horizontal plane on which it is standing.
+55.7.2.3.3,"the load shall be applied to the beam at the centre of gravity of the body section derived from the masses of its bays and the structural elements connecting them. Using the symbols of Figure 8, the position of the body section can be determined by the following formula: where: s = the number of the bays in the body section mi = the mass of the bay li = the distance of the centre of gravity of the bay from a selected pivot point (the central plane of Bay(1) in Figure 8) lCG = the distance of the centre of gravity of the body section from the same selected pivot point."
+55.7.2.3.4,"the load shall be increased gradually, taking measurements of the associated deformation at discrete intervals until the ultimate deformation (du) when the residual space is invaded by one of the elements of the body section."
+55.7.2.4,When plotting the load-deflection curve:
+55.7.2.4.1,he frequency of measurement shall be such as to produce a continuous curve (see Figure 9).
+55.7.2.4.2,the values of load and deformation shall be measured simultaneously.
+55.7.2.4.3,the deformation of the loaded cantrail shall be measured in the plane and direction of the applied load.
+55.7.2.4.4,both load and deformation shall be measured to an accuracy of +/- 1 per cent. 
+55.7.3,The vertical movement (delta h) of centre of gravity related to the rollover test may be determined by the graphical method shown below.
+55.7.3.1,"Using scaled drawings of the cross-section of the vehicle, the initial height (h1) of the centre of gravity (position 1) above the lower plane of the ditch is determined for the vehicle standing at its point of unstable equilibrium on the tilting platform (see Figure 10)."
+55.7.3.2,"Using the assumption that the vehicle cross-section rotates around the edge of the wheel supports, (point A in Figure 10) the vehicle cross-section is drawn with its cantrail just touching the lower plane of the ditch (see Figure 11). In this position the height (h2) of the centre of gravity (position 2) relative to the lower plane of the ditch is determined."
+55.7.3.3,"The vertical movement of the centre of gravity (delta h) is Paragraph- If more than one body section are tested and each body section has a different vertical movement (delta h), the vertical movement of centre of gravity (delta hi) shall be determined for each body section and the combined mean value (delta h) is taken as, where: (delta hi) = the vertical movement of the centre of gravity of the ith body section, k = the number of body sections tested."
+55.8,Quasi-static calculation based on testing of components as an equivalent approval method
+55.8.1,The following paper documents shall be provide by applicant.
+55.8.1.1,The location of plastic zones (PZ) and plastic hinges (PH) in the superstructure;
+55.8.1.1.1,all the individual PZ's and PH's shall be uniquely identified on the drawing of the superstructure in their geometrically defined locations (see Figure 12)
+55.8.1.1.2,"structural elements between the PZ's and PH's can be treated as rigid or elastic parts in the calculation, and their length shall be determined by their actual dimensions in the vehicle."
+55.8.1.2,The technical parameters of PZ's and PH's;
+55.8.1.2.1,the cross-sectional geometry of the structural elements in which the PZ's and PH's are located. 
+55.8.1.2.2,the type and direction of loading applied to each PZ and PH.
+55.8.1.2.3,"the load-deformation curve of each PZ and PH as described  Paragraph-. The manufacturer may use either the static, or the dynamic characteristics of the PZ's and PH's for the calculation but shall not mix static and dynamic characteristics in one calculation."
+55.8.1.3,"A statement of the total energy (ET) to be absorbed by the superstructure, using the formula stated  Paragraph-."
+55.8.1.4,A brief technical description of the algorithm and computer program which are used for the calculation.
+55.8.2,Requirements for the quasi-static calculation
+55.8.2.1,"For the calculation, the complete superstructure shall be mathematically modelled as a load-bearing and deformable structure, taking account of the following:"
+55.8.2.1.1,"the superstructure shall be modelled as a single loaded unit containing deformable PZ's and PH's, connected by appropriate structural elements."
+55.8.2.1.2,the superstructure shall have the actual dimensions of the bodywork. The inner contour of the side-wall pillars and roof structure shall be used when checking the residual space.
+55.8.2.1.3,the PH's shall utilise the actual dimensions of the pillars and structural elements on which they are located ( Paragraph-).
+55.8.2.2,The applied loads in the calculation shall meet the following requirements:
+55.8.2.2.1,"the active load shall be applied in the transverse plane containing the centre of gravity of the superstructure (vehicle) which is perpendicular to the vertical longitudinal centre plane (VLCP) of the vehicle. The active load shall be applied on the cantrail of the superstructure through an absolutely rigid load application plane, which extends in both directions beyond the cantrail and any adjacent structure."
+55.8.2.2.2,At the beginning of the simulation the load application plane shall touch the cantrail at its most distant part from the vertical longitudinal central plane. The contact points between the load application plane and the superstructure shall be defined to ensure an exact load transfer.
+55.8.2.2.3,the active load shall have an inclination alpha related to the vertical longitudinal centre plane of the vehicle (see Figure 13). where: Hc = the cantrail height (in mm) of the vehicle measured from the horizontal plane on which it is standing.  The direction of action of the active load shall not be changed during the calculation.
+55.8.2.2.4,the active load shall be increased by small incremental steps and the whole structural deformation shall be calculated at every loading step. The number of loading steps shall exceed 100 and the steps shall be quasi-equal.
+55.8.2.2.5,"during the deformation process the load application plane may, in addition to parallel translation, be allowed to rotate around the axis of intersection of the load application plane with the transverse plane containing the centre of gravity, in order to follow the asymmetric deformation of the superstructure."
+55.8.2.2.6,the passive (supporting) forces shall be applied on the rigid under floor structure causing no influence on the structural deformation.
+55.8.3,The algorithm of the calculation and the computer program shall meet the following requirements:
+55.8.3.1,the program shall take account of non-linearities in the PH characteristics and large scale structural deformations.
+55.8.3.2,the program shall accommodate the working range of PH's and PZ's and shall stop the calculation if the deformation of PH's exceeds the validated working range.
+55.8.3.3,the program shall be able to calculate the total energy absorbed by the superstructure at every incremental load step.
+55.8.3.4,"at every incremental load step, the program shall be able to demonstrate the deformed shape of the bays forming the superstructure, and the position of every rigid part which may intrude into the residual space. The program shall identify the incremental load step at which the residual space is first invaded by any of the rigid structural parts."
+55.8.3.5,the program shall be able to detect and identify the incremental load step at which overall collapse of the superstructure begins; when the superstructure becomes unstable and deformation continues without an increase of the load.
+55.8.4,Characteristics of plastic hinges
+55.8.4.1,Characteristic curves The general form of a Plastic Zone (PZ) characteristic curve is a non-linear load deformation relationship measured on structural parts of the vehicle in laboratory tests. Plastic Hinge characteristic curves are a bending moment (M) - rotational angle (phi) relationship. The general form of a PH characteristic curve is shown in Figure 14.
+55.8.4.2,Aspects of deformation ranges
+55.8.4.2.1,"The ""measured range"" of the PH characteristic curve is the range of deformation over which measurements have been made. The measured range may contain the fracture, and/or the rapid hardening range. Only values of  the PH characteristics which appear in the measured range shall be used in the calculation."
+55.8.4.2.2,"The ""working range"" of the PH characteristic curve is the range covered by the calculation. The working range shall not exceed the measured range, and may contain the fracture, but not the rapid-hardening range."
+55.8.4.2.3,The PH characteristics to be used in the calculation shall contain the M-phi curve in the measured range.
+55.8.4.3,Dynamic Characteristics There are two kinds of PH and PZ characteristics: quasi-static and dynamic. The dynamic characteristics of a PH may be determined in two ways:
+55.8.4.3.1,by dynamic impact testing of the component.
+55.8.4.3.2,by using a dynamic factor Kd to transform the quasi-static PH characteristics. This transformation means that the values of the quasi-static bending moment may be increased by Kd. For steel structural elements Kd = 1.2 may be used without laboratory test.
+55.9,Computer simulation of rollover test on complete vehicle as an equivalent approval method The superstructure may be shown to meet the requirements specified  Paragraph-. Paragraph-. of this Regulation by a computer simulation method approved by the technical service.
+55.9.1,The following paper documents shall be provide by applicant.
+55.9.1.1,"A description of the applied simulation and calculation method which has been utilised, and clear precise identification of the analysis software, including at least, its producer, its commercial name, the version used and contact details of the developer."
+55.9.1.2,The material models and the input data utilized.
+55.9.1.3,"The values for defined masses, centre of gravity and the moments of inertia used in the mathematical model."
+55.9.2,"The mathematical model The model shall be capable of describing the real physical behavior of the rollover process, in accordance with Paragraph-. The mathematical model shall be constructed, and assumptions prescribed, in such a way that the calculation gives conservative results. The model shall be built up with the following considerations:"
+55.9.2.1,the technical service may require tests to be carried out on the actual vehicle structure to prove the validity of the mathematical model and to verify the assumptions made in the model.
+55.9.2.2,the total mass and the centre of gravity position used in the mathematical model shall be identical to those of the vehicle to be approved.
+55.9.2.3,the mass distribution in the mathematical model shall correspond to the vehicle to be approved. Moments of inertia used in the mathematical model shall be calculated on the basis of this mass distribution.
+55.9.3,"Requirements for the algorithm and simulation program, and for computing equipment "
+55.9.3.1,"The position of the vehicle in unstable equilibrium at point of rollover, and the position at first contact with the ground shall be specified. The simulation program may start at the unstable equilibrium position, but shall start, at the latest, at the point of first contact with the ground."
+55.9.3.2,The initial conditions at the point of first contact with the ground shall be defined using the change of potential energy from the unstable equilibrium position.
+55.9.3.3,"The simulation program shall run, at least, until the maximum deformation is reached."
+55.9.3.4,"The simulation program shall produce a stable solution, in which the result is independent of the incremental time step."
+55.9.3.5,The simulation program shall be able to calculate the energy components for the energy balance at every incremental time step.
+55.9.3.6,"Non-physical energy components introduced by the process of mathematical modeling (for example, ""hourglass"" and internal damping) shall not exceed 5 per cent of the total energy at any time."
+55.9.3.7,"The friction coefficient used at the ground contact shall be validated with physical test results, or the calculation shall prove that the friction coefficient chosen produces conservative results."
+55.9.3.8,All the possible physical contacts between parts of the vehicle shall be taken into account in the mathematical model.
+55.10,Test standard
+55.10.1,Roll-over test on a complete vehicle test
+55.10.1.1,The superstructure of the vehicle shall have the sufficient strength to ensure that the residual space during and after the rollover test on complete vehicle is unharmed. That means:
+55.10.1.1.1,"No part of the vehicle which is outside the residual space at the start of the test (e.g. pillars, safety rings, luggage racks) shall intrude into the residual space during the test. Any structural parts, which are originally in the residual space (e.g. vertical handholds, partitions, kitchenettes, toilets) shall be ignored when evaluating the intrusion into the residual space."
+55.10.1.1.2,"No part of the residual space shall project outside the contour of the deformed structure. The contour of the deformed structure shall be determined sequentially, between every adjacent window and/or door pillar. Between two deformed pillars the contour shall be a theoretical surface, determined by straight lines, connecting the inside contour points of the pillars which were the same height above the floor level before the rollover test (see Figure 1)."
+55.10.1.2,"Residual space The envelope of the vehicle's residual space is defined by creating a vertical transverse plane within the vehicle  which has the periphery described in Figures 2(a) and 2(c), and moving this plane through the length of the vehicle (see Figure 2(b)) in the following manner:"
+55.10.1.2.1,"The SR point is located on the seat-back of each outer forward or rearward facing seat (or assumed seat position), 500 mm above the floor under the seat, 150 mm from the inside surface of the side wall. No account shall be taken of wheel arches and other variations of the floor height. These dimensions shall also be applied in the case of inward facing seats in their centre planes."
+55.10.1.2.2,"If the two sides of the vehicle are not symmetrical in respect of floor arrangement and, therefore, the height of the SR points are different, the step between the two floor lines of the residual space shall be taken as the longitudinal vertical centre plane of the vehicle (see Figure 2(c));"
+55.10.1.2.3,"The rearmost position of the residual space is a vertical plane 200 mm behind the SR point of the rearmost outer seat, or the inner face of the rear wall of the vehicle if this is less than 200 mm behind that SR point. The foremost position of the residual space is a vertical plane 600 mm in front of the SR point of the foremost seat (whether passenger, crew, or driver) in the vehicle set at its fully forward adjustment. If the rearmost and foremost seats on the two sides of the vehicle are not in the same transverse planes, the length of the residual space on each side will be different;"
+55.10.1.2.4,"The residual space is continuous in the passenger, crew and driver compartment(s) between its rearmost and foremost plane and is defined by moving the defined vertical transverse plane through the length of the vehicle along straight lines through the SR points on both sides of the vehicle. Behind the rearmost and in front of the foremost seat's SR point the straight lines are horizontal."
+55.10.1.2.5,"The manufacturer may define a bigger residual space than is required for a given seat arrangement, to simulate a worst case in a group of vehicle types to allow for future design development."
+55.10.2,Rollover test using body sections as an equivalent approval method
+55.10.2.1,The vehicle type shall be approved if all the body sections pass the rollover test and equations are fulfilled.
+55.10.2.2,"If one of the body sections fails the test, the vehicle type shall not be approved."
+55.10.2.3,"If a body section passes the rollover test, each of the bays which form that body section are considered to have passed the rollover test, and the result can be quoted used in future applications for approval, provided that the ratio of their masses remains the same in the subsequent superstructure."
+55.10.2.4,"If a body section fails the rollover test, all the bays within that body section shall be considered to have failed the test even if the residual space is invaded in only one of the bays."
+55.10.3,Quais-static loading test of body sections as an equivalent approval method
+55.10.3.1,From the plotted load-deformation curve the actual energy absorbed by the body section (EBS) shall be expressed  as the area below the curve (see Figure 9).
+55.10.3.2,The minimum energy required to be absorbed by the body section (Emin) shall be determined as follows:
+55.10.3.2.1,"the total energy (ET) to be absorbed by the superstructure is: where: M = Mk, unladen kerb mass of the vehicle if there are no occupant restraints; or, Mt, total effective vehicle mass when occupant restraints are fitted, g = gravitational constant, delta h = the vertical movement (in metres) of the vehicle centre of gravity during a rollover test, as determined in appendix 1 to this annex."
+55.10.3.2.2,"the total energy ""ET"" shall be distributed among the bays of the superstructure in the proportions of their masses: where: Ei = the absorbed energy by the ""ith"" bay mI = mass of the ""ith"" bay, as determined in annex 4, paragraph 4.1"
+55.10.3.2.3,the minimum energy required to be absorbed by the body section (Emin) is the sum of the energy of the bays comprising the body section:
+55.10.3.3,"The body section passes the loading test, if: EBS> Emin In this case, all the bays which form that body section are considered to have passed the quasi-static loading test  and these results can be quoted in future requests for approval provided that the component bays are not expected to carry a greater mass in the subsequent superstructure."
+55.10.3.4,The body section fails the loading test if: EBS < Emin In this case all the bays which form that body section are considered to have failed the test even if the residual space is invaded in only one of the bays.
+55.10.3.5,The vehicle type shall be approved if all the required body sections pass the loading test.
+55.10.4,Quasi-static calculation based on testing of components as an equivalent approval method
+55.10.4.1,"The total energy (ET) to be absorbed by the superstructure shall be determined as follows: where: M = Mk the unladen kerb mass of the vehicle, if there are no restraints, or Mt the total effective vehicle mass when occupant restraints are fitted G = the gravitational constant delta h = the vertical movement (in metres) of the vehicle centre of gravity during a rollover test, as determined  Paragraph-."
+55.10.4.2,The absorbed energy (Ea) of the superstructure is calculated at the incremental load step at which the residual space is first touched by any of the rigid structural parts.
+55.10.4.3,The vehicle type shall be approved if Ea > ET
+55.10.5,Computer simulation of rollover test on complete vehicle as an equivalent approval method
+55.10.5.1,"When the stated requirements for the simulation program are met, the simulation of the changes in geometry of the interior structure and comparison with the geometrical shape of the residual space can be evaluated as defined in the Paragraph-of this Regulation."
+55.10.5.2,"If the residual space is not infringed during the rollover simulation, the approval shall be granted."
+55.10.5.3,"If the residual space is infringed during the rollover simulation, the approval shall be refused.  Figure 1: Specification of the contour of the deformed structure  Figure 2: Specification of residual space Figure 3: Specification of the rollover test on a complete vehicle showing the path of the centre of gravity through the staring , unstable equilibrium position  Figure 4: Geometry of the tilting bench  Figure 5: Dimensions for the anthropomorphic ballast  Figure 6: Recommended field of view of outside camera  Figure 7: Recommended marking of the centre of gravity position and the contour of the vehicle  Figure 8: Application of load to the body section  Figure 9: Absorbed energy for the body section, derived from the measured load-deformation curve  Figure 10  Figure 11: Determination of the vertical movement of the vehicle centre of gravity  Figure 12: Geometrical parameters of plastic hinges on a bay  Figure 13; Load application to the superstructure  Figure14: Characteristic curve for a plastic hinge  Figure 15: Derivation of plastic hinge dynamic characteristics from the static curve "

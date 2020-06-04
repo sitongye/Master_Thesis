@@ -1,0 +1,136 @@
+Capitel,Index,Text
+Para,1.,SCOPE This Regulation applies to:
+subpara,1.1.," audible warning devices (AWD) (1), supplied with direct or alternating current or compressed air, which are intended for fitting to motor vehicles of categories L3 to 5, M and N, excluding mopeds (categories L1 and L2) (2);"
+subpara,1.2., the audible signals (3) of motor vehicles listed in 1.1.
+Para,1.2.,I.   AUDIBLE WARNING DEVICES
+Para,2.,"DEFINITIONS For the purposes of this Regulation, audible warning devices (AWD) of different ‘types’ shall be understood to mean devices essentially different from one another with respect to such matters as:"
+subpara,2.1., trade name or mark;
+subpara,2.2., principles of operation;
+subpara,2.3, type of electrical supply (direct or alternating current);
+subpara,2.4., outer shape of case;
+subpara,2.5., shape and dimensions of diaphragm(s);
+subpara,2.6., shape or kind of sound outlet(s);
+subpara,2.7., rated sound frequency or frequencies;
+subpara,2.8., rated supply voltage;
+subpara,2.9.," for devices supplied directly from an external compressed air source, rated operating pressure."
+subpara,2.10., The AWD is principally intended for:
+subpara,2.10.1., motor cycles of a power less than or equal to 7 kW (class I);
+subpara,2.10.2., vehicles of categories M and N and motor cycles of a power greater than 7 kW (class II).
+Para,3.,APPLICATION FOR APPROVAL
+subpara,3.1.,The application for approval of a type of audible warning device shall be submitted by the holder of the trade name or mark or by his duly accredited representative.
+subpara,3.2.,"It shall be accompanied by the following documents, in triplicate, giving the following particulars:"
+subpara,3.2.1.," a description of the type of audible warning device, paying particular attention to the points mentioned in paragraph 2;"
+subpara,3.2.2.," a drawing showing, inter alia, the warning device in cross section;"
+subpara,3.2.3.," a list of the components used in manufacture, duly identified, with an indication of the materials used;"
+subpara,3.2.4., detailed drawings of all the components used in manufacture. The drawings shall show the place provided for the approval number in relation to the circle of the approval mark.
+subpara,3.3.,"In addition, the application for approval shall be accompanied by two samples of the type of warning device."
+subpara,3.4.,The competent authority shall verify the existence of satisfactory arrangements for ensuring effective control of the conformity of production before type approval is granted.
+Para,4.,MARKINGS
+subpara,4.1.,The samples of the audible warning devices submitted for approval shall bear the manufacturer's trade name or mark; this mark must be clearly legible and indelible.
+subpara,4.2.,Each sample shall have a space of adequate dimensions for the approval mark; this space shall be indicated in the drawing referred to in paragraph 3.2.2.
+Para,5.,APPROVAL
+subpara,5.1.,"If the samples submitted for approval conform to the provisions of paragraphs 6 and 7 below, approval for this type of warning device shall be granted."
+subpara,5.2.,An approval number shall be assigned to each type approved. Its first two digits (at present 00 for the Regulation in its original form) shall indicate the series of amendments incorporating the most recent major technical amendments made to the Regulation at the time of issue of the approval. The same Contracting Party may not assign this number to another type of audible warning device.
+subpara,5.3.,"The same approval number may be assigned to types of warning device differing only with respect to rated voltage, rated frequency or frequencies or, for the devices mentioned in paragraph 2.8 above, rated operating pressure."
+subpara,5.4.,"Notice of approval or refusal or extension or withdrawal of approval or production definitely discontinued of a type of warning device pursuant to this Regulation shall be communicated to the Parties to the Agreement applying this Regulation by means of a form conforming to the model in Annex 1 to the Regulation, and of drawings of the audible warning device (supplied by the applicant for approval) with maximum format A4 (210 × 297 mm) or folded to this format and on the scale 1:1."
+subpara,5.5.,"On every audible warning device which conforms to a type approved under this Regulation, there shall be affixed conspicuously, in an easily accessible place indicated on the approval form, an international approval mark comprising:"
+subpara,5.5.1., a circle containing the letter ‘E’ followed by the distinguishing number of the country granting approval (4);
+subpara,5.5.2., an approval number;
+subpara,5.5.3.," an additional symbol in the form of a figure in Roman numerals, showing the class to which the AWD belongs."
+subpara,5.6.,The approval mark and the additional symbol must be clearly legible and indelible.
+subpara,5.7.,"Annex 3, Section I, to this Regulation gives an example of the arrangement of the approval mark."
+Para,6.,SPECIFICATIONS
+Para,6.1.,General specifications
+subpara,6.1.1.," The audible warning device shall emit a continuous and uniform sound; its acoustic spectrum shall not vary substantially during its operation. For warning devices supplied with alternating current, this requirement shall apply only at constant generator speed, within the range specified in paragraph 6.2.3.2."
+subpara,6.1.2.," The warning device shall have acoustic characteristics (spectral distribution of the acoustic energy, sound pressure level) and mechanical characteristics such that it passes, in the order indicated, the following tests."
+Para,6.2.,Measurement of the sound characteristics
+subpara,6.2.1.," The warning device should, preferably, be tested in an anechoic environment. Alternatively, it may be tested in a semi-anechoic chamber or in an open space (5). In this case, precautions shall be taken to avoid reflections from the ground within the measuring area (for instance by erecting a set of absorbing screens). Compliance with the spherical divergence to a limit of 1 dB within a hemisphere of not less than 5 m radius, up to the maximum frequency to be measured, especially in the measuring direction and at the height of the apparatus and the microphone, shall be checked. The ambient noise level shall be at least 10 dB lower than the sound pressure level to be measured. The device to be tested and the microphone shall be placed at the same height. This height shall be between 1,15 and 1,25 m. The axis of maximum sensitivity of the microphone shall coincide with the direction of the maximum sound level of the device. The microphone shall be so placed that its diaphragm is at a distance of 2 ± 0,01 m from the plane of the sound outlet of the device. In the case of devices with several outlets, the distance shall be determined in relation to the plane of the nearest outlet to the microphone."
+subpara,6.2.2.," The measurements of the sound pressure levels shall be made with a class 1 precision sound level metre conforming to the specifications of IEC Publication No 651, first edition (1979). All measurements shall be made using the time constant ‘F’. The measurement of the overall sound pressure level shall be made using the weighting curve A. The spectrum of the sound emitted shall be measured according to the Fourier transform of the acoustic signal. Alternatively, one-third octave filters conforming to the specifications of IEC Publication No 225, first edition (1966) may be used in this case, the sound pressure level in the mid-band frequency 2 500 Hz shall be determined by adding the quadratic means of the sound pressures in the one-third mid-band frequencies 2 000, 2 500 and 3 150 Hz. In every case, only the Fourier transform method shall be regarded as a reference method."
+subpara,6.2.3.," The AWD shall be supplied with current, as appropriate, at one of the test voltages:"
+subpara,6.2.3.1.," in the case of AWDs supplied with direct current, at a voltage measured at the terminal of the electric power source of 13/12 of the rated voltage."
+subpara,6.2.3.2.," in the case of AWDs supplied with alternating current, the current shall be supplied by an electric generator of the type normally used with this type of AWD. The acoustic characteristics of the AWD shall be recorded for electric generator speeds corresponding to 50 %, 75 % and 100 % of the maximum speed indicated by the manufacturer of the generator for continuous operation. During this test, no other electrical load shall be imposed on the electric generator. The endurance test described in paragraph 6.3 shall be carried out at a speed indicated by the manufacturer of the equipment and selected from the above range."
+subpara,6.2.4.," If a rectified current source is used for the test of an AWD supplied with direct current, the alternating component of the voltage measured at its terminals, when the warning devices are in operation, shall not be more than 0,1 volt, peak to peak."
+subpara,6.2.5.," For AWDs supplied with direct current, the resistance of the connecting leads, expressed in ohms, including terminals and contacts, shall be as close as possible to (0,10/12) × rated voltage in volts."
+subpara,6.2.6.," The warning device shall be mounted rigidly, by means of the equipment indicated by the manufacturer, on a support whose mass is at least ten times that of the warning device under test and not less than 30 kg. In addition, arrangements must be made to ensure that reflexions on the sides of the support and its own vibrations have no appreciable effect on the measuring results."
+subpara,6.2.7.," Under the conditions set forth above, the sound pressure weighted in accordance with curve A shall not exceed the following values: (a)"
+subpara,115,dB(A) for AWDs intended principally for motor cycles with a power less than or equal to 7 kW; (b)
+subpara,118,"dB(A) for AWDs intended principally for vehicles of categories M and N, and motor cycles with a power greater than 7 kW."
+subpara,6.2.7.1.," In addition, the sound-pressure level in the frequency band 1 800 to 3 550 Hz shall be greater than that of any component of a frequency above 3 550 Hz and in any event equal to or greater than: (a)"
+subpara,95,dB(A) for AWDs intended principally for motor cycles with a power less than or equal to 7 kW; (b)
+subpara,105,"dB(A) for AWDs intended principally for vehicles of categories M and N, and motor cycles with a power greater than 7 kW."
+subpara,6.2.7.2., AWDs meeting the sound characteristics mentioned in (b) may be used on the vehicles mentioned in (a).
+subpara,6.2.8.," The specifications indicated above shall also be met by a device subjected to the endurance test referred to in paragraph 6.3 below, with the supply voltage varying between 115 % and 95 % of its rated voltage for AWDs supplied with direct current or, for AWDs supplied with alternating current, between 50 % and 100 % of the maximum speed of the generator indicated by the manufacturer for continuous operations."
+subpara,6.2.9.," The time lapse between the moment when the device is actuated and the moment when the sound reaches the minimum value prescribed in paragraph 6.2.7 above shall not exceed 0,2 seconds measured at an ambient temperature of 20 + 5 °C. This provision is applicable, inter alia, to pneumatic or electro-pneumatic warning devices."
+subpara,6.2.10.," Pneumatic or electro-pneumatic warning devices shall, when operating under the power supply conditions established for the devices by the manufacturers, satisfy the same acoustic requirements as are prescribed for electrically operated audible warning devices."
+subpara,6.2.11.," In the case of multiple-tone devices in which each sound-emitting unit is capable of functioning independently, the minimum values specified above shall be obtained when each of the constituent units is operated separately. The maximum value of the overall sound level shall not be exceeded when all the constituent units are operated simultaneously."
+Para,6.3.,Endurance test
+subpara,6.3.1.," The AWD shall be supplied with current at the rated voltage and with the connecting lead resistances specified in paragraphs 6.2.3 to 6.2.5 above, and operated respectively: —"
+subpara,10,"000 times for AWDs intended principally for motor cycles with power less than or equal to 7 kW, —"
+subpara,50,"000 times for AWDs intended principally for vehicles of categories M and N and motor cycles with a power greater than 7 kW, each time for 1 second followed by an interval of 4 seconds. During the test, the AWD shall be ventilated by an air current having a speed of approximately 10 m/sec."
+subpara,6.3.2.," If the test is made in an anechoic chamber, the chamber shall be large enough to ensure normal dispersal of the heat released by the warning device during the test."
+subpara,6.3.3., The ambient temperature in the testing room shall be between + 15° and + 30 °C.
+subpara,6.3.4.," If, after the AWD has been operated for half the number of times prescribed, the sound-level characteristics are no longer the same as before the test, the AWD may be adjusted. After being operated the prescribed number times, and after further adjustment if necessary, the AWD must pass the test described in paragraph 6.2 above."
+subpara,6.3.5.," For warning devices of the electro-pneumatic type, the device may be lubricated with the oil recommended by the manufacturer after every 10 000 times of operation."
+Para,7.,MODIFICATION OF THE TYPE OF AUDIBLE WARNING DEVICE AND EXTENSION APPROVAL
+subpara,7.1.,Any modification of the type of audible warning device shall be notified to the administrative department which granted approval to the type of audible warning device. This department may then:
+subpara,7.1.1., either take the view that the modifications made are not likely to have any appreciable adverse effect;
+subpara,7.1.2., or call for a new report from the technical service responsible for the tests.
+subpara,7.2.,"Notice of confirmation of the approval, with particulars of the modifications, or of refusal of approval shall be communicated to the Parties to the Agreement applying this Regulation, in accordance with the procedure indicated in paragraph 5.4 above."
+subpara,7.3.,The competent authority issuing the extension of approval shall assign a series number to each communication form drawn up for such an extension.
+Para,8.,"CONFORMITY OF PRODUCTION The conformity of production procedures shall comply with those set out in the Agreement, Appendix 2 (E/ECE/324-E/ECE/TRANS/505/Rev.2) with the following requirements:"
+subpara,8.1., AWD approved under this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements set forth in paragraph 6 above.
+subpara,8.2., The authority which has granted type approval may at any time verify the conformity control methods applied in each production facility. The normal frequency of these verifications shall be once every 2 years.
+Para,9.,PENALTIES FOR NON-CONFORMITY OF PRODUCTION
+subpara,9.1.,The approval granted to a type of audible warning device pursuant to this Regulation may be withdrawn if the conditions set forth in paragraph 8.1 are not complied with or if the audible warning device fails to pass the checks referred to in paragraph 8.2 above.
+subpara,9.2.,"Should a Party to the Agreement applying this Regulation withdraw an approval which it has previously granted, it shall forthwith notify the other Contracting Parties applying this Regulation by means of a copy of the approval form bearing at the end in large letters the statement, signed and dated: ‘APPROVAL WITHDRAWN’."
+Para,10.,"PRODUCTION DISCONTINUED If the holder of an approval granted pursuant to this Regulation discontinues the production of the type of audible warning device approved, he shall inform the authority which granted the approval. Upon receipt of the communication, this authority shall inform the other Parties to the Agreement applying this Regulation by means of a copy of the approval form bearing at the end in large letters the statement, signed and dated: ‘PRODUCTION DISCONTINUED’."
+Para,10.,II.   AUDIBLE SIGNALS OF MOTOR VEHICLES
+Para,11.,"DEFINITIONS For the purpose of this Regulation,"
+subpara,11.1., ‘Approval of the motor vehicle’ shall be understood to mean approval of vehicle type with regard to its audible signal;
+subpara,11.2., ‘Vehicle type’ shall be understood to mean vehicles not essentially different from another with respect to such matters as:
+subpara,11.2.1., the number and type(s) of warning devices fitted on the vehicle;
+subpara,11.2.2., the mountings used to fit the warning devices to the vehicle;
+subpara,11.2.3., the position of the warning devices on the vehicle;
+subpara,11.2.4., the rigidity of the parts of the structure on which the warning device(s) is (are) mounted;
+subpara,11.2.5., the shape and materials of the bodywork at the front of the vehicle which might affect the level of the sound emitted by the warning device(s) and have a masking effect.
+Para,12.,APPLICATION FOR APPROVAL
+subpara,12.1.,The application for approval of a vehicle type with regard to its audible signals shall be submitted by the vehicle manufacturer or by his duly accredited representative;
+subpara,12.2.,It shall be accompanied by the following documents in triplicate giving the following particulars:
+subpara,12.2.1., a description of the vehicle type with regard to the items mentioned in paragraph 11.2 above;
+subpara,12.2.2., a list of the components required to identify the warning device(s) that may be mounted on the vehicle;
+subpara,12.2.3., Drawings indicating the position on the vehicle of the warning device(s) and of its (their) mountings.
+subpara,12.3.,A vehicle representative of the vehicle type to be approved shall be submitted to the technical service responsible for the approval tests.
+Para,13.,APPROVAL
+subpara,13.1.,"If the vehicle type submitted for approval pursuant to this Regulation meets the requirements of paragraphs 14 and 15 below, approval for this vehicle type shall be granted."
+subpara,13.2.,An approval number shall be assigned to each type approved. Its first two digits (at present 00 for the Regulation in its original form) shall indicate the series of amendments incorporating the most recent major technical amendments made to the Regulation at the time of issue of the approval. The same Contracting Party may not assign this number to another vehicle type.
+subpara,13.3.,"Notice of approval or of refusal of approval or extension or withdrawal or production definitely discontinued of a vehicle type pursuant to this Regulation shall be communicated to the Parties to the Agreement applying this Regulation by means of a form conforming to the model in Annex 2 to the Regulation, and of drawings (supplied by the applicant for approval) with maximum format A4 (210 × 297 mm), or folded to this format, and on an appropriate scale."
+subpara,13.4.,"On every vehicle which conforms to a vehicle type approved under this Regulation there shall be affixed conspicuously, in an easily accessible place indicated on the approval form, an international approval mark comprising:"
+subpara,13.4.1.," a circle containing the letter ‘E’ followed by the distinguishing number of the country granting approval,"
+subpara,13.4.2., the number of this Regulation placed to the right of the circle referred to in paragraph 13.4.1.
+subpara,13.5.,"If the vehicle conforms to a vehicle type approved, under another (other) Regulation(s) annexed to the Agreement, in the same country as that which has granted the approval under this Regulation, the symbol referred to in paragraph 13.4 need not be repeated; in this case, the additional numbers and symbols of all the Regulations under which approval has been granted in the country which granted the approval under this Regulation shall be set out in vertical columns to the right of the symbol referred to in paragraph 13.4."
+subpara,13.6.,The approval mark must be clearly legible and indelible.
+subpara,13.7.,The approval mark shall be placed near the plate bearing the characteristics of the vehicle and may also be affixed to this plate.
+subpara,13.8.,"Annex 3, Section II, to this Regulation gives an example of the arrangement of the approval mark."
+subpara,13.9.,The competent authority shall verify the existence of satisfactory arrangements for ensuring effective control of the conformity of production before type approval is granted.
+Para,14.,SPECIFICATIONS The vehicle shall comply with the following specifications:
+subpara,14.1.," The audible warning device(s) (or system) fitted on the vehicle shall be of a type approved under this Regulation; Audible warning devices of Class II approved under this Regulation in its original form, and therefore not bearing the symbol II in their approval mark, may continue to be fitted to vehicle types submitted for approval pursuant to this Regulation."
+subpara,14.2., The test voltage shall be as specified in paragraph 6.2.3 of the Regulation;
+subpara,14.3., The sound pressure measurements shall be made in the conditions specified in paragraph 6.2.2 of this Regulation;
+subpara,14.4.," The A-weighted sound pressure level emitted by the device fitted on the vehicle shall be measured at a distance of 7 m in front of the vehicle, the latter being placed on an open site, on ground as smooth as possible and, in the case of devices supplied with direct current, with its engine stopped;"
+subpara,14.5., The microphone of the measuring instrument shall be placed approximately in the mean longitudinal plane of the vehicle;
+subpara,14.6., The sound pressure level of the background noise and wind noise must be at least 10 dB (A) below the sound to be measured;
+subpara,14.7.," The maximum sound-pressure level shall be sought within the range of 0,5 and 1,5 m above the ground;"
+subpara,14.8.," Measured under the conditions specified in paragraphs 14.2 to 14.7, the maximum sound-pressure level (14.7) of the audible signal tested shall be at least: (a) equal to 83 dB(A) and not more than 112 dB(A) for the signals of motor cycles of a power less than or equal to 7 kW; (b) equal to 93 dB(A) and at most 112 dB(A) for the signals of vehicles of categories M and N and motor cycles of a power greater than 7 kW."
+Para,15.,MODIFICATIONS OF VEHICLE TYPE AND EXTENSION OF APPROVAL
+subpara,15.1.,Any modification of the vehicle type shall be notified to the administrative department which granted approval to the vehicle type. This department may then:
+subpara,15.1.1., either take the view that the modifications made are not likely to have any appreciable adverse effect and that in any case the vehicle still meets the requirements; or
+subpara,15.1.2., call for a new report from the technical service responsible for the tests.
+subpara,15.2.,"Notice of confirmation of approval with particulars of the modifications, or of refusal of approval shall be communicated to the Parties to the Agreement applying this Regulation, in accordance with the procedure indicated in paragraph 13.3 above."
+subpara,15.3.,The competent authority issuing the extension of approval shall assign a series number to each communication form drawn up for such an extension.
+Para,16.,"CONFORMITY OF PRODUCTION The conformity of production procedures shall comply with those set out in the Agreement, Appendix 2 (E/ECE/324-E/ECE/TRANS/505/Rev.2) with the following requirements:"
+subpara,16.1., A vehicle approved under this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements set forth in paragraph 14 above.
+subpara,16.2., The authority which has granted type approval may at any time verify the conformity control methods applied in each production facility. The normal frequency of these verifications shall be once every 2 years.
+Para,17.,PENALTIES FOR NON-CONFORMITY OF PRODUCTION
+subpara,17.1.,"The approval granted to a vehicle type pursuant to this Regulation may be withdrawn if the conditions set forth in paragraph 16.1 above are not complied with, or if the vehicle fails to pass the checks referred to in paragraph 16.2 above."
+subpara,17.2.,"Should a Party to the Agreement applying this Regulation withdraw an approval which it has previously granted, it shall forthwith notify the other Contracting Parties applying this Regulation by means of a copy of the approval form bearing at the end in large letters the statement, signed and dated: ‘APPROVAL WITHDRAWN’."
+Para,18.,"NAMES AND ADDRESSES OF THE TECHNICAL SERVICES CONDUCTING APPROVAL TESTS AND OF ADMINISTRATIVE DEPARTMENTS The Parties to the Agreement applying this Regulation shall communicate to the United Nations Secretariat the names and addresses of the technical services responsible for approval tests and of the administrative departments which grant approval and to which forms certifying approval or refusal or withdrawal of approval, issued in other countries, are to be sent."

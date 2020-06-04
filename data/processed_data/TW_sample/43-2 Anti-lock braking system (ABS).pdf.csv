@@ -1,0 +1,265 @@
+Index,Text
+43-2,"Anti-lock braking system (ABS)Effective date from 2018/1/1 Refer to: R13 11-S14, R13H 01, R78 04"
+43-2.1,Effective date and Scope:
+43-2.1.1,"Effective date from 2018/1/1, the new type of vehicles and from 2022/1/1, all types of vehicles as below, shall comply with this regulation."
+43-2.1.1.1,Vehicle category M1.
+43-2.1.1.2,Vehicle category N1.
+43-2.1.2,"Effective date from 2018/1/1, all types of vehicles as below, shall comply with this regulation."
+43-2.1.2.1,Vehicle categories O3 and O4.
+43-2.1.2.2,"M2, M3, N2 and N3 vehicles with not more than four axles."
+43-2.1.3,"The following vehicles equipping with Anti-lock braking system (ABS) and which were confirmed with 43-1 Anti-lock braking system (ABS) of Directions , regard as conform to this regulation."
+43-2.1.3.1,Vehicle category M1.
+43-2.1.3.2,Vehicle category N1.
+43-2.1.3.3,Vehicle categories O3 and O4.
+43-2.1.3.4,"M2, M3, N2 and N3 vehicles with not more than four axles."
+43-2.1.4,"Effective date from 2018/1/1, all types of category symbols L1, L2 and L5 and M2, M3, N2 and N3 with more than four axles, s equipped with anti-lock braking systemABSthen shall comply with this regulation. Existing vehicle types of category symbols L1 and L5 and M2, M3, N2 and N3 vehicles with more than four axles, which were confirmed with 43-1 Anti-lock braking system (ABS) of Directions , regard as conform to this regulation."
+43-2.1.5,"Effective date from 2019/1/1, the new vehicle type of category symbols L3-A2 and L3-A3 shall be equipped with anti-lock braking systemABS and comply with this regulation."
+43-2.1.6,"Effective date from 2019/1/1, the new vehicle type of category symbols L3-A1 shall be equipped with CBS or anti-lock braking systemABS which comply with this regulation."
+43-2.1.7,"Effective date from 2022/1/1, all types of category symbols L, if its suitable for off road driving and equipped with function that permits driver to disable the antilock brake system, it shall comply with Paragraph-. "
+43-2.1.8,"Vehicles of category O conform to paragraphs 42-3.6.11 and 42-4.6.11 of Dynamic Braking, regard as conform  Paragraph- Paragraph- of this regulation."
+43-2.1.9,This regulation doesnt apply to the following:
+43-2.1.9.1,Vehicles with a design speed not exceeding 25 km/hr.
+43-2.1.9.2,The trailers which may not be coupled to power-driven vehicles with a design speed exceeding 25 km/hr.
+43-2.1.10,"The same applicant applying for low volume safety approval and the amounts of vehicle not exceed 3 at same year and the category symbols M1, N1, L3 or L5 of same type and specification, could exempt from regulation of anti-lock braking system (ABS)"
+43-2.1.11,"The same applicant applying for vehicle-by-vehicle low volume safety approval and the amounts of vehicle not exceed 20 at same year and small passenger vehicle of same type and specification, could exempt from regulation anti-lock braking system (ABS)"
+43-2.1.12,"The same applicant applying for vehicle-by-vehicle low volume safety approval and the amounts of vehicle not exceed 20 at same year and small passenger vehicle of same type and specification of category symbols M1 or N1, or category symbols N2, N3, Class III or Class IV imported by organization and school could exempt from confirm a failure in the anti-lock braking system, energy consumption, utilization of adhesion and braking rate conditions of stability test on the left and right wheel."
+43-2.2,Definitions:
+43-2.2.1,"Vehicles of category symbols M, N and O"
+43-2.2.1.1,"Anti-lock brake system, ABS: is a part of a service braking system which automatically controls the degree of slip, in the direction of rotation of the wheel(s) on one or more wheels of the vehicle during braking."
+43-2.2.2,"Vehicles of category symbols L1, L3 and L5"
+43-2.2.2.1,"""Antilock brake system (ABS)"" means a system which senses wheel slip and automatically modulates the pressure producing the braking forces at the wheel(s) to limit the degree of wheel slip."
+43-2.2.3,Sensor: means a component designed to identify and transmit to the controller the conditions of rotation of the wheel(s) or the dynamic conditions of the vehicle.
+43-2.2.4,Controller: means a component designed to evaluate the data transmitted by the sensor(s) and to transmit a signal to the modulator. 
+43-2.2.5,Modulator: means a component designed to vary the braking force(s) in accordance with the signal received from the controller.
+43-2.2.6,Directly controlled wheel: means a wheel whose braking force is modulated according to data provided at least by its own sensor.
+43-2.2.7,Indirectly controlled wheel: means a wheel whose braking force is modulated according to data provided by the sensor(s) of other wheel(s).
+43-2.2.8,Full cycling: means that the anti-lock brake system is repeatedly modulating the brake force to prevent the directly controlled wheels from locking. Brake applications where modulation only occurs once during the stop shall not be considered to meet this definition.
+43-2.2.9,Coefficient of adhesion: means the quotient of the maximum braking forces without locking the wheels and the corresponding dynamic load on the axle being braked.
+43-2.2.10,Utilization of adhesion: is defined as the quotient of the maximum braking rate with the anti-lock brake system operative (zAL) and the coefficient of adhesion (kM).
+43-2.2.11,Full Force: means the maximum force applied on the control device for the category of vehicle.
+43-2.2.12,"""Laden vehicle"" means, except where otherwise stated, a vehicle so laden as to attain its ""maximum mass""."
+43-2.2.13,"Lightly loaded: means mass in running order plus 15 kg for test equipment, or the laden condition, whichever is less. In the case of ABS tests on a low friction surface, the mass for test equipment is increased to 30 kg to account for outriggers."
+43-2.2.14,"""Maximum mass"" means the maximum mass stated by the vehicle manufacturer to be technically permissible (this mass may be higher than the ""permissible maximum mass"" laid down by the national administration)."
+43-2.2.15,"""Combined braking system"" means in the case of vehicles of categories L1, L3, a system whereby at least two brakes on different wheels are actuated in combination by the operation of a single control. In the case of vehicles of categories L2 and L5, a service brake system where the brakes on all wheels are operated by the actuation of a single control."
+43-2.2.16,"""Unladen vehicle mass"" means in the case of vehicles of categories L the nominal mass of the vehicle as indicated by the manufacturer(s) including all factory fitted equipment for normal operation of that vehicle (e.g. fire extinguisher, tools, spare wheel), plus coolant, oils, 90 per cent of fuel and 100 per cent of other gas or liquids, as specified by the manufacturer."
+43-2.2.17,"Category symbols L3-A1 1E, and 2Maximum continuous rated(electric propelled vehicles) or net power (combustion (14.75HP), and  3Power /weight ratioL3 two-wheel motorcycle.1 kW/kg."
+43-2.2.18,"Category symbols L3-A2 1maximum continuous rated or net power (electric propelled vehicles ) 35 kW (46.9HP) and (combustion engine) power, and 2Power /weight ratioL3 two-wheel motorcycle0,2 kW/kg, and 3not derived from a vehicle equipped with an engine of more than double its power, and 4L3e vehicle that cannot be classified under Paragraph- sub-classification criteria (1), (2) and (3) of a L3-A1 vehicle."
+43-2.2.19,Category symbols L3-A3: any other L3 vehicle that cannot be classified according to the classification criteria of a L3-A1 or L3-A2 vehicle.
+43-2.3,The principles of applicable type and scope of anti-lock braking system (ABS) shall be as below:
+43-2.3.1,The same vehicle category symbol.
+43-2.3.2,The same axle set type.
+43-2.3.3,The same brand and vehicle type.
+43-2.3.4,The chassis vehicle have had same axle set type.
+43-2.3.5,The same chassis brand.
+43-2.3.6,Chassis manufacturers announced that the same chassis vehicle type.
+43-2.3.7,"If use chassis vehicle instead of completed vehicle for testing, which shall according to suitable types and range of principle are as belowpÉ"
+43-2.3.7.1,The same vehicle category symbol.
+43-2.3.7.2,The chassis vehicle have had same axle set type.
+43-2.3.7.3,The same brand.
+43-2.3.7.4,Chassis manufacturers announced that the same chassis vehicle type.
+43-2.3.8,"If use combined braking including entirely unit of system (also including electronic control system / modulation unit / wheel speed sensor of anti-lock system), layer structure, dimension, axis and tyre allocated installation of trailer instead of completed vehicle for entire or partial testing, which shall according to suitable types and range of principle are as below"
+43-2.3.8.1,The same vehicle category symbol.
+43-2.3.8.2,The combined braking have had same axle set type. 
+43-2.3.8.3,The same combined braking brand.
+43-2.3.8.4,The same combined braking type.
+43-2.3.8.5,The same brand of anti-lock system control unit.
+43-2.3.8.6,The same type of anti-lock system control unit.
+43-2.4,Types of Anti-lock Braking System (ABS):
+43-2.4.1,"Power-driven vehicles of categories M2, M3, N2 and N3 with not more than four axles shall be equipped with anti-lock systems of category 1 in accordance with this Regulation."
+43-2.4.2,"A power-driven vehicle is deemed to be equipped with an anti-lock braking system, if one of the following systems is fitted:"
+43-2.4.2.1,Category 1 anti-lock braking system: A vehicle equipped with a category 1 anti-lock braking system shall meet all the relevant requirements  Paragraph- Paragraph-of this Regulation.
+43-2.4.2.2,"Category 2 anti-lock braking system: A vehicle equipped with a category 2 anti-lock braking system shall meet all the relevant requirements  Paragraph- Paragraph- of this Regulation, except those  Paragraph-."
+43-2.4.2.3,"Category 3 anti-lock braking system: A vehicle equipped with a category 3 anti-lock braking system shall meet all the relevant requirements  Paragraph- Paragraph- of this Regulation, except those  Paragraph- Paragraph-."
+43-2.4.3,Trailers of category O3 shall be equipped with an anti-lock braking system which meet one of the following conditions. Trailers of category O4 shall be equipped with an anti-lock braking system in accordance with the category A requirements in the following.
+43-2.4.3.1,Category A anti-lock braking system: A trailer equipped with a category A anti-lock braking system shall meet all the relevant requirements  Paragraph- Paragraph- of this Regulation.
+43-2.4.3.2,"Category B anti-lock braking system: A trailer equipped with a category B anti-lock braking system shall meet all the relevant requirements  Paragraph- Paragraph- of this Regulation, except Paragraph-."
+43-2.4.4,Motorcycles equipped with anti-lock braking system shall meet all the relevant requirements  Paragraph-. of this Regulation.
+43-2.5,General Requirements
+43-2.5.1,"Vehicles of category symbols M, N and O (Motor vehicle and trailer)"
+43-2.5.1.1,Declaration of conformance of design: applicant shall ensure and announce to comply with this regulation. 
+43-2.5.1.1.1,The operation of the anti-lock braking system shall not be adversely affected by magnetic or electrical fields.
+43-2.5.1.1.2,"Power-driven vehicles equipped with an anti-lock braking system and authorized to tow a trailer equipped with such a system, with the exception of vehicles of categories M1 and N1, shall be fitted with a separate optical warning signal for the anti-lock braking system of the trailer, meeting the requirements  Paragraph-. The separate yellow warning signals specified shall be used for this purpose, activated via pin 5 of the electrical connector conforming to ISO 7638:1997, for all load conditions, a braking rate shall be developed between a pressure of 20 and 100 kPa or equivalent digital demand value at the coupling head of the control line(s)."
+43-2.5.1.1.3,"Power driven vehicles authorized to tow a trailer equipped with an anti-lock system shall also be equipped with either one or both of the following, for the electric control transmission: (a) A special electrical connector conforming to ISO 7638:2003; (b) An automated connector meeting the requirements specified in paragraph 8 of Dynamic braking."
+43-2.5.1.2,"Failures within the electric control transmission of the anti-lock braking system that affects the system with respect to the functional and performance requirements, shall be signalled to the driver by a specific optical warning signal. The yellow warning signal specified shall be used for this purpose."
+43-2.5.1.2.1,"Sensor anomalies, which cannot be detected under static conditions, shall be detected not later than when the vehicle speed exceed 10 km/h. However, to prevent erroneous fault indication when a sensor is not generating a vehicle speed output, due to non-rotation of a wheel, verification may be delayed but detected not later than when the vehicle speed exceeds 15 km/hr."
+43-2.5.1.2.2,"When the anti-lock braking system is energized with the vehicle stationary, electrically controlled pneumatic modulator valve(s) shall cycle at least once."
+43-2.5.1.3,"In the event of a failure in the anti-lock braking system of category symbols M1p·result from one electrical function failure and illuminates the yellow warning lampsp¸p»its service braking shall be at least 80 percent of the braking performance in the mode 0 p·neutral gearp¸. In the case of trailers the residual braking performance in the event of a defect in the anti-lock braking system according  Paragraph- shall be at least 80 percent of the prescribed laden performance for the service braking system of the relevant trailer. When anti-lock braking system of other vehicle is in failure, residual braking performance shall be reach part of braking system functions while the transmission of the service braking system is failed  have to meet the requirement. This requirement shall not be construed as a departure from the requirements concerning secondary braking."
+43-2.5.1.4,"A manual device may not be provided to disconnect or change the control mode of the anti-lock braking system, except on off-road power-driven vehicles of categories N2G and N3G."
+43-2.5.1.5,Vehicles equipped with an integrated endurance braking system must also be equipped with an anti-lock braking system acting at least on the service brakes of the endurance braking system's controlled axle and on the endurance braking system itself.
+43-2.6,Tests for the Anti-lock braking system fitted to power-driven vehicles
+43-2.6.1,Energy-consumption
+43-2.6.1.1,Test procedure
+43-2.6.1.1.1,The initial energy level in the energy storage device(s) shall be that specified by the manufacturer. This level shall be at least such as to ensure the efficiency prescribed for service braking when the vehicle is laden. The energy storage device(s) for pneumatic auxiliary equipment must be isolated.
+43-2.6.1.1.2,"From an initial speed of not less than 50 km/h, on a surface with a coefficient of adhesion of 0.3 or less, the brakes of the laden vehicle shall be fully applied for a time t, during which time the energy consumed by the indirectly controlled wheels shall be taken into consideration and all directly controlled wheels must remain under control of the anti-lock brake system."
+43-2.6.1.1.3,The vehicle's engine shall then be stopped or the supply to the energy transmission storage device(s) cut off.
+43-2.6.1.1.4,The service braking control device shall then be fully actuated four times in succession with the vehicle stationary.
+43-2.6.1.2,Additional requirements
+43-2.6.1.2.1,The coefficient of adhesion (k) of the road surface shall be measured with the vehicle under test.
+43-2.6.1.2.2,"The braking test shall be conducted with the engine disconnected and idling, and with the vehicle laden."
+43-2.6.1.2.3,"The braking time t shall be determined by the formula: (but not less than 15 seconds) Where,  t = time interval (sec) Vmax= the maximum design speed of the vehicle expressed in km/h, with an upper limit of 160 km/h."
+43-2.6.1.2.4,"If the time t cannot be completed in a single braking phase, further phases may be used, up to a maximum of four in all."
+43-2.6.1.2.5,"If the test is conducted in several phases, no fresh energy shall be supplied between the phases of the test."
+43-2.6.2,Utilization of adhesion ()
+43-2.6.2.1,"The adhesion utilization shall be measured on road surfaces with a coefficient of adhesion of 0.3 or less, and of about 0.8 (dry road), with an initial speed of 50 km/h. To eliminate the effects of differential brake temperatures it is recommended that zAL be determined prior to the determination of kM."
+43-2.6.2.2,"The utilization of adhesion by the anti-lock brake system shall be checked on complete vehicles equipped with anti-lock brake systems of categories 1 or 2. In the case of vehicles equipped with category 3 anti-lock brake systems, only the axle(s) with at least one directly controlled wheel must satisfy this requirement."
+43-2.6.2.3,The condition epsilon shall be checked with the vehicle under both laden and unladen. The laden test on the high adhesion surface may be omitted if the prescribed force on the control device does not achieve full cycling of the anti-lock brake system.
+43-2.6.2.4,"For the unladen test, the control force may be increased up to 1000 N if no cycling is achieved with its full force value. If 1000 N is insufficient to make the system cycle, then this test may be omitted. For air braking systems the air pressure may not be increased above the cut-out pressure for the purpose of this test."
+43-2.6.2.5,"The utilization of adhesion The value shall be rounded to two decimal places. Where, = the maximum braking rate of the vehicle with the anti-lock brake system operative = k-factor of the power-driven vehicle"
+43-2.6.2.5.1,Determination of the coefficient of adhesion k
+43-2.6.2.5.1.1,"The brakes shall be applied on only one axle of the vehicle under test, at an initial speed of 50 km/h. The  braking forces shall be distributed between the wheels of the axle to reach maximum performance. The anti-lock brake system shall be disconnected, or inoperative, between 40 km/h and 20 km/h."
+43-2.6.2.5.1.2,"A number of tests at increments of line pressure shall be carried out to determine the maximum braking rate of the vehicle (Zmax). During each test, a constant input force shall be maintained and the braking rate will be determined by reference to the time taken (t) for the speed to reduce from 40 km/h to 20 km/h using the formula:"
+43-2.6.2.5.1.2.1,Wheel lock may occur below 20 km/h.
+43-2.6.2.5.1.2.2,"Starting from the minimum measured value of t, called tmin, then select three values of t comprised within tmin and 1.05 tmin and calculate their arithmetical mean value tm, then calculate . If it is demonstrated that for practical reasons the three values defined above cannot be obtained, then the minimum time tmin may be utilized. However, if epsilon > 1.00 the measurements of coefficients of adhesion shall be repeated. A tolerance of 10 per cent is accepted."
+43-2.6.2.5.1.3,"The braking forces shall be calculated from the measured braking rate and the rolling resistance of the unbraked axle(s), which is equal to 0.015 and 0.010 of the static axle load for a driven axle and a non-driven axle, respectively."
+43-2.6.2.5.1.4,"The value of k, kf and kr shall be rounded to three decimal places."
+43-2.6.2.5.1.5,"Then, the test will be repeated for the other axle(s) as defined  Paragraph- to"
+43-2.6.2.5.1.4,above (for exemptions  Paragraph- Paragraph- below).
+43-2.6.2.5.1.6,"One coefficient will be determined for the front axle kf and one for the rear axle kr. For example, in the case of a two-axle rear-wheel drive vehicle, with the front axle (1) being braked, the coefficient of adhesion (k) is given by:  Where, = the coefficient of adhesion for front axle = the average braking rate = mass of vehicle (kgf) = Gravity acceleration (9.81m/s2) = front axle load = driving axle load = height of center of gravity (m), specified by vehicle manufacturer and approved by the Authority = wheelbase (m)"
+43-2.6.2.5.1.7,"For power-driven vehicles equipped with three axles, only the axle not associated with a close-coupled bogie will be used to establish a k value for the vehicle."
+43-2.6.2.5.1.8,For vehicles of categories N2 and N3 with a wheelbase less than 3.80 m and with h/E 0.25 the determination of coefficient of adhesion for rear axle can be omitted.
+43-2.6.2.5.2,Determination of kM and ZAL
+43-2.6.2.5.2.1,"From an initial vehicle speed of 55 km/h, the maximum braking rate (ZAL) shall be measured with full cycling of the anti-lock braking system and based on the average value tm of three tests, as in"
+43-2.6.2.5.1.2.2,"above, using the time taken for the speed to reduce from 45 km/h to 15 km/h, according to the following formula:. "
+43-2.6.2.5.2.2,"The coefficient of adhesion kM shall be determined by weighting with the dynamic axle loads. Where, And where: = normal reaction of road surface on the front axle(s) of vehicle or full trailer under dynamic conditions with the anti-lock braking system operative (kgf). = normal reaction of road surface on the rear axle(s) of vehicle or full trailer under dynamic conditions with the anti-lock braking system operative (kgf). = normal reaction of road surface on the front axle(s) under static conditions (kgf) = normal reaction of road surface on the rear axle(s) under static conditions (kgf)"
+43-2.6.2.5.2.3,"In the case of a vehicle equipped with an anti-lock brake system of categories 1 or 2, the value of ZAL will be based on the whole vehicle, with the anti-lock brake system operative."
+43-2.6.2.5.2.4,"In the case of a vehicle equipped with an anti-lock brake system of category 3, the value of ZAL will be measured on each axle, which has at least one directly controlled wheel. For example, for a two-axle rear-wheel drive vehicle with an anti-lock brake system acting only on the rear axle, the adhesion utilized is given by: "
+43-2.6.3,Additional checks
+43-2.6.3.1,"The following additional checks shall be carried out, engine disconnected, with the vehicle laden and unladen."
+43-2.6.3.2,"Low/high speed test The wheels directly controlled by an anti-lock braking system must not lock when the full force is suddenly applied on the control device, on the road surfaces specified  Paragraph-, at an initial speed of 40 km/h and at a high initial speed as indicated on the Table 3 below: Table 3 Vehicle category symbol Maximum test speed High adhesion surface All except N2, N3 laden 0.8Vmax120 km/hr N2, N3 laden 0.8Vmax80 km/hr Low adhesion surface M1, N1 0.8Vmax120 km/hr M2, M3, N2 except tractors for semi-trailers 0.8Vmax80 km/hr N3 and N2 tractors for semi-trailers 0.8Vmax70 km/hr"
+43-2.6.3.3,"High-adhesion surface to low-adhesion surface test When an axle passes from a high-adhesion surface (kH) to a low adhesion surface (kL) where kH 0.5 and kH / kL 2, with the full force applied on the control device, the directly controlled wheels must not lock. The running speed and the instant of applying the brakes shall be so calculated that, with the anti-lock brake system fully cycling on the high-adhesion surface, the passage from one surface to the other is made at high and at low speed, under the conditions laid down  Paragraph- above."
+43-2.6.3.4,"Low-adhesion surface to high-adhesion surface test  When a vehicle passes from a low-adhesion surface (kL) to a high-adhesion surface (kH) where kH 0.5 and kH / kL 2, with the full force applied on the control device, the deceleration of the vehicle must rise to the appropriate high value within a reasonable time and the vehicle must not deviate from its initial course. The running speed and the instant of applying the brakes shall be so calculated that, with the anti-lock brake system fully cycling on the low-adhesion surface, the passage from one surface to the other occurs at approximately 50 km/h."
+43-2.6.3.5,Stability test on the left and right wheel
+43-2.6.3.5.1,"In the case of vehicles equipped with anti-lock brake systems of categories 1 or 2, when the right and left wheels of the vehicle are situated on surfaces with differing coefficients of adhesion (kH and kL), where kH 0.5 and kH/kL 2, the full force is suddenly applied on the control device at a speed of 50 km/h. and Where, = of the power-driven vehicle on a ""split surface"" = k-value determined on the low-adhesion surface = k-value determined on the high-adhesion surface"
+43-2.7,Tests for the anti-lock brake system fitted to trailers
+43-2.7.1,Energy consumption
+43-2.7.1.1,"Compliance with the requirement shall be checked by the procedure specified below, with the vehicle unladen, on a straight and level road with a surface having a good coefficient of adhesion and with the brakes adjusted as closely as possible and with the proportioning/load-sensing valve (if fitted) held in the ""laden"" position throughout the test. If the coefficient of adhesion of the test track is too high, preventing the anti-lock brake system from full cycling, then the test may be carried out on a surface with a lower coefficient of adhesion."
+43-2.7.1.2,"In the case of compressed-air braking systems, the initial energy level in the energy transmission storage device(s) shall be equivalent to a pressure of 8.0 bar at the coupling head of the trailer's supply line."
+43-2.7.1.3,"With an initial vehicle speed of at least 30 km/h the brakes shall be fully applied for a time t = 15 s, during which all wheels  must remain under control of the anti-lock brake system. During this test, the supply to the energy transmission storage device(s) shall be cut off. If the time t = 15 s cannot be completed in a single braking phase, further phases may be used. During these phases no fresh energy shall be supplied to the energy transmission storage device(s) and, as from the second phase, the additional energy consumption for filling the actuators is to be taken into account."
+43-2.7.1.4,"At the end of the braking, with the vehicle stationary, the service braking control device shall be fully actuated four times."
+43-2.7.2,Utilization of adhesion ()
+43-2.7.2.1,"The condition epsilon shall be verified with the vehicle unladen, on a straight and level road with a surface having a good coefficient of adhesion. If the coefficient of adhesion of the test track is too high, preventing the anti-lock brake system from full cycling, then the test may be carried out on a surface with a lower coefficient of adhesion. In the case of trailers equipped with a brake load sensing device, the pressure setting of the device may be increased to ensure full cycling."
+43-2.7.2.2,"To eliminate the effects of differential brake temperatures, it is recommended to determine ZRAL prior to the determination of kR."
+43-2.7.2.3,"The utilization of adhesionp·The value shall be rounded to two decimal placesp¸ Where, = of the trailer obtained by braking all the axles, the towing vehicle unbraked and its engine disengaged. = k-factor of the trailer"
+43-2.7.2.3.1,Determination of the coefficient of adhesion (k)
+43-2.7.2.3.1.1,"The brakes shall be applied on only one axle of the vehicle under test, at an initial speed of 50 km/h. The braking forces shall be distributed between the wheels of the axle to reach maximum performance. The anti-lock system shall be disconnected, or inoperative, between 40 km/h and 20 km/h."
+43-2.7.2.3.1.2,"A number of tests at increments of line pressure shall be carried out to determine the maximum braking rate of the vehicle (Zmax). During each test, a constant input force shall be maintained and the braking rate will be determined by reference to the time taken (t) for the speed to reduce from 40 km/h to 20 km/h using the  formula:"
+43-2.7.2.3.1.2.1,Wheel lock may occur below 20 km/h.
+43-2.7.2.3.1.2.2,"Starting from the minimum measured value of t, called tmin, then select three values of t comprised within tmin and 1.05 tmin and calculate their arithmetical mean value tm, then calculate. If it is demonstrated that for practical reasons the three values defined above cannot be obtained, then the minimum time tmin may be utilized."
+43-2.7.2.3.1.3,Full trailers.
+43-2.7.2.3.1.3.1,"The measurement of k (with the anti-lock braking system being disconnected, or inoperative, between 40 km/h and 20 km/h) will be performed for the front and the rear axles. For one front axle i: Where, = maximum value of braking force() of the trailer with only axle i of the trailer braked and the anti-lock braking system inoperative = maximum braking rate () while merely axle i is braked and trailers anti-lock brake system is inoperative. = total normal reaction of road surface on the unbraked and non-driven axles of the  vehicle combination under static conditions (kgf) = total normal reaction of road surface on the unbraked and driven axles of the vehicle combination under static conditions (kgf) = total normal static reaction of road surface on all wheels of power-driven (towing) vehicle (kgf) = total normal static reaction of road surface on all wheels of trailer (kgf) =(total normal static reaction of road surface on the unbraked and non-driven axles of the power-driven vehicle) + (total normal static reaction of road surface on the unbraked and driven axles of the power-driven vehicle) = height of drawbar (hinge point on trailer) (m) = height of centre of gravity of the trailer (m)"
+43-2.7.2.3.1.3.2,"For one rear axle i: Where,  = normal reaction () of road surface under dynamic conditions with the anti-lock braking system operative on axle i in case of power-driven vehicles or full trailers = k-factor of one rear axle"
+43-2.7.2.3.1.3.3,"The coefficient of adhesion kR shall be determined proportionally according to the dynamic axle loads. Where, = k-factor of one front axle = k-factor of one rear axle"
+43-2.7.2.3.1.4,Semi-trailers and centre-axle trailers
+43-2.7.2.3.1.4.1,"The measurement of k (that is kR) shall be carried out with wheels fitted only on one axle, the wheels of the other axle(s) are removed. Where, = maximum value of braking force (FbR )of the trailer with the anti-lock braking system inoperative (kgf)  = normal reaction of road surface under dynamic conditions on the axle(s) of semi-trailer or centre-axle trailer with the anti-lock braking system operative (kgf) = height of fifth wheel coupling (king pin) (m) = distance between king-pin and centre of axle or axles of semi-trailer (or distance between drawbar coupling and centre of axle or axles of centre-axle trailer) (m)"
+43-2.7.2.3.1.4.2,"Determination of ZRAL: ZRAL is to be decided on the surface having high efficient of adhesion; yet, for the vehicles equipped with category A anti-lock braking system, it rather to be decided on the surface having low efficient of adhesion. 43-2.7.2.3.1.4.2.1Full trailer With the anti-lock braking system operative: Where, = braking rate z of the vehicle combination, with the trailer only braked and the anti-lock system operative"
+43-2.7.2.3.1.4.2.2,"Semi-trailer and centre-axle trailer The measurement of ZRAL (with the anti-lock braking system operative) shall be carried out with all wheels fitted. In the above equation  Where, = braking force of the trailer with the anti-lock system operative (kgf) = braking rate z of the vehicle combination, with the trailer only braked and the anti-lock system inoperative"
+43-2.7.2.3.1.4.2.2,"The maximum braking rate (ZCmax) shall be measured with full cycling of the anti-lock braking system and the towing vehicle unbraked, based on the average value of three tests, as  Paragraph- of this regulation."
+43-2.7.3,Additional checks
+43-2.7.3.1,"Low/high speed test: This shall be checked, under the conditions prescribed  Paragraph-, at initial speeds of 40 km/h and 80 km/h."
+43-2.7.3.2,"Stability test on the left and right wheels: The provisions of this paragraph shall only apply to trailers equipped with an anti-lock braking system of category A. When the right and left wheels are situated on surfaces which produce differing maximum braking rates (zRALH and zRALL), where and , the full force 1/ is suddenly applied on the control device of the towing vehicle at a speed of 50 km/h. Under this condition, the unladen vehicle shall satisfy and . And in the case of trailers equipped with a brake load sensing device, the pressure setting of the device may be increased to ensure full cycling. The ratio of ZRALH/ZRALL may be ascertained by test or by calculating."
+43-2.8,Tests and standard for the anti-lock brake system fitted to motorcycles
+43-2.8.1,General:
+43-2.8.1.1,The tests are only applicable to the ABS fitted on vehicle category L; 
+43-2.8.1.2,The tests are to confirm the performance of brake systems equipped with ABS and their performance in the event of ABS electrical failure;
+43-2.8.1.3,"""Fully cycling"" means that the anti-lock system is repeatedly or continuously modulating the brake force to prevent the directly controlled wheels from locking;"
+43-2.8.1.4,"Wheel-lock is allowed as long as the stability of the vehicle is not affected to the extent that it requires the operator to release the control or causes a vehicle wheel to pass outside the test lane. The test series comprises the following individual tests, which may be carried out in any order:"
+43-2.8.1.5,Ambient temperature: The ambient temperature is between 4 degrees C and 45 degrees C.
+43-2.8.1.6,Wind speed: The wind speed is not more than 5 m/s.
+43-2.8.1.7,"Test speed toleranceThe test speed tolerance is +/- 5 km/h. In the event of the actual test speed deviating from the specified test speed, the actual stopping distance is corrected using the formula  Paragraph- 8.3.1.1 of this Regulation. ABS TESTS a. Stops on a high friction surface b. Stops on a low friction surface c. Wheel lock checks on high and low friction surfaces d. Wheel lock check - high to low friction surface transition e. Wheel lock check - low to high friction surface transition f. Stops with an ABS electrical failure"
+43-2.8.1.8,"The effectiveness of the braking systems, including the anti-lock system, shall not be adversely affected by magnetic or electrical fields."
+43-2.8.1.9,"A means to deactivate the antilock brake system is not permitted. By derogation, vehicles which are suitable for off road driving and fitted with a riding mode selector allowing an ""off-road"" or ""all terrain"" mode may be fitted with a single means (e.g. switch, lever, button, menu option) to disable the antilock brake system function, which is only permitted under the following conditions:"
+43-2.8.1.9.1,The vehicle is stationary; and 
+43-2.8.1.9.2,The disablement of the antilock brake system function shall be the result of a deliberate action by the rider according to one of the following methods:
+43-2.8.1.9.2.1,"Simultaneous actuation of the antilock brake system on/off switch and the front, rear or combined brake system actuator (brake lever or pedal); Paragraph- The actuation of the antilock brake system on/off switch for a minimum of 2 seconds; Paragraph- The progression through at least 2 successive steps or levels of actuation of a rotating knob, a touch panel switch or a menu option selector;"
+43-2.8.1.9.3,"Disabling of the antilock brake system function shall only be allowed when the riding mode selector is in the ""off-road"" or ""all terrain"" mode; Paragraph- The antilock brake system function shall be automatically activated after each start-up of the vehicle, except for restarts after unintentional stalling of the engine; Paragraph- The disablement of the antilock brake system function shall be indicated by the activation of symbol B.18 as specified in ISO 2575:2010/Amd1:2011 (ISO 7000-2623) or any other equivalent unequivocal indication of the disabled antilock brake system state. Alternatively the warning lamp referred to  Paragraph- 8.2.8.2.1 shall be continuously activated (i.e. lit or flashing); Paragraph- Prohibition of any software and/or hardware defeat device compromising or allowing to circumnavigate one or more of the requirements set out in points 42-3 8.1.9.1 to 42-3 8.1.9.6; Paragraph- Instantaneous re-enablement of a functional stage which complies with anti-lock brake system approval requirements of the antilock brake system under all operation modes shall be warranted and shall be demonstrated to the satisfaction of the certification authority (e.g. simple press of a button)."""
+43-2.8.2,Vehicle condition:
+43-2.8.2.1,Lightly loaded;
+43-2.8.2.2,Engine disconnected.
+43-2.8.2.3,Stops on a high friction surface:
+43-2.8.2.3.1,Test conditions and procedure:
+43-2.8.2.3.1.1,Initial brake temperature: 55 degrees C and 100 degrees C; 
+43-2.8.2.3.1.2,"Test speed: 60 km/h or 0.9 Vmax, whichever is lower;"
+43-2.8.2.3.1.3,"Brake application: Simultaneous actuation of both brake controls, in the case of a vehicle with two service brake systems or actuation of the single control in the case of a vehicle with one service brake system."
+43-2.8.2.3.1.4,"Brake actuation force: The force applied is that which is necessary to ensure that the ABS will cycle fully throughout each stop, down to 10 km/h;"
+43-2.8.2.3.1.5,"If one wheel is not equipped with ABS, the control for the service brake on that wheel shall be actuated with a force that is lower than the force that will cause the wheel to lock;"
+43-2.8.2.3.1.6,"Number of stops: until the vehicle meets the performance requirements, with a maximum of 6 stops;"
+43-2.8.2.3.1.7,"For each stop, accelerate the vehicle to the test speed and then actuate the brake control under the conditions specified in this paragraph;"
+43-2.8.2.3.2,Performance requirements When the brakes are tested in accordance with the test procedures:
+43-2.8.2.3.2.1,The stopping distance (S) shall be 0.0063V2 (where V is the specified test speed in km/h and S is the required stopping distance in metres) or the MFDD shall be 6.17 m/s2; Paragraph- There shall be no wheel lock and the vehicle wheels shall stay within the test lane.
+43-2.8.2.4,Stops on a low friction surface:
+43-2.8.2.4.1,"Test conditions and procedure: As set out  Paragraph-., but using the low friction surface instead of the high friction one;"
+43-2.8.2.4.1.1,Applicable to all dynamic brake tests where a low-friction surface is specified;
+43-2.8.2.4.1.2,"The test area is a clean and level surface, with a gradient 1 per cent;"
+43-2.8.2.4.1.3,The surface has a PBC of 0.45.
+43-2.8.2.4.2,Performance requirements When the brakes are tested in accordance with the test procedures:
+43-2.8.2.4.2.1,"The stopping distance (S) shall be 0.0056V2/P (where V is the specified test speed in km/h, P is the peak  braking coefficient and S is the required stopping distance in metres) or the MFDD shall be 6.87 x P, in m/s2; Paragraph- There shall be no wheel lock and the vehicle wheels shall stay within the test lane."
+43-2.8.2.5,Wheel lock checks on high and low friction surfaces:
+43-2.8.2.5.1,Test conditions and procedure:
+43-2.8.2.5.1.1,Test surfaces:
+43-2,8.2.5.1.1.1 High friction; Paragraph- 8.2.5.1.1.2 Low friction;
+43-2.8.2.5.1.2,Initial brake temperature: 55 degrees C and 100 degrees C;
+43-2.8.2.5.1.3,Test speed:
+43-2,"8.2.5.1.3.1 On the high friction surface: 80 km/h or 0.8 Vmax, whichever is lower;"
+43-2,"8.2.5.1.3.2 On the low friction surface: 60 km/h or 0.8 Vmax, whichever is lower;"
+43-2.8.2.5.1.4,Brake application:
+43-2,8.2.5.1.4.1 Each service brake system control actuated separately;
+43-2,"8.2.5.1.4.2 Where ABS is fitted to both brake systems, simultaneous actuation of both brake controls in addition to (i);"
+43-2.8.2.5.1.5,"Brake actuation force: The force applied is that which is necessary to ensure that the ABS will cycle fully throughout each stop, down to 10 km/h;"
+43-2.8.2.5.1.6,Brake application rate: The brake control actuation force is applied in 0.1 - 0.5 seconds;
+43-2.8.2.5.1.7,"Number of stops: until the vehicle meets the performance requirements, with a maximum of 3 stops;"
+43-2.8.2.5.1.8,"For each stop, accelerate the vehicle to the test speed and then actuate the brake control under the conditions specified in this paragraph;"
+43-2.8.2.5.2,"Performance requirements: When the brakes are tested in accordance with the test procedures, there shall be no wheel lock and the vehicle wheels shall stay within the test lane."
+43-2.8.2.6,Wheel lock check - high to low friction surface transition: 
+43-2.8.2.6.1,Test conditions and procedure:
+43-2.8.2.6.1.1,Test surfaces: A high friction surface immediately followed by a low friction surface;
+43-2.8.2.6.1.2,Initial brake temperature: 55 degrees C and 100 degrees C;
+43-2.8.2.6.1.3,"Test speed: The speed that will result in 50 km/h or 0.5V max, whichever is lower, at the point where the vehicle passes from the high friction to the low friction surface;"
+43-2.8.2.6.1.4,Brake application:
+43-2,8.2.6.1.4.1 Each service brake system control actuated separately;
+43-2,"8.2.6.1.4.2 Where ABS is fitted to both brake systems, simultaneous actuation of both brake controls in addition to (i);"
+43-2.8.2.6.1.5,"Brake actuation force: The force applied is that which is necessary to ensure that the ABS will cycle fully throughout each stop, down to 10 km/h;"
+43-2.8.2.6.1.6,"Number of stops: until the vehicle meets the performance requirements, with a maximum of 3 stops;"
+43-2.8.2.6.1.7,"For each stop, accelerate the vehicle to the test speed and then actuate the brake"
+43-2.8.2.6.2,"Performance requirements: When the brakes are tested in accordance with the test procedures set out  Paragraph-. 8.2.6.1., there shall be no wheel lock and the vehicle wheels shall stay within the test lane."
+43-2.8.2.7,Wheel lock check - low to high friction surface transition:
+43-2.8.2.7.1,Test conditions and procedure:
+43-2.8.2.7.1.1,Test surfaces: A low friction surface immediately followed by a high friction surface with a PBC 0.8;
+43-2.8.2.7.1.2,Initial brake temperature: 55 degrees C and 100 degrees C;
+43-2.8.2.7.1.3,"Test speed: The speed that will result in 50 km/h or 0.5 Vmax, whichever is lower, at the point where the vehicle passes from the low friction to the high friction surface; "
+43-2.8.2.7.1.4,Brake application:
+43-2,8.2.7.1.4.1 Each service brake system control applied separately;
+43-2,"8.2.7.1.4.2 Where ABS is fitted to both brake systems, simultaneous application of both brake controls in addition to (i);"
+43-2.8.2.7.1.5,"Brake actuation force: The force applied is that which is necessary to ensure that the ABS will cycle fully throughout each stop, down to 10 km/h;"
+43-2.8.2.7.1.6,"Number of stops: until the vehicle meets the performance requirements, with a maximum of 3 stops;"
+43-2.8.2.7.1.7,"For each stop, accelerate the vehicle to the test speed and then actuate the brake control before the vehicle reaches the transition from one friction surface to the other;"
+43-2.8.2.7.1.8,Record the vehicle's continuous deceleration;
+43-2.8.2.7.2,Performance requirements:
+43-2.8.2.7.2.1,"When the brakes are tested in accordance with the test procedures, there shall be no wheel lock and the vehicle wheels shall stay within the test lane;"
+43-2.8.2.7.2.2,"Within 1 second of the rear wheel passing the transition point between the low and high friction surfaces, the vehicle deceleration shall increase."
+43-2.8.2.8,Stops with an ABS electrical failure:
+43-2.8.2.8.1,Test conditions and procedure:
+43-2.8.2.8.1.1,"With the ABS electrical system disabled, carry out the test set out in 42-2 Dynamic Braking of the Directions. (dry stop test - single brake control actuated) applying the conditions relevant to the brake system and vehicle being tested;"
+43-2.8.2.8.2,Performance requirements: When the brakes are tested in accordance with the test procedure:
+43-2.8.2.8.2.1,"System shall satisfy the following requirements: Vehicles that are equipped with an ABS system shall be fitted with a yellow warning lamp. The lamp shall be activated whenever there is a malfunction that affects the generation or transmission of signals in the vehicle's ABS system.  To permit function checking, the warning lamp shall be illuminated by the activation of the ignition switch and extinguished when the check has been completed. The warning lamp shall remain on while a failure condition exists whenever the ignition switch is in the ""on"" position."
+43-2.8.2.8.2.2,"The minimum requirements for stopping distance or MFDD shall be as specified in column 2 or 3, respectively, under the heading ""Single brake system, rear wheel(s) braking only"" in the table to paragraph 42-2.7.5.3 of the Directions."
+43-2.8.3,Measurement of dynamic performance
+43-2.8.3.1,The method used to measure performance is as specified in the respective tests: There are three ways in which the service brake system performance may be measured.
+43-2.8.3.1.1,MFDD (Mean Fully Developed Deceleration)pÉ Calculation of MFDD: where: dm = mean fully developed deceleration V1 = vehicle speed when rider actuates the control Vb = vehicle speed at 0.8 V1 in km/h Ve = vehicle speed at 0.1 V1 in km/h Sb = distance travelled between V1 and Vb in metres Se = distance travelled between V1 and Ve in metres
+43-2.8.3.1.2,"Stopping distance: Based on the basic equations of motion:  where: S = stopping distance in metres V = vehicle speed in km/h X = a variable based on the requirement for each test To calculate the corrected stopping distance using the actual vehicle test speed, the following formula is used: where: Ss = corrected stopping distance in metres Vs = specified vehicle test speed in km/h Sa = actual stopping distance in metres Va = actual vehicle test speed in km/h Note: This equation is only valid when the actual test speed (Va) is within +/- 5 km/h of the specified test speed (Vs)."
+43-2.8.3.1.3,"Continuous deceleration recording: For the burnishing procedure and tests such as the wet brake and heat fade heating procedure, there is a continuous recording of the vehicle's instantaneous deceleration from the moment a force is applied to the brake control until the end of the stop."
+43-2.9,Requirements:
+43-2.9.1,Power-driven vehicle
+43-2.9.1.1,Energy consumption
+43-2.9.1.1.1,"At the end of the fourth application, with the vehicle stationary, the energy level in the storage device(s) is at or above that required for secondary braking with the laden vehicle."
+43-2.9.1.1.2,"When the control device is applied for the fifth time, it must be possible to brake the vehicle with at least the performance prescribed for secondary braking of the laden vehicle."
+43-2.9.1.1.3,"During the tests, in the case of a power-driven vehicle authorized to draw a trailer equipped with a compressed-air braking system, the supply line shall be stopped and an energy storage device of 0.5 litre capacity shall be connected to the pneumatic control line. When the brakes are applied for the fifth time, as provided  Paragraph-  above, the energy level supplied to the pneumatic control line shall not be below half the level obtained at a full application starting with the initial energy level."
+43-2.9.1.2,Utilization of adhesion (): the utilization of adhesion by the anti-lock brake system takes into consideration the actual increment in braking distance beyond the theoretical minimum. The anti-lock braking system shall be deemed to be satisfactory when the condition epsilon > 0.75 is satisfied. If epsilon > 1.00 the measurements of coefficients of adhesion shall be repeated. A tolerance of 10% is accepted.
+43-2.9.1.3,Additional checks:
+43-2.9.1.3.1,"During the tests  Paragraph- of this Regulation, the wheels directly controlled by an anti-lock system must not lock when the full force is suddenly applied on the control device. However, brief periods of wheel-locking shall be allowed. Furthermore, wheel-locking is permitted when the vehicle speed is less than 15 km/h; likewise, locking of indirectly controlled wheels is permitted at any speed, but stability and steerability must not be affected."
+43-2.9.1.3.2,"During the tests provided  Paragraph- of this Regulation, steering correction is permitted, if the angular rotation of the steering control is within 120° during the initial two seconds, and not more than 240° in all. Furthermore, at the beginning of these tests the longitudinal median plane of the vehicle must pass over the boundary between the high- and low-adhesion surfaces and during these tests no part of the (outer) tyres must cross this boundary."
+43-2.9.2,Trailer
+43-2.9.2.1,"Energy consumption: Trailers equipped with anti-lock braking systems shall be so designed that, even after the service braking control device has been fully applied for some time, the vehicle retains sufficient energy to bring it to a halt within a reasonable distance. During the fifth application, the pressure in the operating circuit must be sufficient to provide a total braking force at the periphery of the wheels equal to not less than 22.5% of the maximum stationary wheel load and without causing an automatic application of any braking system not being under the control of the anti-lock system."
+43-2.9.2.2,Utilization of Adhesion (): Braking systems equipped with an anti-lock system shall be deemed acceptable when the condition > 0.75 is satisfied. If epsilon > 1.00 the measurements of coefficients of adhesion shall be repeated. A tolerance of 10% is accepted.
+43-2.9.2.3,Additional checks:
+43-2.9.2.3.1,"At speeds exceeding 15 km/h, the wheels directly controlled by an anti-lock system must not lock when the full force is  suddenly applied on the control device of the towing vehicle."
+43-2.9.2.3.2,"At vehicle speeds 15 km/h the directly controlled wheels are permitted to lock for brief periods, but at speeds < 15 km/h any locking is permissible. Indirectly controlled wheels are permitted to lock at any speed but in all cases stability must not be affected."

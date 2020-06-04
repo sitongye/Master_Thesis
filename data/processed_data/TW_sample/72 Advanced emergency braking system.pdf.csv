@@ -1,0 +1,98 @@
+Index,Text
+72,Advanced emergency braking system Refer to: R131 01-S1
+72.1,Effective Date and Scope:
+72.1.1,"Effective date from 2019/1/1, the new vehicle variants of category symbols Class I large passenger vehicles and N3, and from 2022/1/1, the all vehicle variants of category symbols Class I large passenger vehicles and N3, shall comply with this regulation."
+72.1.2,"Effective date from 2021/1/1, the new vehicle variants of category symbols Class large passenger vehicles and N2, and from 2023/1/1, the all vehicle variants of category symbols Class large passenger vehicles and N2, shall comply with this regulation."
+72.1.3,The following vehicle categories could exempt from this regulation:
+72.1.3.1,"Category symbols Class I and Class II large passenger vehicles, which assemble standing passenger area."
+72.1.3.2,Category symbol G.
+72.1.3.3,"Special purpose vehicles of categories Class I and Class II large passenger vehicles, N 2 and N 3."
+72.1.3.4,"Vehicles of categories Class I and Class II large passenger vehicles, N 2 and N 3 with more than three axles."
+72.1.4,"The same applicant applying for vehicle-by-vehicle low volume safety approval and the amounts of vehicle not exceed 20 at same year and vehicle of same variant and specification, could exempt from this regulation."
+72.2,Definitions
+72.2.1,"""Advanced Emergency Braking System (AEBS)"" means a system which can automatically detect a potential forward collision and activate the vehicle braking system to decelerate the vehicle with the purpose of avoiding or mitigating a collision."
+72.2.2,"""Subject vehicle"" means the vehicle being tested."
+72.2.3,"""Target"" means a high volume series production passenger car of category M1 AA saloon or in the case of a soft target an object representative of such a vehicle in terms of its detection characteristics applicable to the sensor system of the AEBS under test."
+72.2.4,"""Moving target"" means a target travelling at a constant speed in the same direction and in the centre of the same lane of travel as the subject vehicle."
+72.2.5,"""Stationary target"" means a target at standstill facing the same direction and positioned on the centre of the same test lane of travel as the subject vehicle. "
+72.2.6,"""Soft target"" means a target that will suffer minimum damage and cause minimum damage to the subject vehicle in the event of a collision."
+72.2.7,"""Collision warning phase"" means the phase directly preceding the emergency braking phase, during which the AEBS warns the driver of a potential forward collision."
+72.2.8,"""Emergency braking phase"" means the phase starting when the AEBS emits a braking demand for at least 4 m/s² deceleration to the service braking system of the vehicle."
+72.2.9,"""Common space"" means an area on which two or more information functions (e.g. symbol) may be displayed, but not simultaneously."
+72.2.10,"""Self-check"" means an integrated function that checks for a system failure on a semi-continuous basis at least while the system is active."
+72.2.11,"""Time to collision (TTC)"" means the value of time obtained by dividing the distance between the subject vehicle and the target by the relative speed of the subject vehicle and the target, at an instant in time."
+72.3,The principles of applicable type and scope of advanced emergency braking system shall be as below:
+72.3.1,"The same vehicle brand; If use chassis vehicle instead of completed vehicle for testing, then the same chassis brand is necessary."
+72.3.2,Vehicle features which significantly influence the performances of the advanced emergency braking system.
+72.3.3,The type and design of the advanced emergency braking system.
+72.4,Specifications
+72.4.1,Declaration of design compliance: applicant shall ensure and declare to comply with the following requirements.
+72.4.1.1,Anti-lock braking system (ABS) The effectiveness of the AEBS shall not be adversely affected by magnetic or electrical fields.
+72.4.2,The system shall provide the driver with appropriate warning(s) as Paragraph- to 72.4.2.3:
+72.4.2.1,"A collision warning when the AEBS has detected the possibility of a collision with a preceding vehicle of category M, N or O in the same lane which is travelling at a slower speed, has slowed to a halt or is stationary having not being identified as moving. The warning shall be as specified  Paragraph- above. "
+72.4.2.2,A failure warning when there is a failure in the AEBS that prevents the requirements of this Regulation of being met. The warning shall be as specified  Paragraph- below.
+72.4.2.2.1,"There shall not be an appreciable time interval between each AEBS self-check, and subsequently there shall not be an appreciable delay in illuminating the warning signal, in the case of an electrically detectable failure."
+72.4.2.3,"A deactivation warning, if the vehicle is equipped with a means to manually deactivate the AEBS, shall be given when the system is deactivated. This shall be as specified  Paragraph- below."
+72.4.3,"Subsequent to the warning(s)  Paragraph- above, and subject to the provisions  Paragraph- Paragraph- Paragraph- below, there shall be an emergency braking phase having the purpose of significantly decreasing the speed of the subject vehicle. This shall be tested in accordance with Paragraph- Paragraph- of this Regulation."
+72.4.4,"The system shall be active at least within the vehicle speed range of 15 km/h up to the maximum design speed of the vehicle, and at all vehicle load conditions, unless manually deactivated as per Paragraph- below."
+72.4.5,The system shall be designed to minimize the generation of collision warning signals and to avoid autonomous braking in situations where the driver would not recognize an impending forward collision. This shall be demonstrated in accordance with Paragraph-. of this Regulation.
+72.4.6,Interruption by the driver
+72.4.6.1,".The AEBS may provide the means for the driver to interrupt the collision warning phase. However, when a vehicle braking system is used to provide a haptic warning, the system shall provide the driver with a means to interrupt the warning braking."
+72.4.6.2,The AEBS shall provide the means for the driver to interrupt the emergency braking phase.
+72.4.6.3,Paragraphs
+72.4.6.1,"Paragraph- above, this interruption may be initiated by any positive action (e.g. kick-down, operating the direction indicator control) that indicates that the driver is aware of the emergency situation. The vehicle manufacturer shall provide a list of these positive actions to the technical service at the time of type approval and it shall be annexed to the test report. "
+72.4.7,"When a vehicle is equipped with a means to deactivate the AEBS function, the following conditions shall apply as appropriate:"
+72.4.7.1,The AEBS function shall be automatically reinstated at the initiation of each new ignition cycle.
+72.4.7.2,A constant optical warning signal shall inform the driver that the AEBS function has been deactivated. The yellow warning signal specified  Paragraph- below may be used for this purpose.
+72.4.8,Warning indication
+72.4.8.1,"The collision warning referred to  Paragraph- above shall be provided by at least two modes selected from acoustic, haptic or optical. The timing of the warning signals shall be such that they provide the possibility for the driver to react to the risk of collision and take control of the situation, and shall also avoid nuisance for the driver by too early or too frequent warnings. This shall be tested in accordance with the provisions  Paragraph-. Paragraph- of this Regulation."
+72.4.8.2,A description of the warning indication and the sequence in which the collision warning signals are presented to the driver shall be provided by the vehicle manufacturer at the time of type-approval and recorded in the test report.
+72.4.8.3,"Where an optical means is used as part of the collision warning, the optical signal may be the flashing of the failure warning signal specified  Paragraph- below."
+72.4.8.4,The failure warning referred to  Paragraph- above shall be a constant yellow optical warning signal.
+72.4.8.5,"AEBS optical warning signal shall be activated either when the ignition (start) switch is turned to the ""on"" (run) position or when the ignition (start) switch is in a position between the ""on"" (run) and ""start"" that is designated by the manufacturer as a check position (initial system (power-on)). This requirement does not apply to warning signals shown in a common space."
+72.4.8.6,The optical warning signals shall be visible even by daylight; the satisfactory condition of the signals must be easily verifiable by the driver from the driver's seat.
+72.4.8.7,"When the driver is provided with an optical warning signal to indicate that the AEBS is temporarily not available, for example  due to inclement weather conditions, the signal shall be constant and yellow in colour. The failure warning signal specified  Paragraph- above may be used for this purpose."
+72.4.9,AEBS shall have a design to prevent unauthorized modification easily.
+72.5,Test procedure
+72.5.1,Test conditions
+72.5.1.1,"The test shall be performed on a flat, dry concrete or asphalt surface affording good adhesion."
+72.5.1.2,The ambient temperature shall be between 0 °C and 45 °C.
+72.5.1.3,The horizontal visibility range shall allow the target to be observed throughout the test.
+72.5.1.4,The tests shall be performed when there is no wind liable to affect the results.
+72.5.2,Vehicle conditions
+72.5.2.1,Test weight : The vehicle shall be tested in a condition of load to be agreed between the manufacturer and the Technical Service. No alteration shall be made once the test procedure has begun.
+72.5.3,Test targets
+72.5.3.1,"The target used for the tests shall be a regular high volume series production passenger car of category M1 AA saloon, or alternatively a ""soft target"" representative of such a vehicle in terms of its identification characteristics applicable to the sensor system of the AEBS under test."
+72.5.3.2,Details that enable the target(s) to be specifically identified and reproduced shall be recorded in the vehicle type approval documentation.
+72.5.4,Warning and activation test with a stationary target
+72.5.4.1,The subject vehicle shall approach the stationary target in a straight line for at least two seconds prior to the functional part of the test with a subject vehicle to target centreline offset of not more than 0.5 m.  The functional part of the test shall start when the subject vehicle is travelling at a speed of 80 ± 2 km/h and is at a distance of at least 120 m from the target. From the start of the functional part until the point of collision there shall be no adjustment to any control of the subject vehicle by the driver other than slight adjustments to the steering control to counteract any drifting.
+72.5.4.2,The timing for the collision warning modes referred to  Paragraph- above shall comply with the following:
+72.5.4.2.1,"At least one warning mode shall be provided no later than specified in Table I, Column B. In the case of the vehicles referred to in Table I, row 1, the warning shall be haptic or acoustic. In the case of the vehicles referred to in Table I, row 2, the warning shall be haptic, acoustic or optical."
+72.5.4.2.2,"At least two warning modes shall be provided no later than specified in Table I, column C."
+72.5.4.2.3,"Any speed reduction during the warning phase, shall not exceed either 15 km/h or 30 per cent of the total subject vehicle speed reduction, whichever is higher."
+72.5.4.3,The collision warning phase shall be followed by the emergency braking phase.
+72.5.4.4,"The total speed reduction of the subject vehicle at the time of the impact with the stationary target shall be not less than the value specified in Table I, column D."
+72.5.4.5,"The emergency braking phase shall not start before a TTC equal to or less than 3.0 seconds. Compliance shall be verified by either actual measurement during the test or using documentation provided by the vehicle manufacturer, as agreed between the Technical Service and the vehicle manufacturer."
+72.5.5,Warning and activation test with a moving target
+72.5.5.1,"The subject vehicle and the moving target shall travel in a straight line, in the same direction, for at least two seconds prior to the functional part of the test, with a subject vehicle to target centreline offset of not more than 0.5m. The functional part of the test shall start with the subject vehicle travelling at a speed of 80 ± 2 km/h, the moving target at speed of the value specified in Table I, column H of Annex 3, and a separation distance of at least 120 m between them.  From the start of the functional part of the test until the subject vehicle comes to a speed equal to that of the target there shall be no adjustment to any subject vehicle control by the driver other than slight steering adjustments to counteract any drifting."
+72.5.5.2,The timing for the collision warning modes referred to  Paragraph- above shall comply with the following:
+72.5.5.2.1,"At least one haptic or acoustic warning mode shall be provided no later than specified in Table I, column E."
+72.5.5.2.2,"At least two warning modes shall be provided no later than specified in Table I, column F."
+72.5.5.2.3,"Any speed reduction during the warning phase shall not exceed either 15 km/h or 30 per cent of the total subject vehicle speed reduction, whichever is higher."
+72.5.5.3,The emergency braking phase shall result in the subject vehicle not impacting the moving target.
+72.5.5.4,"The emergency braking phase shall not start before a TTC equal to or less than 3.0 seconds. Compliance shall be verified by either actual measurement during the test or using documentation provided by the vehicle manufacturer, as agreed between the Technical Service and the vehicle manufacturer."
+72.5.6,Failure detection test
+72.5.6.1,"Simulate an electrical failure, for example by disconnecting the power source to any AEBS component or disconnecting any electrical connection between AEBS components. When simulating an AEBS failure, neither the electrical connections for the driver warning signal  Paragraph- above nor the optional manual AEBS deactivation control  Paragraph- shall be disconnected."
+72.5.6.2,"The failure warning signal mentioned  Paragraph- above shall be activated and remain activated not later than 10 seconds after the vehicle has been driven at a speed greater than 15 km/h and be reactivated immediately after a subsequent ignition ""off"" ignition ""on"" cycle with the vehicle stationary as long as the simulated failure exists."
+72.5.7,Deactivation test
+72.5.7.1,"For vehicles equipped with means to deactivate the AEBS, turn the ignition (start) switch to the ""on"" (run) position and  deactivate the AEBS. The warning signal mentioned  Paragraph- above shall be activated. Turn the ignition (start) switch to the ""off"" position. Again, turn the ignition (start) switch to the ""on"" (run) position and verify that the previously activated warning signal is not reactivated, thereby indicating that the AEBS has been reinstated as specified  Paragraph- above. If the ignition system is activated by means of a ""key"", the above requirement shall be fulfilled without removing the key."
+72.5.8,False reaction test
+72.5.8.1,"Two stationary vehicles, of category M1 AA saloon, shall be positioned: (a)So as to face in the same direction of travel as the subject vehicle, (b)With a distance of 4.5 m between them, (c)With the rear of each vehicle aligned with the other."
+72.5.8.2,"The subject vehicle shall travel for a distance of at least 60 m, at a constant speed of 50 ± 2 km/h to pass centrally between the two stationary vehicles. During the test there shall be no adjustment of any subject vehicle control other than slight steering adjustments to counteract any drifting."
+72.5.8.3,The AEBS shall not provide a collision warning and shall not initiate the emergency braking phase.
+72.6,Applicants apply for certification test shall provide at least one representative vehicle (or the essential part of vehicle for test) and submit the documents as below:
+72.6.1,"Vehicle specification documents, drawings and / or photographs described  Paragraph-."
+72.6.2,The clear methods of allowing interruption by the driver.
+72.6.3,The related documents of AEBS warning function process.
+72.6.4,The documents of AEBS in all of condition of loads shall operate normally.
+72.6.5,"The identified methods of description for AEBS type series.  Table 1: AEBS testing requirement A B C D E F G H Row Stationary target Moving target Timing of warning modes Speed reduction (ref. Paragraph-.) Timing of warning modes Speed reduction (ref. Paragraph-.) Target speed (ref. Paragraph-.) At least 1 (ref. Paragraph-.) At least 2 (ref. Paragraph-.) At least 1 (ref. Paragraph-.) At least 2 (ref. Paragraph-.) Class and class with gross vehicle weight more than 5t 1, N2 > 8 t And N3 Not later than 1.4 s. before the start of emergency braking phase Not later than 0.8 s. before the start of emergency braking phase Not less than 20 km/h Not later than 1.4 s. before the start of emergency braking phase Not later than 0.8 s. before the start of emergency braking phase No impact 12 ± 2 km/h 1 N2 8 t 2, 4 And Class and class with gross vehicle weight less than 5t 2, 4 Not later than 0.8 s before the start of the emergency braking phase Before the start of the emergency braking phase 3 Not less than 10 km/h Not later than 0.8 s before the start of the emergency braking phase Before the start of the emergency braking phase 3 No impact 67 ± 2 km/h5 2  1Class and class large passenger vehicles with hydraulic braking system are subject to the requirements of row 2. 2 Vehicles with pneumatic braking systems are subject to the requirements of row 1. 3 Values shall be specified by the vehicle manufacturer at the time of Type Approval. 4 Manufacturers of vehicles covered by row 2 may elect to gain vehicle Type Approval to the values specified in row 1; in this instance compliance shall be demonstrated with all the values contained in row 1. 5 The values for the target speed in cell H2 shall be reviewed before 1st November 2021."

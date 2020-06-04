@@ -1,0 +1,147 @@
+TW,EU,TW_TITLE,EU_TITLE,similarity_score,Data,Status
+TW_27,EU_46,Devices for indirect vision,Devices for indirect vision,1.0000000000000002,EU_46,Y
+TW_40-0,EU_91,Side-marker lamps,Side-marker lamps,1.0000000000000002,EU_91,Y
+TW_32-0,EU_19,Front fog lamps,Front fog lamps,1.0000000000000002,EU_19,Y
+TW_32-1,EU_19,Front fog lamps,Front fog lamps,1.0000000000000002,EU_19,Y
+TW_32-2,EU_19,Front fog lamps,Front fog lamps,1.0000000000000002,EU_19,Y
+TW_33,EU_23,Reversing lamps,Reversing lamps,1.0000000000000002,EU_23,Y
+TW_40-1,EU_91,Side-marker lamps,Side-marker lamps,1.0000000000000002,EU_91,Y
+TW_79,EU_70,Rear marking plates for heavy and long vehicles,Rear marking plates for heavy and long vehicles,1.0000000000000002,EU_70,
+TW_56-0,EU_10,Electromagnetic Compatibility,Electromagnetic compatibility,1.0,EU_10,Y
+TW_56-1,EU_10,Electromagnetic Compatibility,Electromagnetic compatibility,1.0,EU_10,Y
+TW_56-2,EU_10,Electromagnetic Compatibility,Electromagnetic compatibility,1.0,EU_10,Y
+TW_22,EU_39,Speedometer,Speedometer,1.0,EU_39,Y
+TW_20-2,EU_104,Retro-reflective markings,Retro-reflective markings,1.0,EU_104,Y
+TW_53,EU_38,Rear fog lamps,Rear fog lamps,1.0,EU_38,Y
+TW_22-1,EU_39,Speedometer,Speedometer,1.0,EU_39,Y
+TW_20-1,EU_104,Retro-reflective markings,Retro-reflective markings,1.0,EU_104,Y
+TW_20-0,EU_104,Retro-reflective markings,Retro-reflective markings,1.0,EU_104,Y
+TW_56-3,EU_10,Electromagnetic Compatibility,Electromagnetic compatibility,1.0,EU_10,Y
+TW_21-1,EU_28,Audible warning devices,Audible warning devices,0.9999999999999999,EU_28,Y
+TW_21,EU_28,Audible warning devices,Audible warning devices,0.9999999999999999,EU_28,Y
+TW_80,EU_138,Quiet road transport vehicles,Quiet Road Transport Vehicles (QRTV),0.8533851360003064,EU_138,Y
+TW_70,EU_130,Lane departure warning system,Lane Departure Warning System (LDWS),0.8490814325851324,EU_130,
+TW_72,EU_152,Advanced emergency braking system,Advanced Emergency Braking System (AEBS),0.8405690133801103,EU_152,Y
+TW_23,EU_46,Installation of devices for indirect vision,Devices for indirect vision,0.8316160856710146,EU_46,Y
+TW_23-1,EU_46,Installation of devices for indirect vision,Devices for indirect vision,0.8316160856710146,EU_46,Y
+TW_23-2,EU_46,Installation of devices for indirect vision,Devices for indirect vision,0.8316160856710146,EU_46,Y
+TW_84,EU_139,Brake assist systems,Brake Assist Systems (BAS),0.8115150885141094,EU_139,
+TW_09-2,EU_28,Installation of audible warning devices,Audible warning devices,0.7787107679208092,EU_28,Y
+TW_09-1,EU_28,Installation of audible warning devices,Audible warning devices,0.7787107679208092,EU_28,Y
+TW_24,EU_60,Driver operated controls,Driver operated controls (mopeds/motorcycles),0.743758754398732,EU_60,Y
+TW_24-1,EU_60,Driver operated controls,Driver operated controls (mopeds/motorcycles),0.743758754398732,EU_60,Y
+TW_26,EU_14,Safety Belt,Safety-belt anchorages,0.6878815539139957,EU_14,Y
+TW_26-1,EU_14,Safety Belt,Safety-belt anchorages,0.6878815539139957,EU_14,Y
+TW_85,EU_140,Electronic stability control  systems,Electronic Stability Control (ESC) Systems,0.6828746482899725,EU_140,Y
+TW_74,EU_128,LED light sources,Light Emitting Diode (LED) light sources,0.681472109553423,EU_128,Y
+TW_54-3,EU_34,Prevention of fire risks for large passenger vehicle,Prevention of fire risks,0.6729298462897926,EU_34,Y
+TW_76,EU_89,Speed limitation devices,Speed limitation of devices,0.6667595835024704,EU_89,
+TW_59-1,EU_123,Adaptive front lighting system (AFS),Adaptive front-lighting systems (AFS),0.6494452536254014,EU_123,
+TW_59-0.,EU_123,Adaptive front lighting system (AFS),Adaptive front-lighting systems (AFS),0.6494452536254014,EU_123,
+TW_68,EU_141,Tyre pressure monitoring system,Tyre Pressure Monitoring Systems (TPMS),0.6486167674655917,EU_141,Y
+TW_54-2,EU_34,Prevention of fire risks for the large passenger vehicle,Prevention of fire risks,0.6457436711637867,EU_34,Y
+TW_54-0,EU_34,Prevention of fire risks for the large passenger vehicle,Prevention of fire risks,0.6457436711637867,EU_34,Y
+TW_54-1,EU_34,Prevention of fire risks for the large passenger vehicle,Prevention of fire risks,0.6457436711637867,EU_34,Y
+TW_73,EU_87,Daytime running lamp,Daytime running lamps,0.6314703964936372,EU_87,Y
+TW_03-0,EU_48,The installation of lighting and light-signaling devices,Installation of lighting and light-signalling devices,0.6204757128427683,EU_48,
+TW_03-1,EU_48,The installation of lighting and light-signaling devices,Installation of lighting and light-signalling devices,0.6204757128427683,EU_48,
+TW_03-2,EU_48,The installation of lighting and light-signaling devices,Installation of lighting and light-signalling devices,0.6204757128427683,EU_48,
+TW_03-3,EU_48,The installation of lighting and light-signaling devices,Installation of lighting and light-signalling devices,0.6204757128427683,EU_48,
+TW_03-4,EU_48,The installation of lighting and light-signaling devices,Installation of lighting and light-signalling devices,0.6204757128427683,EU_48,
+TW_77,EU_61,External projections,External projections of commercial vehicles,0.6146201502251736,EU_61,
+TW_29,EU_37,Filament lamps,Filament lamps INFORMAL VERSION,0.584359355986896,EU_37,
+TW_62,EU_55,Mechanical coupling device or component,Mechanical coupling,0.5572451721303413,EU_55,
+TW_51-2,EU_11,Door latches and retention components,Door latches and hinges,0.5564643655549294,EU_11,Y
+TW_51-1,EU_11,Door latches and retention components,Door latches and hinges,0.5564643655549294,EU_11,Y
+TW_51-0,EU_11,Door latches and retention components,Door latches and hinges,0.5564643655549294,EU_11,Y
+TW_78,EU_61,External projections (commercial vehicle),External projections of commercial vehicles,0.5190356673193943,EU_61,
+TW_86,EU_32,Rear-end collision for prevention of fuel tank fire risks,Rear-end collision,0.5034030384379435,EU_32,
+TW_48-2,EU_14,Safety belt anchorage,Safety-belt anchorages,0.4999000980655021,EU_14,Y
+TW_48-1,EU_14,Safety belt anchorage,Safety-belt anchorages,0.4999000980655021,EU_14,Y
+TW_48-0,EU_14,Safety belt anchorage,Safety-belt anchorages,0.4999000980655021,EU_14,Y
+TW_75,EU_121,"The location and identification of hand control, tell-tales and indicators","Identification of controls, tell-tales and indicators (01 series)",0.491780683140978,EU_121,Y
+TW_30-2,EU_99,Gas-discharge Headlamps,Gas-discharge light sources,0.47578080348158525,EU_99,Y
+TW_30-1,EU_99,Gas-discharge Headlamps,Gas-discharge light sources,0.47578080348158525,EU_99,Y
+TW_30-0,EU_99,Gas-discharge Headlamps,Gas-discharge light sources,0.47578080348158525,EU_99,Y
+TW_61,EU_55,The installation of the mechanical coupling device or component,Mechanical coupling,0.4435730804392054,EU_55,
+TW_44-0,EU_12,Steering control system - The protection of the driver against the steering mechanism in the event of impact,Steering mechanism,0.40407910021747295,EU_12,Y
+TW_44-1,EU_12,Steering control system - The protection of the driver against the steering mechanism in the event of impact,Steering mechanism,0.40407910021747295,EU_12,Y
+TW_45-0,EU_95,The protection of the occupants in the event of a lateral collision,Lateral collision protection,0.37166083713117004,EU_95,
+TW_45-1,EU_95,The protection of the occupants in the event of a lateral collision,Lateral collision protection,0.37166083713117004,EU_95,
+TW_45-2,EU_95,The protection of the occupants in the event of a lateral collision,Lateral collision protection,0.37166083713117004,EU_95,
+TW_46-3,EU_94,The protection of the occupants in the event of a frontal collision,Frontal collision protection,0.36802692653449953,EU_94,Y
+TW_46-0,EU_94,The protection of the occupants in the event of a frontal collision,Frontal collision protection,0.36802692653449953,EU_94,Y
+TW_46-2,EU_94,The protection of the occupants in the event of a frontal collision,Frontal collision protection,0.36802692653449953,EU_94,Y
+TW_46-1,EU_94,The protection of the occupants in the event of a frontal collision,Frontal collision protection,0.36802692653449953,EU_94,Y
+TW_09-0,EU_28,Sound level of audible warning device,Audible warning devices,0.3649980666100354,EU_28,Y
+TW_39,EU_7,End-outline marker lamp,"Position, stop and end-outline lamps",0.34621669834744606,EU_7,Y
+TW_87,EU_84,Installation of fuel tank,Measurement of fuel consumption,0.31611564079071164,EU_84,
+TW_28-1,EU_141,Tyre,Tyre Pressure Monitoring Systems (TPMS),0.30784644634433306,EU_141,Y
+TW_28-0,EU_141,Tyre,Tyre Pressure Monitoring Systems (TPMS),0.30784644634433306,EU_141,Y
+TW_31,EU_6,Direction indicator,Direction indicators,0.304674814034214,EU_6,Y
+TW_19-1,EU_118,Flammability of the interior materials for motor vehicle,Fire resistance of interior materials,0.29843820461583126,EU_118,Y
+TW_19,EU_118,Flammability of the interior materials for motor vehicle,Fire resistance of interior materials,0.29843820461583126,EU_118,Y
+TW_11,EU_28,The installation requirement of turning and reversing audible warning device,Audible warning devices,0.29051163748713327,EU_28,Y
+TW_47,EU_12,Steering equipment,Steering mechanism,0.2882344542345473,EU_12,Y
+TW_64-1,EU_136,Electric safety requirements for battery electric vehicles,Electric vehicles of category L (EV-L),0.28520048504030904,EU_136,Y
+TW_64,EU_136,Electric safety requirements for battery electric vehicles,Electric vehicles of category L (EV-L),0.28520048504030904,EU_136,Y
+TW_07,EU_73,The lateral protection device and the Rear Underrun Protection Device (RUPD)(or bumper),Lateral protection devices,0.2823991341765008,EU_73,Y
+TW_34,EU_19,Front position lamps,Front fog lamps,0.272513466492462,EU_19,Y
+TW_52-1,EU_99,Headlamps (headlamps of gas-discharge type excluded),Gas-discharge light sources,0.27146919302639605,EU_99,Y
+TW_52-2,EU_99,Headlamps (headlamps of gas-discharge type excluded),Gas-discharge light sources,0.27146919302639605,EU_99,Y
+TW_52-0,EU_99,Headlamps (headlamps of gas-discharge type excluded),Gas-discharge light sources,0.27146919302639605,EU_99,Y
+TW_37,EU_7,Stop lamps,"Position, stop and end-outline lamps",0.2641675010970208,EU_7,Y
+TW_35,EU_38,Rear position lamps,Rear fog lamps,0.2452821697323687,EU_38,Y
+TW_50-1,EU_44,Head restraint,Child Restraint Systems,0.23371222919151555,EU_44,Y
+TW_50-2,EU_44,Head restraint,Child Restraint Systems,0.23371222919151555,EU_44,Y
+TW_50,EU_44,Head restraint,Child Restraint Systems,0.23371222919151555,EU_44,Y
+TW_43-2,EU_152,Anti-lock braking system (ABS),Advanced Emergency Braking System (AEBS),0.2328286708333968,EU_152,Y
+TW_43-0,EU_152,Anti-lock braking system (ABS),Advanced Emergency Braking System (AEBS),0.2328286708333968,EU_152,Y
+TW_43-1,EU_152,Anti-lock braking system (ABS),Advanced Emergency Braking System (AEBS),0.2328286708333968,EU_152,Y
+TW_60,EU_81,The Rear-view mirror with reverse-assistant lamp,Rear-view mirrors (motorcycles/mopeds),0.22858950335515543,EU_81,
+TW_25-2,EU_16,Safety Glass,Safety-belts,0.2008233594863039,EU_16,Y
+TW_25-3,EU_16,Safety Glass,Safety-belts,0.2008233594863039,EU_16,Y
+TW_25-0,EU_16,Safety Glass,Safety-belts,0.2008233594863039,EU_16,Y
+TW_25-1,EU_16,Safety Glass,Safety-belts,0.2008233594863039,EU_16,Y
+TW_55,EU_66,Strength of super structure for large passenger vehicle,Strength of superstructure (buses),0.19927432406742532,EU_66,
+TW_58,EU_66,The frameíªs fatigue strength of small-light moped,Strength of superstructure (buses),0.193146274942669,EU_66,
+TW_18,EU_66,Static strength of luggage racks for small vehicles,Strength of superstructure (buses),0.19219646572308896,EU_66,
+TW_06,EU_84,The inspection requirement of fuel system for CNG vehicle,Measurement of fuel consumption,0.1874496499577178,EU_84,
+TW_05,EU_84,The inspection requirement of fuel system for LPG vehicle,Measurement of fuel consumption,0.1874496499577178,EU_84,
+TW_38,EU_7,S3 stop lamps,"Position, stop and end-outline lamps",0.1849445564922203,EU_7,Y
+TW_42-3,EU_13,Dynamic Braking,Heavy vehicle braking,0.17646802953700882,EU_13,Y
+TW_42-4,EU_13,Dynamic braking,Heavy vehicle braking,0.17646802953700882,EU_13,Y
+TW_42-1,EU_13,Dynamic Braking,Heavy vehicle braking,0.17646802953700882,EU_13,Y
+TW_42-0,EU_13,Dynamic Braking,Heavy vehicle braking,0.17646802953700882,EU_13,Y
+TW_42-2,EU_13,Dynamic Braking,Heavy vehicle braking,0.17646802953700882,EU_13,Y
+TW_17,EU_66,Static strength of coupling devices for trailer towed by small vehicles,Strength of superstructure (buses),0.16297542614874422,EU_66,
+TW_57,EU_52,The electronic control device of small-light moped,General construction of small buses and coaches,0.16227300302152178,EU_52,
+TW_04,EU_13,Static Braking,Heavy vehicle braking,0.15770846259871563,EU_13,Y
+TW_66,EU_84,fuel tank,Measurement of fuel consumption,0.15731351598192703,EU_84,
+TW_36,EU_23,Parking lamps,Reversing lamps,0.15566949821137202,EU_23,Y
+TW_83,EU_151,Specifications of specific components for the compressed hydrogen storage system,Blind Spot Information System for the Detection of Bicycles,0.12446316132742494,EU_151,
+TW_90,EU_151,Specifications of specific components for the compressed hydrogen storage system(L),Blind Spot Information System for the Detection of Bicycles,0.12446316132742494,EU_151,
+TW_71,EU_46,Driving vision assistant system,Devices for indirect vision,0.12201565144309215,EU_46,Y
+TW_12,EU_151,The thermal-insulation protection device of exhaust system for motorcycle,Blind Spot Information System for the Detection of Bicycles,0.12075579478057791,EU_151,
+TW_08,EU_111,The requirement of vehicle tilt stability,Handling and stability of vehicles,0.12010462401341601,EU_111,Y
+TW_81,EU_122,Specifications of a vehicle fuel system incorporating the compressed hydrogen storage system,Heating system,0.11895670380987056,EU_122,Y
+TW_88,EU_122,Specifications of a vehicle fuel system incorporating the compressed hydrogen storage system(L),Heating system,0.11895670380987056,EU_122,Y
+TW_02,EU_133,The requirement of specification for motor vehicle,Recyclability of motor vehicles,0.11684095475022682,EU_133,
+TW_13,EU_111,The requirement of stability and durability regarding motorcycle stands,Handling and stability of vehicles,0.11448049673197276,EU_111,Y
+TW_01,EU_13,The applicable motor vehicle category for vehicle inspection and testing,Heavy vehicle braking,0.09920902293292772,EU_13,Y
+TW_63-1,EU_13,Low floor vehicle,Heavy vehicle braking,0.09807541706640151,EU_13,Y
+TW_63,EU_13,Low floor vehicle,Heavy vehicle braking,0.09807541706640151,EU_13,Y
+TW_89,EU_85,Specifications of the compressed hydrogen storage system(L),Measurement of the net power and the 30 min. power,0.09790836122378438,EU_85,
+TW_82,EU_85,Specifications of the compressed hydrogen storage system,Measurement of the net power and the 30 min. power,0.09790836122378438,EU_85,
+TW_67,EU_13,Wheelchair accessible vehicle,Heavy vehicle braking,0.0920143087372957,EU_13,Y
+TW_10,EU_142,Installation requirements of pay load meter,Tyres installation,0.09099403446079496,EU_142,
+TW_65,EU_34,The prevention requirements for high temperature compression and electrical shock of electric motorcycle,Prevention of fire risks,0.08144207643820116,EU_34,Y
+TW_14,EU_85,The requirement regarding the passenger hand-holds of motorcycle,Measurement of the net power and the 30 min. power,0.07219365113792056,EU_85,
+TW_15,EU_0,Payload meter,International Whole Vehicle Type Approval (IWVTA),0.0,EU_0,Y
+TW_16-1,EU_0,Digital tachograph,International Whole Vehicle Type Approval (IWVTA),0.0,EU_0,Y
+TW_41-0,EU_0,Reflex reflectors,International Whole Vehicle Type Approval (IWVTA),0.0,EU_0,Y
+TW_41-1,EU_0,Reflex reflectors,International Whole Vehicle Type Approval (IWVTA),0.0,EU_0,Y
+TW_49,EU_0,Seats,International Whole Vehicle Type Approval (IWVTA),0.0,EU_0,Y
+TW_49-1,EU_0,Seats,International Whole Vehicle Type Approval (IWVTA),0.0,EU_0,Y
+TW_69,EU_0,Manoeuvring lamp,International Whole Vehicle Type Approval (IWVTA),0.0,EU_0,Y
+TW_16,EU_0,Tachograph,International Whole Vehicle Type Approval (IWVTA),0.0,EU_0,Y

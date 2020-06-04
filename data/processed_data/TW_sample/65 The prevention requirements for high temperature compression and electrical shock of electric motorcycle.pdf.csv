@@ -1,0 +1,93 @@
+Index,Text
+65,"The prevention requirements for high temperature, compression and electrical shock of electric motorcycle"
+65.1,Effective Date and Scope:
+65.1.1,"As for the category L, the new vehicle variants from 2010/12/1 and all vehicle variants from 2012/12/1, shall comply with this regulation."
+65.1.2,"The same applicant applying for vehicle-by-vehicle low volume safety approval and the amounts of vehicle not exceed 20 at same year, it could exempt from this regulation."
+65.2,Definitions
+65.2.1,"Exposed conductive parts: the conductor easily to be touched and not live under normal service condition, but become live with electricity only under abnormal condition (failure of insulation). -XXB joint test stipulated by CNS 14165"
+65.2.2,Power Mechanism: means those circuits included by following devices:
+65.2.2.1,Main battery.
+65.2.2.2,"Electricity converter (vehicle-based charger, power controller for drive motor, DC adaptor)."
+65.2.2.3,"Drive motor, related wirings and connectors, etc."
+65.2.2.4,Recharging circuit.
+65.2.2.5,Power auxiliary device.
+65.2.3,"Driving Mechanism: exclusively applies to drive motor, controller for drive motor, as well as related wirings and connectors inside Power Mechanism under this regulation."
+65.2.4,Basic Insulation: Insulation that provides basic protection upon electrical shock.
+65.2.5,Auxiliary Insulation: the independent insulation deployed on top of basic insulation to reduce the risk of electrical shock in case of the failure of basic insulation.
+65.2.6,Dual Insulation: insulations provided by both basic insulation and auxiliary insulation. 
+65.2.7,Reinforced Insulation: the single insulation system that enables to provide the equivalence of dual insulation against electrical shock upon the specific conditions under this regulation.
+65.2.8,Explosion: the parabolic blast of battery case and bursting out of its assembling components.
+65.2.9,Fire: the condition where flame bursts out from battery.
+65.2.10,"Leakage: the condition where the leakage of electrolyte is visible inside battery, and the loss of mass exceeds 0.1%. The calculation of the loss of mass is following: m1 is the mass of battery before test m2 is the mass of battery after test"
+65.2.11,"Rupture: the mechanical damage of battery case caused by internal or external elements that leads to the emission of interior gas, splash of liquid but without any solid ejection, and complies with the condition where IEC61032 test probe enables to dig into over 10 mm of depth beneath battery case, or touch any insulation-free part inside battery."
+65.2.12,Venting: the condition where over-loaded pressure is released from battery interior to prevent from rupture or explosion.
+65.3,"The applicable type and scope principle of prevention requirements for high temperature, compression and electrical shock of electric motorcycle are as below"
+65.3.1,The same vehicle category.
+65.3.2,The same brand and vehicle type series.
+65.3.3,The same power .apparatus
+65.4,Declaration of design compliance of related basic safety protection design for the main battery set of power apparatus 
+65.4.1,Main battery set
+65.4.1.1,Battery set should be securely installed for easy use and operation.
+65.4.1.2,A protection design should be available to prevent human directly contact exposed battery set.
+65.4.2,Main battery chamber
+65.4.2.1,Related design of insulating materials should be applied and ventilation should be available within battery chamber.
+65.4.2.2,Preventing measure of proper allocation or emission hole should be designed for battery chamber to avoid the leakage of electrolyte to store at any part inside battery chamber.
+65.4.3,Electrical equipment and wiring
+65.4.3.1,All wirings should be well insulated and all the wirings and electrical equipment should be able to endure heat and humidity.
+65.4.3.2,"Wiring of any circuit under installation mode and the maximum environmental temperature, both of them should not load with any current over its capacity."
+65.4.3.3,"All wirings should be properly protected and securely installed, and should be free from any damage of amputation, wear and friction."
+65.4.4,"A protection design should be built in the vehicle to safeguard its main battery set against external damage, such as compression, impact, falling, and vibration. The purpose of its design is to provide the protective function against explosion, flame, leakage, venting, and rupture, etc."
+65.5,"General requirements for the requirements for the prevention of high temperature, compression and electrical shock"
+65.5.1,Test requirement:
+65.5.1.1,This test condition applies to the requirement of working voltage over DC (direct current) 24V.
+65.5.1.2,"Test battery provided by application, the installation of main battery should never allow any potential risk of its exhausted gas being stored within certain part of vehicle interior. At the meantime, the space where battery is stored should be equipped with a  ventilating device to properly secure its safety. The main battery and power mechanism should be protected with fuses or switches of adequate level. The model of connectors should be in line with battery terminals to ensure that they are securely fastened."
+65.5.1.3,"The insulating materials for circuit should comply with the selection of both labeled voltage and working voltage. Insulating paint, glue, enamel and other similar stuffs should not be used as materials for basic insulation. Live wires should be positioned inside covering case or behind obstacles to ensure minimum protection of IP-XXD as regulated by CNS 14165."
+65.5.1.4,"The covering case should be able to endure any kind of impact, electricity and thermal stress incurred. Upon opening of recharge cover, the parts that accessible to be touched by recharge connecting system should be protected by device with protection level IP-XXB as regulated under CNS 14165."
+65.5.1.5,"Hooked up to power network or conductivity of outer recharger, the vehicle should be equipped with a device to prevent it from moving on its own power. All parts that are likely to be live inside recharge connecting system should be protected against any direct contact under all operating conditions. All exposed conductive parts should be ground connection when recharged."
+65.5.2,Test items:
+65.5.2.1,Measurement of battery insulating resistance
+65.5.2.2,Measurement of circuit insulating resistance.
+65.5.2.3,Dielectric strength test
+65.5.2.4,Balanced continuity of electric potential between random two exposed conductible parts.
+65.5.2.5,Washing test
+65.5.2.6,Wading test
+65.5.3,Requirement for functional safety
+65.5.3.1,Power operating procedure
+65.5.3.1.1,Power operating procedure should be triggered by key to switch on and off. 
+65.5.3.1.2,K
+65.5.3.1.3,"To avoid erroneous ignition of the vehicle that should be preset to switch on under certain conditions, which may include: a.park stand has not been lifted;b.accelerating controller has not been reset; c.passengers have not seated, or any other conditions that may cause erroneous ignition."
+65.5.3.2,Drive and standstill condition
+65.5.3.2.1,Driver must be indicated with transient signal during vehicle is under .
+65.5.3.2.2,"Tdefault value. In the meanwhile, the minimum power supply preset by manufacturer should be reserved for lighting system if auxiliary circuit is powered directly by main battery."
+65.5.3.3,"A vehicle is built with a device for restrict its performance when it is in emergency situation (e.g. overheat parts), the user must be informed with clear signals when the device starts functioning."
+65.5.3.4,Motorcycle should never be driven or started when battery is being recharged.
+65.5.4,Testing Methods:
+65.5.4.1,Measurement of battery insulating resistance
+65.5.4.1.1,"Considering the regulation as well as measuring device, this test does not apply to battery with insulating resistance higher than one million ohm"
+65.5.4.1.2,The value of this insulating resistance and test methods stand valid in case of connection between battery and conductible frame of vehicle. The only thing to do upon measurement is to cut off the connection between battery and conductible frame.
+65.5.4.1.3,"During the whole test process, start-up voltage of the battery should be higher than its labeled voltage. Meanwhile, circuit should be disconnected between both terminals of battery and power supply. "
+65.5.4.1.4,"Voltage meter for this test should be the one for measuring DC voltage, with internal resistance over one million ohm. Measurement steps: a. set up U1 for test described in graph 1 b. c. ohm between 100xUB ohm and 500xUB ohm. UB is the labeled voltage of battery (unit: Volt) d. the formula for insulating resistance Rf"
+65.5.4.1.5,"When the battery of electric motorcycle have no ground connection, and the gap of electric potential and its resistance value Rf between main battery and conductible frame, electric motorcycle should go through CNS3635 insulating resistance test to see if its resistance meets regulation requirement."
+65.5.4.2,measurement of circuit insulating resistance
+65.5.4.2.1,"Parking the vehicle for eight hours in following conditions before conducting measurement of insulating resistance. Temperature: 20 +/- 5 degrees Celsius Relative humidity: 90 percent, plus 10 percent, minus 5 percent. Atmospheric pressure: 860 to 1060 mbar."
+65.5.4.2.2,Proper apparatus (e.g. high resistor) should be connect to circuit of electrified body and conductible frame during measurement. DC power equal to labeled voltage of circuit should be applied and last a period of time until a stable counting  is reached.
+65.5.4.2.3,Main battery is not included when insulating resistance of power circuit is measured.
+65.5.4.2.4,Above regulation does not apply to auxiliary circuit.
+65.5.4.2.5,"In addition to main battery of electric motorcycle, there is no electrified body and therefore circuit insulating resistance t process, in this situation, the model of electric motorcycle should go through CNS3635 insulating resistance test to see if its resistance meets regulation requirement."
+65.5.4.3,Dielectric strength test
+65.5.4.3.1,Removing conductible connection from auxiliary battery and all other circuits to conductivity frame. All electronic components should be cut off from test circuit if found unable to sustain test voltage between electrified body and conductivity frame.
+65.5.4.3.2,Main battery should be excluded from power circuit test.
+65.5.4.3.3,"Choose either test voltage from table 1 to conduct circuit test of insulating style as well as working voltage (UC). 60 Hz AC is applied to last one minute onto different parts of tested circuit and among those exposed conductible parts. Table 1 Insulating style of tested circuit Test voltage (V) Test voltage when basic insulation is applied 2Uc+1000, At least =1500 Test voltage when dual insulation is applied 2Uc+2250, At least =2750 Test voltage when reinforced insulation is applied 2Uc+3250, At least =3750"
+65.5.4.4,"Balanced continuity of electric potential between random two exposed conductible parts: with unloaded power below 60 voltage, 25 ampere and 1.5 times of higher value of the maximum current as test current, connect two exposed conductible parts for at least 5 seconds. Measuring its gap of voltage and calculate its resistance value from test current. "
+65.5.4.5,Washing test
+65.5.4.5.1,"This test is to imitate normal washing condition of electric vehicles, but preclude particular wash, such as hyper spurt or wash beneath vehicle. Vehicle manufacturer should elaborate actual manual for these particular conditions. Vehicle and related safety electricity both of them the dangerous parts are on each joint. (such as separated component of cushion, cover plate of battery, surrounding glass trim of open-end metal parts, rubber trim of lights, etc.) The angle of test nozzle should be positioned as much close to the center of seam as possible."
+65.5.4.5.2,"Use nozzle described in graph 5 for test, and spurt tap water along all joints at the flow rate of 12.5 liter per minute. The distance between nozzle and joints is 3 meters, with moving speed at 0.1 meter per second."
+65.5.4.6,Wading test
+65.5.4.6.1,This test is to imitate the condition where electric vehicle drives through humid roads with water potholes.
+65.5.4.6.2,"Tested vehicle should run under 10 centimeters depth water of road within 10 minutes, at the speed of 20 km per hour for 500 meters."
+65.5.5,Judgment of testing :
+65.5.5.1,"Measurement of battery insulating resistance: insulating resistance of battery should be measured as regulated. The insulating resistance R1 of the new battery should be large than (500xUB)ohm, among which UB is the labeled voltage of battery. Within its life of service, the insulating resistance should maintain at least (100xUB) ohm."
+65.5.5.2,"Measurement of circuit insulating resistance: its value should be more than (1000xUC) ohm, among which UC is the labeled voltage of circuit."
+65.5.5.3,Dielectric strength test: no spark or dielectric is allowed to be destroyed during test.
+65.5.5.4,Balanced continuity of electric potential between random two exposed conductible parts: measured resistance should be less than 0.1 ohm. 
+65.5.5.5,"Water resistance test: as shown by table 2, UB is the labeled voltage of main battery, while UC is the labeled voltage of recharge circuit. Table 2 Testing immediately after each water resistance test Testing after 24 hours parked. Insulating resistance of main battery over over(50 Insulating resistance of recharge circuit over(50 Figure 1 main battery conducted frame  Figure 2 Figure 3 main battery conducted frame main battery conducted frame  Figure 4 Figure 5 Unit: millimeter D= 6.3 main battery conducted frame"

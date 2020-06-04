@@ -1,0 +1,81 @@
+Index,Text
+73,Daytime running lamps Refer to: R87 00-S18
+73.1,Effective Date and Scope:
+73.1.1,"Effective date from 2017//1/1, the new types of daytime running lamps used in vehicles of category symbols L, M and N, and from 2019/1/1 the all types of daytime running lamps used in vehicles of category symbols L, M and N, shall comply with this regulation and shall be use bulbs and/or LED light sources that is conform with Direction."
+73.1.2,The applicants applying for low volume safety type Daytime running lampsfor large passenger vehicle and child-only vehicle.
+73.1.3,Applying for vehicle-by-Daytime running lamps
+73.2,Definitions
+73.2.1,"""Daytime running lamp"" means conform to"
+73.2.2,Specifications marked and a lamp or an interdependent lamp system facing in a forward direction used to make the vehicle more easily visible when driving during daytime.
+73.2.2,Specifications marked
+73.2.2.1,Means the marks shall be clearly legible on the outside of the marking material and shall be indelible to include below:
+73.2.2.1.1,"Brand (or marking), type of replaceable light sources (or MD(or MODULE) the light source module specific identification code)."
+73.2.2.1.2,"In case of lamps with an electronic light source control gear and/or non-replaceable light sources and/or light source module(s), bear the marking of the rated voltage or range of voltage and rated wattage."
+73.2.2.1.3,"The light source module must to mark Brand (or marking), MD (or MODULE) the light source module specific identification code, rated voltage (or ranged voltage)and rated wattage. However this provision does not apply to the LED is non-replaceable."
+73.2.2.1.4,"Lamps operating at voltages other than the nominal rated voltages of 6 V, 12 V or 24 V respectively, by the application of an electronic light source control gear being not part of the lamp, must also bear a marking denoting the rated secondary design voltage. "
+73.2.2.1.5,An electronic light source control gear being part of the lamp but not included into the lamp body shall bear the name of the manufacturer and its identification number.
+73.2.2.1.6,The additional symbol RL .
+73.3,The principles of applicable type and scope of daytime running lamp shall be as below:
+73.3.1,The same brand.
+73.3.2,"The same characteristics of the optical system (levels of intensity, light distribution angles, category of light source, light source module etc). however"
+73.4,Generally requirements:
+73.4.1,Each lamp shall conform to the specifications set forth in the paragraphs below. An interdependent lamp system shall meet the requirements when all its interdependent lamps are operated together.
+73.4.2,"Daytime running lamps shall be so designed and constructed that in normal use, despite the vibration to which they may then be subjected, they continue to function satisfactorily and retain the characteristics prescribed by this Regulation."
+73.4.3,"In the case of light source modules, it shall be checked that:"
+73.4.3.1,The design of the light source module(s) shall be such as:
+73.4.3.1.1,That each light source module can only be fitted in no other position than the designated and correct one and can only be removed with the use of tool(s).
+73.4.3.1.2,"If there are more than one light source module used in the housing for a device, light source modules having different characteristics cannot be interchanged within the same lamp housing."
+73.4.3.2,The light source module(s) shall be tamperproof.
+73.4.3.3,"A light source module shall be so designed that regardless of the use of tool(s), it shall not be mechanically interchangeable with any replaceable approved light source."
+73.4.4,"Daytime running lamps, which are reciprocally incorporated with another function, using a common light source, and designed to operate permanently with an electronic light source control gear to regulate the intensity of the light emitted, are permitted. "
+73.4.5,In the case of replaceable light source(s):
+73.4.5.1,It shalDirection.
+73.4.5.2,The design of the daytime running lamp shall be such that the light source can be fixed in no other position but the correct one.
+73.4.5.3,"The light source holder shall conform to the characteristics given in IEC Publication 60061. The holder data sheet relevant to the category of light source used, applies."
+73.5,Intensity of light
+73.5.1,The luminous intensity of the light emitted by each daytime running lamp shall not be less than 400 cd in the axis of reference.
+73.5.2,"Angles for light distribution shall comply with figure 2, the intensity of the light emitted by each daytime running lamp must:"
+73.5.2.1,"In each direction corresponding to the points in the table of standard light distribution reproduced, be not less than the minimum specified  Paragraph- above, multiplied by the percentage specified in the said table of the direction in question (see figure 1)."
+73.5.2.2,"Not exceed 1,200 cd in any direction the daytime running lamp is visible."
+73.5.3,"Moreover, throughout the field defined in the diagram  Paragraph-, the intensity of the light emitted must not be less than 1.0 cd."
+73.5.4,Light source failure
+73.5.4.1,"In the case of a daytime running lamp containing more than one light source, the daytime running lamp shall comply with the minimum intensity required and the maximum intensity shall not be exceeded."
+73.5.4.2,"In case of failure of any one light source in a single lamp containing more than one light source, one of the following provisions shall apply: (a) The light intensity at the points of standard light distribution shall be at least 80 per cent of the minimum intensity required, or (b) The light intensity in the axis of reference shall be at least 50 per cent of the minimum intensity required, provided that a note in the documents (according  Paragraph-) that the lamp is only for use on a vehicle fitted with a tell-tale indicating failure. "
+73.5.4.3,"A group of light sources, wired so that the failure of any one of them causes all of them to stop emitting light, shall be considered to be one light source."
+73.6,Apparent surface The area of the apparent surface in the direction of the axis of reference of the daytime running lamp shall be not less than 25 cm2 and not more than 200 cm2.
+73.7,Colour of light The colour of the light shall be white. It shall be measured under the conditions as prescribed  Paragraph- below.
+73.8,Test procedure
+73.8.1,"All measurements, photometric and colorimetric, when not supplied by an electronic light source control gear, shall be carried out with an uncoloured or coloured standard light source of the category prescribed for the daytime running lamp, supplied with the voltage: (a) In the case of filament lamps, that is necessary to produce the reference luminous flux required for that category of filament lamp; (b) In the case of LED light sources of 6.75 V, 13.5 V or 28.0 V; the luminous flux value produced shall be corrected. The correction factor is the ratio between the objective luminous flux and the mean value of the luminous flux found at the voltage applied."
+73.8.2,"In the case of a system that uses an electronic light source control gear being part of the daytime running lamp, all measurements, photometric and colorimetric, shall be made applying at the input terminals of the lamp a voltage of 6.75 V, 13.5 V or 28.0 V respectively."
+73.8.3,In the case of a system that uses an electronic light source control gear not being part of the daytime running lamp the voltage declared by the manufacturer shall be applied to the input terminals of the daytime running lamp and mentioned in the test report.
+73.8.4,"For any lamp except those equipped with filament lamps, the luminous intensities, measured after one minute and after 30 minutes of operation, shall comply with the minimum and maximum requirements. The luminous intensity distribution after one minute of operation can be calculated from the luminous intensity distribution after 30 minutes of operation by applying at each test point the ratio of luminous intensities measured at HV after one minute and after 30 minutes of operation."
+73.8.5,The limits of the apparent surface in the direction of the reference axis of a light signalling device shall be determined.
+73.9,Heat resistance test
+73.9.1,"The daytime running lamp shall be subjected to a one-hour test of continuous operation following a warm-up period of 20  minutes. The ambient temperature shall be 23 deg. C +/- 5 deg.C. The light source used shall be a light source of the category specified for the daytime running lamp, and shall be supplied with a current at a voltage such that it gives the specified average power at the corresponding test voltage. However, for daytime running lamps equipped with nonreplaceable light sources (filament lamps and other), the test shall be made with the light sources present in the daytime running lamp, in accordance with Paragraph- of this Regulation."
+73.9.2,"Where only the maximum power is specified, the test shall be carried out by regulating the voltage to obtain a power equal to 90 per cent of the specified power. The specified average or maximum power referred to above shall in all cases be chosen from the voltage range of 6, 12 or 24 V at which it reaches the highest value; for daytime running lamps equipped with non-replaceable light sources (filament lamps and other) the test conditions set  Paragraph- of this Regulation shall be applied."
+73.9.3,"After the daytime running lamp has been stabilized at the ambient temperature, no distortion, deformation, cracking or colour modification shall be perceptible. In case of doubt the intensity of light according  Paragraph- above shall be measured. At that measurement the values shall reach at least 90 per cent of the values obtained before the heat resistance test on the same device."
+73.10,Photometric measurements
+73.10.1,Stray reflections shall be avoided by appropriate masking.
+73.10.2,Measurements shall be taken in such way as to meet the following requirements:
+73.10.2.1,The distance of measurement shall be such that the law of the inverse of the square of the distance is applicable:
+73.10.2.2,The measuring equipment shall be such that the angle subtended by the receiver from the reference centre of the light is between 10' and 1 deg.:
+73.10.2.3,The intensity requirement for a particular direction of observation shall be deemed to be satisfied if that requirement is met in a direction deviating by not more than 15' from the direction of observation.
+73.10.3,In the case where the daytime running lamp may be installed on the vehicle in more than one or in a field of different positions the photometric measurements shall be repeated for each position or for the extreme positions in the field of the reference axis specified by the manufacturer.
+73.10.4,Photometric measurement of daytime running lamps
+73.10.4.1,"For non-replaceable light sources(filament lamps or other): With the light sources present in the daytime running lamp, in accordance with Paragraph- of this Regulation. "
+73.10.4.2,"For replaceable light sources: When equipped with filament lamps at 6.75 V, 13.5 V or 28.0 V, the luminous intensity values produced shall be corrected. For filament lamps the correction factor is the ratio between the reference luminous flux and the mean value of the luminous flux found at the voltage applied (6.75 V, 13.5 V or 28.0 V). The actual luminous fluxes of each filament lamp used shall not deviate more than +/-5 percent from the mean value. Alternatively a standard filament lamp may be used in turn, in each of the individual positions, operated*/ .At its reference flux, the individual measurements in each position being added together."
+73.10.4.3,"For any daytime running lamp except those equipped with filament lamp(s), the luminous intensities, measured after one minute and after 30 minutes of operation, shall comply with the minimum and maximum requirements. The luminous intensity distribution after one minute of operation can be calculated from the luminous intensity distribution after 30 minutes of operation by applying at each test point the ratio of luminous intensities measured at HV after one minute and after 30 minutes of operation."
+73.10.5,Standard light distribution(percentage)
+73.10.5.1,"The direction H = 0 deg. and V = 0 deg. corresponds to the reference axis. (On the vehicle, it is horizontal, parallel to the median longitudinal plane of the vehicle and oriented in the required direction of visibility). It passes through the centre of reference. The values shown in the table give, for the various directions of measurement, the minimum intensities as a percentage of the minimum required in the axis for each daytime running lamp(in the direction H = 0 deg. and V = 0 deg.)."
+73.10.5.2,"Within the field of light distribution shown as a grid, the light pattern should be substantially uniform, i.e. in so far as the light intensity in each direction of a part of the field formed by the gird lines shall meet at least the lowest minimum value being shown on the gird lines surrounding the questioned direction as a percentage."
+73.11,Minimum angles required for light distribution in space
+73.11.1,"In all cases, the minimum vertical angles of light distribution in space are 10 deg. above and 5 deg. below the horizontal. Minimum horizontal angles of light distribution in space (see figure 2)."
+73.12,Applicants apply for certification test shall provide at least testing object and submit the documents as below:
+73.12.1,"Testing object specification documents, drawings and / or photographs described  Paragraph-."
+73.12.2,"Drawings showing geometrically the position(s) in which the daytime running lamp may be mounted on the vehicle, the axis of  observation to be taken as the axis of reference in the tests (horizontal angle H = 0 deg., vertical angle V = 0 deg.) and the point to be taken as the centre of reference in the said tests; and the illuminating surface."
+73.12.3,Brief technical description
+73.12.3.1,"Number, category and kind of light source(s)."
+73.12.3.2,Voltage and wattage.
+73.12.3.3,"Description of application of an electronic light source control gear (a) Being part of the lamp, or (b) Being not part of the lamp. Input voltage supplied by an electronic light source control gear"
+73.12.3.3.1,Electronic light source control gear brand and identification number (when the light source control gear is part of the lamp but is not included into the lamp body)
+73.12.3.4,The lamp is only for use on a vehicle fitted with a tell-tale indicating failure (according  Paragraph- (b)).  Figure 1: Table of standard light distribution  Figure 2: Minimum angles required for light distribution in space

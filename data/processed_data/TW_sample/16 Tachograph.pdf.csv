@@ -1,0 +1,29 @@
+Index,Text
+16,Tachograph
+16.1,"Tachograph: the device able to record the instant driving speed, distance and time continuously."
+16.2,Effective date and Scope:
+16.2.1,"As for the tachograph of motor vehicles of category M and N, with a gross combination weight and gross vehicle weight less than 20 tons, and with gross vehicle weight more than 8 tons but less than 20 tons as of 2001/1/1, shall comply with this regulation."
+16.2.2,"From 2007/7/1, the new types of passenger vehicle that is less than 8 tons and from 2008/1/1,each types of passenger vehicle that is less than 8 tons, all of them have to comply with this regulation."
+16.3,"Tachorgraph shall according to suitable types and range of principle Except for the brand and type series shall be the same, also shall comply with following regulation:"
+16.3.1,Means the same constitution . p·machinery or electronp¸
+16.3.2,"Means the same functions. p·the category of record documents, the recorded way of documents, the stored way of documents p¸"
+16.4,"Description of the function and specification: Shall describe activating method with transmission system, way of data recording and storing, explanation on the design and operation of rewrite-proof, and the period and correction method of regular inspection."
+16.5,Inspection standard: perform the tests specified thereunder in the following sequence.
+16.5.1,Accuracy test:
+16.5.1.1,The allowable error of transient speed records (unit: km/hr) Standard speed 30 40 60 80 100 120 Allowable error on tachograph 2.5 3.0 3.0 3.5 4.5 4.5
+16.5.1.2,The allowable error of driving distance records: 2 km per 100 km.
+16.5.1.3,The allowable error of driving time records:
+16.5.1.3.1,Mechanical type: 5 minutes for less than two day-use. [5+2(N-1)] minutes for N day-use equal or driving above two days.
+16.5.1.3.2,Electric type: 4 minutes for less than two day-use. [4+2(N-1)] minutes for N day-use equal or above two days.
+16.5.2,Environmental test:
+16.5.2.1,"Temperature characteristics: in the range of 15O C to 60O C (the humidity (RH) at 60O C is approximate 50%), no abnormal condition in any parts. The record deviation shall comply with the requirements specified below:"
+16.5.2.1.1,"Transient speed: for 60 km/hr, within 6 km of deviation. "
+16.5.2.1.2,Driving distance: within 1 km at the driving distance of 100 km.
+16.5.2.1.3,"Driving-time deviation at 24 hrs: within 3 minutes for mechanical tachograph, and within 2 minutes for electric tachograph."
+16.5.2.2,"Temperature-enduring characteristics: staying for one hour under the environment of 70oC and 30oC, the tachograph shall have no abnormal condition in any parts. Then performs the accuracy tests specified above, the allowable errors of transient speed, driving distance and driving time shall comply with the respective requirements of accuracy defined above."
+16.5.2.3,"Vibration endurance characteristics: putting the tachograph on the vibration table under normal installing status, feeds in recording papers and activates it therewith, the driving shaft is rotated on 80% of the full-scale speed. Making vibration in the up-down direction (4 hrs), forward-backward direction (2 hrs) and right-left direction (2 hrs) with the vibrating frequency of 33 Hz and full-scale amplitude of 2 mm. The tachograph shall have no abnormal condition in any parts. The records of allowable errors for transient speed, driving distance and driving time, compared with pre-test, shall meet following requirements: Transient speed: with 3% of full-scale. Driving distance: within 1 km at the driving distance of 100 km. Driving-time deviation at 24 hrs: within 3 minutes for mechanical tachograph, and within 2 minutes for electric tachograph."
+16.5.3,"Durability test: install the tachograph under normal installing status, operate it with 80% of the full-scale speed for 30,000 km continuously, the tachograph shall have no abnormal condition in any parts. The records of allowable errors for transient speed, driving distance and driving time shall be within the range of the following requirements:"
+16.5.3.1,Transient speed: within 3% of full-scale.
+16.5.3.2,Driving distance: within 1 km at the driving distance of 100 km.
+16.5.3.3,"Driving-time deviation at 24 hrs: within 3 minutes for mechanical type, and within 2 minutes for electric type."
+16.5.4,"Alteration-proof design: shall be difficult altering the internal mechanism performed externally, to fulfill the purpose of alteration-proof."

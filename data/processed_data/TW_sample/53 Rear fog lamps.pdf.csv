@@ -1,0 +1,63 @@
+Index,Text
+53,Rear fog lamps Refer to: R38 00-S17
+53.1,Effective date and Scope:
+53.1.1,"Effective date from 2008//1/1, new types of rear fog lamp using in vehicles of category symbols M, N and O, and from 2010/1/1 all types of rear fog lamps using in vehicles of category symbols M, N and O, shall comply with this regulation (according  Paragraph-, it shall exclude Paragraph-)and shall be use bulbs that is conform with Filament lamps light sources"" of this Direction."
+53.1.2,"Effective date from 2009/1/1, new types of rear fog lamp using in vehicles of category symbols L3, and from 2011/1/1 all types of rear fog lamp using in vehicles of category symbols L3 and L5, shall comply with this regulation (according to 53.1.3, it shall exclude Paragraph- ) and shall be use bulbs that is conform with Filament lamps of this Direction."
+53.1.3,"Effective date from 2017/1/1, new types of rear fog lamp using in vehicles of category symbols M, N, O, L3 and L5, and from 2019/1/1, existing types of rear fog lamp using in vehicles of category symbols M, N, O, L3 and L5 , except the applicants applying for low volume safety approval and applying for vehicle-by-vehicle low volume, shall provide documents declared to conform to"
+53.2.1,"of this regulation, and certification institution may do a reality check when necessary."
+53.1.4,The applicants applying for low volume safety approval could exempt from Regulation of Rear fog lamps except large passenger vehicle and child-only vehicle.
+53.1.5,"Applying for vehicle-by-vehicle low volume safety approval, the vehicle could exempt from regulation of Rear fog lamps."
+53.2,"""Rear fog lamp"" means a lamp conform to"
+53.2.1,Specifications marked and used to make the vehicle more easily visible from the rear by giving a red signal of greater intensity than the rear position (side) lamps; 
+53.2.1,Specifications marked
+53.2.1.1,Means the marks shall be clearly legible on the outside of the marking material and shall be indelible to include below:
+53.2.1.1.1,"Brand (or marking), type of replaceable light sources (or MD (or MODULE) the light source module specific identification code)."
+53.2.1.1.2,"In case of lamps with an electronic light source control gear or a variable intensity control and/or non-replaceable light sources and/or light source module(s), bear the marking of the rated voltage or range of voltage and rated wattage."
+53.2.1.1.3,"The light source module must to mark Brand (or marking), MD (or MODULE) the light source module specific identification code, rated voltage (or ranged voltage) and rated wattage. However this provision does not apply to the LED is non-replaceable."
+53.2.1.1.4,An electronic light source control gear or a variable intensity control being part of the lamp but not included into the lamp body shall bear the name of the manufacturer and its identification number.
+53.2.1.1.5,"The additional symbol ""F"" followed by the Figure ""1"" when the device produces steady luminous intensity and by the Figure ""2"" when the device produces variable luminous intensity (figure as below , a is at least 5 mm)."
+53.2.1.1.6,The mark and the symbol referred to  Paragraph- .above shall be indelible and shall be clearly legible even when the rear fog lamp is fitted to the vehicle.
+53.3,Rear fog lamps shall according to suitable variants and range of principle as below
+53.3.1,The same trade name or mark;
+53.3.2,"The same characteristics of the optical system (levels of intensity, light distribution angles, category of light source, light  source module, etc.), howeverif bulbs or filters color is change that it doesnt mean to change the variants."
+53.3.3,"The same variable intensity control, if any."
+53.4,Luminosity Test
+53.4.1,Test methods: follow Paragraph-.
+53.4.1.1,"All measurements shall be carried out with uncoloured standard lamps of the types prescribed for the device, adjusted to produce the normal luminous flux prescribed for those types of lamps."
+53.4.1.2,"All measurements on lamps equipped with non-replaceable light sources (filament amps and other) shall be made at 6.75 V, 13.5 V or 28.0 V respectively."
+53.4.1.3,"In the case of light sources supplied by a special power supply, the above test voltages shall be applied to the input terminals of that power supply. The test laboratory may require from the manufacturer the special power supply needed to supply the light sources."
+53.4.2,Test standard
+53.4.2.1,"The intensity along the H and V axes, between 10 degrees to the left and 10 degrees to the right and between 5 degrees up and 5 degrees down, shall not be less than 150 cd."
+53.4.2.2,"If visual examination of a light appears to reveal substantial local variations of intensity, a check shall be made to ensure that, outside the axes, no intensity measured within the rhombus defined by the extreme directions of measurement is below 75 cd (see diagram below)."
+53.4.2.3,The intensity of the light emitted in all directions in which the light(s) can be observed shall not exceed 300 cd for a device with steady luminous intensity (F or F1) and 840 cd for a device with variable luminous intensity (F2).
+53.4.2.4,"In the case of a single lamp containing more than one light source, the lamp shall comply with the minimum intensity  required when any one light source has failed and when all light sources are illuminated the maximum intensities shall not be exceeded."
+53.4.2.5,"For the rear fog lamp of category F2p·luminous intensity more than the maximum value of category F or F1p¸, in case of failure of the variable intensity control regulating the variable luminous intensity, the requirements of steady luminous intensity of category F or F1 shall be fulfilled automatically."
+53.4.2.6,The variable intensity control shall not generate signals which cause luminous intensities as below:
+53.4.2.6.1,outside the range specified  Paragraph- Paragraph- above Paragraph- exceeding the category F or F1 maximum specified  Paragraph-: (a) for systems depending only on daytime and night time conditions: under night time conditions; (b) for other systems: under standard conditions.
+53.5,Heat resistance test
+53.5.1,Test Measures
+53.5.1.1,"The lamp must be subjected to a one-hour test of continuous operation following a warm-up period of 20 minutes. The ambient temperature shall be 23 degrees C +/- 5 degrees C. The lamp used shall be a lamp of the category prescribed for the lamp, and shall be supplied with a current at a voltage such that it gives the specified average power at the corresponding test voltage."
+53.5.1.2,"Where only the maximum power is specified, the test shall be carried out by regulating the voltage to obtain a power equal to 90 per cent of the specified power."
+53.5.1.3,"In the case of light sources operated by an electronic control gear to obtain variable luminous intensity, the test shall be carried out under the conditions given over 90 percent of the higher luminous intensity."
+53.5.2,"Test standard  After the lamp has been stabilized at the ambient temperature, no distortion, deformation, cracking or colour modification shall be perceptible."
+53.6,"Color CoordinatepÉThe colour of the light, which shall be measured under conditions described  Paragraph-. 7 The colorimetric characteristics of the light in the distribution range in Fig. 1 shall be red defined in ng and light- of Directions. Outside this field no sharp variation of colour shall be observed. This requirement also applies to range of variable light of category F2 rear fog lamps. For the lamps with non-replaceable light sourcep·filament lamp or other p¸, the measurement shall be carried out with fitted light source"
+53.7,Test conditions for each measuring
+53.7.1,"All measurements, photometric and colorimetric, on lamps equipped with non-replaceable light sources (filament lamps and others) shall be made at 6.75 V, 13.5 V or 28.0 V, respectively."
+53.7.2,"In case of a lamp with replaceable light source, if not supplied by an electronic light source control gear or a variable intensity control, with an uncolored or colored standard light source of the category prescribed for the device, supplied with the voltage (a) In the case of filament lamp(s), that is necessary to produce the reference luminous flux required for that category of filament lamp, (b) In the case of LED light sources of 6.75 V, 13.5 V or 28.0 V; the luminous flux value produced shall be corrected. The correction factor is the ratio between the objective luminous flux and the mean value of the luminous flux found at the voltage applied. (c) When equipped with light source(s) at 6.75 V, 13.5 V or 28.0 V, the luminous intensity values produced shall be corrected. For filament lamps the correction factor is the ratio between the reference luminous flux and the mean value of the luminous flux found at the voltage applied (6.75 V, 13.5 V or 28.0 V). When equipped with LED light source(s) at 6.75 V, 13.5 V or 28.0  V; the luminous flux value produced shall be corrected. The correction factor is the ratio between the objective luminous flux and the value of the luminous flux found at the voltage applied. The actual luminous fluxes of each light source used shall not deviate more than +/- 5 per cent from the mean value. Alternatively and in case of filament lamps only, a standard filament lamp may be used in turn, in each of the individual positions, operated at its reference flux, the individual measurements in each position being added together."
+53.7.3,"In the case of a system that uses an electronic light source control gear or a variable intensity control, being part of the lamp 6/ applying at the input terminals of the lamp the voltage declared by the manufacturer or, if not indicated, 6.75 V, 13.5 V or 28.0 V respectively."
+53.7.4,"In the case of a system that uses an electronic light source control gear or a variable intensity control, not being part of the lamp the voltage declared by the manufacturer shall be applied to the input terminals of the lamp."
+53.7.5,The technical service shall require from the manufacturer the light source control gear or a variable intensity control needed to supply the light source and the applicable functions.
+53.7.6,"However, in the case of light sources operated by a variable intensity control to obtain variable luminous intensity, photometric measurements shall be performed according to the applicant's description."
+53.7.7,"For any lamp except those equipped with filament lamps, the luminous intensities, measured after one minute and after 30 minutes of operation, shall comply with the minimum and maximum requirements. The luminous intensity distribution after one minute of operation can be calculated from the luminous intensity distribution after 30 minutes of operation by applying at each test point the ratio of luminous intensities measured at HV after one minute and after 30 minutes of operation."
+53.7.8,The limits of the apparent surface in the direction of the reference axis of a light- signalling device shall be determined.  Figure 1
+53.8,In the case of replaceable light sources::
+53.8.1,"Any category or categories of light sources approved according to Regulation may be used, it also could ponder related special restriction of Filament lamps of Directions ."
+53.8.2,The design of the device shall be such that the filament lamp can be fixed in no other position but the correct one.
+53.8.3,The filament lamp holder shall conform to the characteristics given in IEC Publication 60061.
+53.8.4,"The light source(s) holder shall conform to the characteristics given in IEC Publication 60061, and the holder data sheet relevant  to the category of light source used, applies."
+53.9,"In the case of light source modules, it shall be checked that:"
+53.9.1,The design of the light source module(s) shall be such as:
+53.9.1.1,that each light source module can only be fitted in no other position than the designated and correct one and can only be removed with the use of tool(s);
+53.9.1.2,"If there are more than one light source module used in the housing for a device, light source modules having different characteristics can not be interchanged within the same lamp housing."
+53.9.2,The light source module(s) shall be tamperproof.
+53.9.3,"A light source module shall be so designed that regardless of the use of tool(s), it shall not be mechanically interchangeable with any replaceable approved light source."

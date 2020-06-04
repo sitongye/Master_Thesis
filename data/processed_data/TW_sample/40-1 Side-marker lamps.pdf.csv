@@ -1,0 +1,49 @@
+Index,Text
+40-1,Side-marker lampsEffective date from 2011/1/1 Refer to: R91 00-R3-C1
+40-1.1,Effective date and Scope:
+40-1.1.1,"Effective date from 2011/1/1, new types of side-marker lamps using in vehicles of category symbols M, N and O, it shall comply with this regulation and shall b of this Direction (according  Paragraph-, it shall exclude Paragraph-)."
+40-1.1.2,"Effective date from 2013/1/1, all types of side-marker lamps using in vehicles of category symbols M, N and O, which was confirmed to 40 side-marker lamps of this Directions and its light source is red, it shall conform to the stipulation of red side-marker lamps luminosity and irradiated angle in this regulation."
+40-1.1.3,"Effective date from 2017/1/1, new types of side-marker lamps using in vehicles of category symbols M, N and O, and from 2019/1/1, existing types of side-marker lamps using in vehicles of category symbols M, N and O, except the applicants applying for low volume safety approval and applying for vehicle-by-vehicle low volume, shall provide documents declared to conform to"
+40-1.2.1,"of this regulation, and certification institution may do a reality check when necessary."
+40-1.1.4,"For the vehicles imported by authorities, organizations, schools or individuals for self-use only could exempt from regulation of side-marker lamps. Effective date from 2017/1/1, for the vehicles imported by authorities, organizations, institutes or individuals for self-use, if the vehicle registered and owned by the importer for more than six months from abroad, it could exempt from the regulation -marker lamps."
+40-1.1.5,"For the low volume type safety approval, maximum 20deviation of the levels of intensity standard of this test is allowed, and if the light source is LED, it can omit the failure conditions test."
+40-1.2,Side-marker lamps: means a lamp conform to
+40-1.2.1,Specifications marked and used to indicate the presence of the vehicle when viewed from the side.
+40-1.2.1,Specifications marked 
+40-1.2.1.1,Means the marks shall be clearly legible on the outside of the marking material and shall be indelible to include below:
+40-1.2.1.1.1,"Brand (or marking), type of replaceable light sources (and/or MD (or MODULE) the light source module specific identification code), non-replaceable light sources or light source module(s), bear the marking of the rated voltage (or range of voltage) and rated wattage."
+40-1.2.1.1.2,"The light source module must to mark brand (or marking), MD (or MODULE) the light source module specific identification code, rated voltage (or ranged voltage)and rated wattage. However this provision does not apply to the LED is non-replaceable."
+40-1.2.1.1.3,"It expressed in the letter ""SM1"" or ""SM2""."
+40-1.2.1.1.4,"On devices with reduced light distribution in conformity  Paragraph- to this Regulation a vertical arrow starting from a horizontal segment and directed downwards (figure as below , a is at least 5 mm)."
+40-1.2.1.1.5,"The approval mark referred to  Paragraph- Paragraph-. shall be clearly legible and indelible. It may be placed on an inner or outer part (transparent or not) of the device which cannot be separated from the transparent part of the device emitting the light. In any case the marking shall be visible when the device is fitted on the vehicle or when a movable part (such as the hood, trunks lid which belong to vehicles liftable panel ) is opened."
+40-1.3,Side-marker lamps shall according to suitable variants and range of principle
+40-1.3.1,The same brand
+40-1.3.2,"The same characteristics of the optical system (levels of intensity, light distribution angles, category of light source, light source module, etc.) , howeverif bulbs or filters color is change that it doesnt mean to change the variants."
+40-1.4,Photometric measurements
+40-1.4.1,"SM1 Category of side-marker lamps:  Minimum values: the reference axis, at which it shall be 4.0 cd. SM2 Category of side-marker lamps: Minimum values: the reference axis, at which it shall be 0.6 cd. (see Table 1, Figure1 and Figure 2)."
+40-1.4.2,The vertical angles required for light distribution in space are indicated in Fig 3; the horizontal angle of SM1 is indicated in Fig 4; the horizontal angle of SM2 is indicated in Fig 5
+40-1.4.3,"SM1 and SM2 Category of side-marker lamps: Minimum values: 0.6 cd, at any point other than the reference axis Maximum values: 25.0 cd, at any point"
+40-1.4.4,In the case of a lamp containing more than one light source: the lamp shall comply with the minimum intensity required when any one light source has failed; when all light sources are illuminated the maximum intensity specified may not be exceeded.
+40-1.4.5,All light sources which are connected in series are considered to be one light source.
+40-1.4.6,The angle of 10 degrees below the horizontal may be reduced to 5 degrees in case of lamps with a mounting height with its H plane less than 750 mm above the ground.
+40-1.4.7,"In the case of light source modules, it shall be checked that:"
+40-1.4.7.1,The design of the light source module(s) shall be such as:
+40-1.4.7.1.1,that each light source module can only be fitted in no other position than the designated and correct one and can only be removed with the use of tool(s);
+40-1.4.7.1.2,"If there are more than one light source module used in the housing for a device, light source modules having different characteristics can not be interchanged within the same lamp housing."
+40-1.4.7.2,The light source module(s) shall be tamperproof.
+40-1.4.7.3,"A light source module shall be so designed that regardless of the use of tool(s), it shall not be mechanically  interchangeable with any replaceable approved light source."
+40-1.4.8,Photometric test
+40-1.4.8.1,"For replaceable light sources: (a) In the case of filament lamps, that is necessary to produce the reference luminous flux required for that category of filament lamp; (b) In the case of LED light sources of 6.75 V or 13.5 V; the luminous flux value produced shall be corrected. The correction factor is the ratio between the objective luminous flux and the mean value of the luminous flux found at the voltage applied. (c) When equipped with light sources at 6.75 V, 13.5 V or 28.0 V, the luminous intensity values produced shall be corrected. For filament lamps the correction factor is the ratio between the reference luminous flux and the mean value of the luminous flux found at the voltage applied (6.75 V, 13.5 V or 28.0 V). For LED light sources the correction factor is the ratio between the objective luminous flux and the mean value of the luminous flux found at the voltage applied (6.75 V, 13.5 V or 28.0 V). The actual luminous fluxes of each light source used shall not deviate more than +/- 5 per cent from the mean value. Alternatively and in case of filament lamps only, a standard filament lamp may be used in turn, in each of the individual positions, operated at its reference flux, the individual measurements in each position being added together."
+40-1.5,"Trichromatic coordinate: The colour of the light emitted inside the field shall be amber defined in light- of this Directionsp·see Figure 1 and Figure 2p¸, outside this field, no sharp variation of colour shall be observed. These requirements shall apply within the range of variable luminous intensity produced by testing conditions. However, for lamps equipped with non-replaceable light sources (filament lamps and other), the colorimetric characteristics should be verified with the light sources present in the lamp."
+40-1.6,In the case of replaceable light source(s):
+40-1.6.1,"Any category or categories of light source(s) approved according to Filament lamps may be used, its shall concern about relevant special restriction. "
+40-1.6.2,The design of the device shall be such that the light source(s) can be fixed in no other position but the correct one.
+40-1.6.3,"The light source(s) holder shall conform to the characteristics given in IEC Publication 60061. The holder data sheet relevant to the category of light source used, applies. Figure1. SM1 light distribution Figure2. SM2 light distribution  Figure 3. Minimum vertical angles, SM1 and SM2 Figure 4. Minimum horizontal angles, SM1  Figure 5. Minimum horizontal angles, SM2 Table 1. The requirement of intensity and angle field of light emitted by side-marker lamps Side-marker lamp category SM1 SM2 Minimum intensity In the axis of reference 4.0 cd 0.6 cd Within the specified angular field, other than above 0.6 cd 0.6 cd Maximum intensity 25.0 cd 25.0 cd Angular field Horizontal ±45° ±30° Vertical ±10° ±10° "
+40-1.7,Test procedure
+40-1.7.1,Measuring condition for each test:
+40-1.7.1.1,"All measurements, photometric and colorimetric shall be carried out with an uncoloured or coloured standard light source of the category prescribed for the device, supplied with the voltage:"
+40-1.7.1.1.1,In the case of lamps with non-replaceable light sources: 6.75 V and 13.5 V respectively.
+40-1.7.1.1.2,"In the case of a system that uses an electronic light source control gear being part of the lamp1 applying at the input terminals of the lamp the voltage declared by the manufacturer or, if not indicated, 6.75 V, 13.5 V or 28.0 V, respectively."
+40-1.7.1.1.3,"In the case of a system that uses an electronic light source control gear not being part of the lamp, the voltage declared by the manufacturer shall be applied to the input terminals of the lamp."
+40-1.7.2,The test laboratory shall require from the manufacturer the light source control gear needed to supply the light source and the applicable functions.
+40-1.7.3,The limits of the apparent surface in the direction of the reference axis of a lightsignalling device shall be determined.
