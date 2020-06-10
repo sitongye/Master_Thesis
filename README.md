@@ -60,4 +60,5 @@ modelling of relation extration consists of following steps:
 The architecture is summarized as follow:
 <img src="archiv/relation extraction.png">
 
-
+A model consisting of BERT embedding and Bi-LSTM is trained by train.py by calling help functions in Relation_Extraction.py
+Demo is available at [example config](relation_extraction/Relation Extraction.ipynb)
