@@ -29,7 +29,7 @@ The directory includes following files:
  3. word2vec
  4. doc2vec
  
-correspondent configurations van be done under config YAML file in config directory. Supported Configuations include:
+correspondent configurations can be done under config YAML file in config directory. Supported Configuations include:
 1. File location
   1. data folder
   2. document pairing file folder
